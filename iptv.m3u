@@ -16,13 +16,21 @@ http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel46/inde
 #EXTINF:-1 group-title="本地,#genre#",CHC家庭影院
 https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.m3u8
 #EXTINF:-1 group-title="本地,#genre#",CHC家庭影院
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B
+#EXTINF:-1 group-title="本地,#genre#",CHC家庭影院
+http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4&IA%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
 #EXTINF:-1 group-title="本地,#genre#",CHC高清电影
 https://epg.pw/stream/3bcacb2ddf662037b37dee63df19deeeffab03d9025530ab692946de8d43966c.m3u8
 #EXTINF:-1 group-title="本地,#genre#",CHC高清电影
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B
+#EXTINF:-1 group-title="本地,#genre#",CHC高清电影
+http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04&%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
+#EXTINF:-1 group-title="本地,#genre#",CHC高清电影
+https://epg.pw/stream/3138cb1a1dc73bdf6ce7e465442b95eee3f6647808830db5a6a5d62f7ab61a98.ctv
 #EXTINF:-1 group-title="本地,#genre#",CHC动作电影
 https://epg.pw/stream/9e5dbc0cbb15ba574f44e0d67c54cff2c85a7ed97dbb73e3b2101b26fec45cf1.m3u8
+#EXTINF:-1 group-title="本地,#genre#",CHC动作电影
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 #EXTINF:-1 group-title="本地,#genre#",CHC动作电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 #EXTINF:-1 group-title="本地,#genre#",斗鱼19
@@ -53,6 +61,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228127/index.m3u8
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 group-title="央视高清,#genre#",CCTV-4K
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=cctv4k
+#EXTINF:-1 group-title="央视高清,#genre#",CCTV-4K
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 group-title="央视高清,#genre#",测试
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 #EXTINF:-1 group-title="央视高清,#genre#",测试
@@ -61,6 +71,8 @@ http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000202/ind
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
 #EXTINF:-1 group-title="央视高清,#genre#",CCTV-8K
 http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
+#EXTINF:-1 group-title="央视高清,#genre#",CCTV-8K
+https://tv.cry33.com/ys4k.php?id=8k
 #EXTINF:-1 group-title="4K超高清,#genre#",纯享4K
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
 #EXTINF:-1 group-title="4K超高清,#genre#",斗鱼4K影院
@@ -75,6 +87,8 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/ind
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
 #EXTINF:-1 group-title="4K超高清,#genre#",4K影视
 http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
+#EXTINF:-1 group-title="4K超高清,#genre#",4KUHD
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/
 #EXTINF:-1 group-title="4K超高清,#genre#",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="4K超高清,#genre#",苏州4K
@@ -89,6 +103,8 @@ http://php.jdshipin.com:8880/bst.php?id=hxjc4k/15000000
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000009455
 #EXTINF:-1 group-title="4K超高清,#genre#",爱自然
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="4K超高清,#genre#",Clarity 4K
+https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
 #EXTINF:-1 group-title="4K超高清,#genre#",loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 group-title="4K超高清,#genre#",江苏8K
@@ -136,6 +152,8 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",翡翠台
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct
 #EXTINF:-1 group-title="港澳台,#genre#",翡翠台
+https://iptv.hiper25.com/TVB/video.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",翡翠台
 http://120.238.13.198:8000/hls/21/index.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",翡翠台
 https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
@@ -151,6 +169,8 @@ http://1.65.195.85:9981/stream/channelid/1803382046?ticket=81e3b97df2839ef49852f
 http://r.jdshipin.com/ZQ4kN
 #EXTINF:-1 group-title="港澳台,#genre#",明珠台
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt
+#EXTINF:-1 group-title="港澳台,#genre#",明珠台
+https://iptv.hiper25.com/Pearl/video.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",TVB星河
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 #EXTINF:-1 group-title="港澳台,#genre#",TVB星河
@@ -171,6 +191,8 @@ https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 http://r.jdshipin.com/n2YZI
 #EXTINF:-1 group-title="港澳台,#genre#",澳视澳门
 http://61.244.22.5/ch1/ch1.live/index.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",澳视澳门
+https://iptv.hiper25.com/TDM/video.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",澳视卫星
 http://61.244.22.5/ch3/ch3.live/index.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",澳门Macau
@@ -253,8 +275,12 @@ http://php.jdshipin.com:8880/1905.php?id=1905dy
 http://php.jdshipin.com:8880/1905.php?id=1905dy2
 #EXTINF:-1 group-title="国内影视,#genre#",黑莓电影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
+#EXTINF:-1 group-title="国内影视,#genre#",黑莓电影
+http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 #EXTINF:-1 group-title="国内影视,#genre#",黑莓动画
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:-1 group-title="国内影视,#genre#",黑莓动画
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8
 #EXTINF:-1 group-title="国内影视,#genre#",广州影视
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=gzys
 #EXTINF:-1 group-title="国内影视,#genre#",北京影视
@@ -289,6 +315,8 @@ http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000063
 #EXTINF:-1 group-title="国内影视,#genre#",iQIYI HD
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/141
+#EXTINF:-1 group-title="体育台,#genre#",足球频道
+http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 #EXTINF:-1 group-title="体育台,#genre#",广东体育
 https://epg.pw/stream/ff6983ce34a2ad295545550992df113dfeb39a061f903a8cf4dd426451c7530b.m3u8
 #EXTINF:-1 group-title="体育台,#genre#",劲爆体育
@@ -806,6 +834,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/1/224/32212284
 #EXTINF:-1 group-title="央视,#genre#",CCTV17
 http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
 #EXTINF:-1 group-title="央视,#genre#",兵器科技
+https://epg.pw/stream/12b23b4e0f5af33226fef26d275780d411ed85bc0ccabf0b52c86c7233d06a7a.ctv
+#EXTINF:-1 group-title="央视,#genre#",兵器科技
 http://39.134.18.193/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
 #EXTINF:-1 group-title="央视,#genre#",兵器科技
 http://cdn.jdshipin.com:8880/ysp.php?id=bqkj
@@ -814,19 +844,27 @@ http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/inde
 #EXTINF:-1 group-title="央视,#genre#",电视指南
 http://cdn.jdshipin.com:8880/ysp.php?id=dszn
 #EXTINF:-1 group-title="央视,#genre#",央视台球
-http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+https://epg.pw/stream/fcd995b82f8bed167a7f794e79f1e159e832dd277bab3a4e8a3b537a77b954da.ctv
+#EXTINF:-1 group-title="央视,#genre#",央视台球
+http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
 #EXTINF:-1 group-title="央视,#genre#",央视台球
 http://cdn.jdshipin.com:8880/ysp.php?id=ystq
 #EXTINF:-1 group-title="央视,#genre#",央视台球
-https://epg.pw/stream/fcd995b82f8bed167a7f794e79f1e159e832dd277bab3a4e8a3b537a77b954da.ctv
+https://live.goodiptv.club/api/cqyx.php?id=ystqHD
+#EXTINF:-1 group-title="央视,#genre#",高尔夫网球
+https://epg.pw/stream/b7bea242512cacd749fdc6300350d422f59ac8d08bc703b55169535d01668344.ctv
 #EXTINF:-1 group-title="央视,#genre#",高尔夫网球
 http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 #EXTINF:-1 group-title="央视,#genre#",高尔夫网球
 http://cdn.jdshipin.com:8880/ysp.php?id=gefwq
 #EXTINF:-1 group-title="央视,#genre#",世界地理
+https://epg.pw/stream/fad71b698d8919890b11d5c8c1ae156c58884bc231d53247b3490b89e65293de.ctv
+#EXTINF:-1 group-title="央视,#genre#",世界地理
 http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 #EXTINF:-1 group-title="央视,#genre#",世界地理
 http://cdn.jdshipin.com:8880/ysp.php?id=sjdl
+#EXTINF:-1 group-title="央视,#genre#",怀旧剧场
+https://epg.pw/stream/58ae31cf740793564420e363abcd7e3f6ae3ae75be7c4eaf3676c103471ba907.ctv
 #EXTINF:-1 group-title="央视,#genre#",怀旧剧场
 http://39.134.18.196/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 #EXTINF:-1 group-title="央视,#genre#",怀旧剧场
@@ -836,21 +874,31 @@ http://39.134.18.193/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/inde
 #EXTINF:-1 group-title="央视,#genre#",文化精品
 http://cdn.jdshipin.com:8880/ysp.php?id=whjp
 #EXTINF:-1 group-title="央视,#genre#",风云剧场
+https://epg.pw/stream/e844a95463a8060541dd5b646561a445ab7356dae19efe994ae4571bac9b48d6.ctv
+#EXTINF:-1 group-title="央视,#genre#",风云剧场
 http://39.134.18.194/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 #EXTINF:-1 group-title="央视,#genre#",风云剧场
 http://cdn.jdshipin.com:8880/ysp.php?id=fyjc
+#EXTINF:-1 group-title="央视,#genre#",第一剧场
+https://epg.pw/stream/1ea56d25e481bf73442ba584c8652187d7a63708dd04f941771b31b6866cfc1c.ctv
 #EXTINF:-1 group-title="央视,#genre#",第一剧场
 http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 #EXTINF:-1 group-title="央视,#genre#",第一剧场
 http://cdn.jdshipin.com:8880/ysp.php?id=dyjc
 #EXTINF:-1 group-title="央视,#genre#",风云音乐
+https://epg.pw/stream/bd8fd0998187cf55ed8fa997a5b36bf90ea3b0f88bff12997276bb01d86a880a.ctv
+#EXTINF:-1 group-title="央视,#genre#",风云音乐
 http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226953/index.m3u8
 #EXTINF:-1 group-title="央视,#genre#",风云音乐
 http://cdn.jdshipin.com:8880/ysp.php?id=fyyy
 #EXTINF:-1 group-title="央视,#genre#",风云足球
+https://epg.pw/stream/429f44be8f007cfd67bf72ba165eb20871064218965c65efd1207c1c112b371c.ctv
+#EXTINF:-1 group-title="央视,#genre#",风云足球
 http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 #EXTINF:-1 group-title="央视,#genre#",风云足球
 http://cdn.jdshipin.com:8880/ysp.php?id=fyzq
+#EXTINF:-1 group-title="央视,#genre#",女性时尚
+https://epg.pw/stream/8824c725ad2a6ed901928f0d538c95bc88311147b773e0c16a990bf950b091c4.ctv
 #EXTINF:-1 group-title="央视,#genre#",女性时尚
 http://39.134.18.193/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 #EXTINF:-1 group-title="央视,#genre#",女性时尚
@@ -873,6 +921,8 @@ http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000528
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225602/index.m3u8
 #EXTINF:-1 group-title="央视,#genre#",CGTN记录
 https://livedoc.cgtn.com/500d/prog_index.m3u8
+#EXTINF:-1 group-title="央视,#genre#",CGTN记录
+http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 #EXTINF:-1 group-title="央视,#genre#",CGTN西语
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:-1 group-title="央视,#genre#",CGTN法语
@@ -901,6 +951,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225728/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",北京卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8
+#EXTINF:-1 group-title="卫视,#genre#",北京卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",天津卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225740/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",天津卫视
@@ -919,6 +971,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",浙江卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8
+#EXTINF:-1 group-title="卫视,#genre#",浙江卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",江苏卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226310/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",江苏卫视
@@ -929,18 +983,24 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225735/index.m3u8
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226345/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",东方卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb21]/ott.mobaibox.com/PLTV/3/224/3221228425/index.m3u8
+#EXTINF:-1 group-title="卫视,#genre#",东方卫视
+http://[2409:8087:1a01:df::4025]/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",安徽卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",安徽卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",广东卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1 group-title="卫视,#genre#",香港卫视
+http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="卫视,#genre#",湖北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226477/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",湖南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
+#EXTINF:-1 group-title="卫视,#genre#",湖南卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226307/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",黑龙江卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",辽宁卫视
@@ -975,6 +1035,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",厦门卫视
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?1
+#EXTINF:-1 group-title="卫视,#genre#",厦门卫视
+http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?IAS
 #EXTINF:-1 group-title="卫视,#genre#",海南卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",海南卫视
@@ -991,6 +1053,8 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/ind
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031118
 #EXTINF:-1 group-title="卫视,#genre#",广西卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb05]/ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
+#EXTINF:-1 group-title="卫视,#genre#",广西卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",河北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",河北卫视
@@ -1083,6 +1147,8 @@ http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225653/index.m3u8
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0T0ZQXwaiVktPr6ILPKXqwOw2VoxnxHvBSRSzCCC3szSwIgrD0rUpRXeaqChwLXCf0
 #EXTINF:-1 group-title="卫视,#genre#",嘉佳卡通
 http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000343
+#EXTINF:-1 group-title="卫视,#genre#",嘉佳卡通
+https://php.17186.eu.org/gdtv/web/jjkt.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",北京纪实
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",卡酷少儿
@@ -1091,12 +1157,20 @@ http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=7851974109718180595
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 #EXTINF:-1 group-title="地方台,#genre#",湖南电影
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=7884242846753128038
+#EXTINF:-1 group-title="地方台,#genre#",湖南电影
+http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
 #EXTINF:-1 group-title="地方台,#genre#",湖南电视剧
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=8765482907954673867
+#EXTINF:-1 group-title="地方台,#genre#",湖南电视剧
+http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
 #EXTINF:-1 group-title="地方台,#genre#",湖南娱乐
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6427893650335440392
+#EXTINF:-1 group-title="地方台,#genre#",湖南娱乐
+http://222.241.154.37:9901/tsfile/live/23023_1.m3u8
 #EXTINF:-1 group-title="地方台,#genre#",湖南国际
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=5015828848322021526
+#EXTINF:-1 group-title="地方台,#genre#",湖南国际
+http://222.241.154.37:9901/tsfile/live/23024_1.m3u8
 #EXTINF:-1 group-title="地方台,#genre#",上海新闻综合
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031110
 #EXTINF:-1 group-title="地方台,#genre#",东方影视
@@ -1173,6 +1247,8 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title="国际频道,#genre#",CNN
 https://epg.pw/stream/bf9c7383dcea9ef705a2779742a6a1b2aae2ff582e0103bd2a7ecfba56f12c5d.m3u8
+#EXTINF:-1 group-title="国际频道,#genre#",FOX, News
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际频道,#genre#",FOX
 https://epg.pw/stream/724668a0a1764271453b0c848a67e26043c800512d587a6d45baaf1166a845bc.ctv
 #EXTINF:-1 group-title="国际频道,#genre#",FOX Sports 2
@@ -1181,12 +1257,22 @@ https://epg.pw/stream/04b4717d481db1d52d46ae3aa2dc1906d2e526140ec51a7d72f2a51989
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/21
 #EXTINF:-1 group-title="国际频道,#genre#",Cinemax
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/22
+#EXTINF:-1 group-title="国际频道,#genre#",AMC
+http://170.254.18.106/AMC/index.m3u8
 #EXTINF:-1 group-title="国际频道,#genre#",Animal Planet
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/45
 #EXTINF:-1 group-title="国际频道,#genre#",SONY MOVIES
 http://gmlive.ddns.net:5000/kun5g/kun5g2024/32
+#EXTINF:-1 group-title="国际频道,#genre#",Sky Sport
+https://donelfantastic.github.io/live/skysportsNz8.m3u8
+#EXTINF:-1 group-title="国际频道,#genre#",FIFA+
+https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
+#EXTINF:-1 group-title="国际频道,#genre#",Trace Sports
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 group-title="国际频道,#genre#",ESPN
 https://epg.pw/stream/1feb00c8dfa4f135e1f00a93533eeaca5650c3b96c647d96e729008e13833d5e.ctv
+#EXTINF:-1 group-title="国际频道,#genre#",Nat Geo
+http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
 #EXTINF:-1 group-title="国际频道,#genre#",亚洲新闻
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际频道,#genre#",亚洲新闻
