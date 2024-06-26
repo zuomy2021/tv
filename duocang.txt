@@ -1,0 +1,185 @@
+﻿{
+    "storeHouse": [
+        {
+            "sourceName": "💕自用仓库💕",
+            "sourceUrl": "https://raw.kkgithub.com/ztxiaoyao/tvbox/main/%E4%BF%AE%E6%94%B9%E7%89%88.txt "
+        },
+        {
+            "sourceName": "💕自用仓库💕",
+            "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/ztxiaoyao/tvbox/main/%E5%A4%9A%E4%BB%93%E5%BA%93%E6%8E%A5%E5%8F%A3.txt "
+        },
+       {
+	            "sourceName": "if仓库",
+	            "sourceUrl": "https://raw.kkgithub.com/alantang1977/X/main/if.json"
+	        },
+
+        {
+            "sourceName": "雷蒙影视多仓库",
+            "sourceUrl": "http://152.32.170.60/n3rd/N3RD/raw/branch/master/JN/%e9%9b%b7%e8%92%99%e5%bd%b1%e8%a7%86%e4%b8%93%e7%ba%bf.json"
+        },
+       {
+            "sourceName": "柠檬多仓库",
+            "sourceUrl": "https://mirror.ghproxy.com/https://raw.githubusercontent.com/supermeguo/BoxRes/main/Myuse/lemon.json"
+        },
+        {
+            "sourceName": "摸摸🐟蜂蜜",
+            "sourceUrl": "http://fmys.top/online.json"
+        },
+       
+        {
+            "sourceName": "摸摸🐟心动",
+            "sourceUrl": "http://rihou.vip:666"
+        },
+        {
+            "sourceName": "摸摸🐟星辰",
+            "sourceUrl": "http://8.210.232.168/dc1.json"
+        },
+        {
+            "sourceName": "摸摸🐟朱师傅",
+            "sourceUrl": "https://d.kstore.space/download/5303/zhushifu/002.txt"
+        },
+        {
+            "sourceName": "摸摸🐟云星",
+            "sourceUrl": "http://itvbox.cc/可视TV/云星日记/仓库/api.json"
+        },
+        {
+            "sourceName": "摸摸🐟欧歌",
+            "sourceUrl": "http://tv.nxog.top/"
+        },
+                {
+            "sourceName": "永远的仓库",
+            "sourceUrl": "https://152.32.170.60/ystvy/yydsy/src/branch/master/x.txt"
+        },
+        {
+            "sourceName": "💚多多优选仓🍭软件接口🍭",
+            "sourceUrl": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/a.txt?ref=main"
+        },
+        {
+            "sourceName": "💛多多公众仓🍭完全免费🍭",
+            "sourceUrl": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/b.txt?ref=main"
+        },
+        {
+            "sourceName": "❤️多多聚合仓🍭严禁贩卖🍭",
+            "sourceUrl": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/c.txt?ref=main"
+        },
+        {
+            "sourceName": "💜多多预备仓🍭不做韭菜🍭",
+            "sourceUrl": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/ck/d.txt?ref=main"
+        },
+        {
+            "sourceName": "多多家庭仓",
+            "sourceUrl": "https://www.gitlink.org.cn/api/leevi0321/apps/raw/duo.json?ref=main"
+        },
+        {
+            "sourceName": "①🥝金鹰影视多仓库",
+            "sourceUrl": "http://530.my3v.work/99668.json"
+        },
+        {
+            "sourceName": "②🎎蚂蚁影视多仓库",
+            "sourceUrl": "https://pan.shangui.cc/f/KDpQc6/%EF%BB%BF%E8%9A%82%E8%9A%81%E7%AA%9D1%E5%B1%80.txt"
+        },
+        {
+            "sourceName": "③🥣沐大神呀多仓库",
+            "sourceUrl": "https://152.32.170.60/2011820123/tv/raw/commit/372531fb26fdd7f2af9451e97c79a63ab3d7835e/all.json"
+        },
+        {
+            "sourceName": "④🍚饭太硬多仓仓库",
+            "sourceUrl": "https://d.kstore.space/download/2904/236.txt"
+        },
+        {
+            "sourceName": "⑤🏮欧歌影视多仓库",
+            "sourceUrl": " http://tv.nxog.top/nxog/ou1.php?b=欧歌"
+        },
+        {
+            "sourceName": "⑥🥐阿松万事屋多仓",
+            "sourceUrl": "https://xs.magiclee.cn/jk/阿松万事屋多仓.txt "
+        },
+        {
+            "sourceName": "⑦🌟星星影视多仓库",
+            "sourceUrl": "http://154.3.2.66:8889/down/YgOQS9WjkF6R.txt"
+        },
+        {
+            "sourceName": "⑧🌴青木影视多仓库",
+            "sourceUrl": "http://530.my3v.work/qm.json"
+        },
+        {
+            "sourceName": "🌙月光优选仓",
+            "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/dc2.json"
+        },
+        {
+            "sourceName": "🌙月光大佬",
+            "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/d.txt"
+        },
+        {
+            "sourceName": "🌙月光宝盒仓",
+            "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/c.txt"
+        },
+        {
+            "sourceName": "🌙月光宝盒4.4多仓",
+            "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/ysdc.json"
+        },
+         {
+            "sourceName": "🌙月光宝盒应用合集",
+            "sourceUrl": " https://gh.con.sh/https://raw.githubusercontent.com/guot55/yg/main/pg/market.json"
+        },
+       
+        {
+            "sourceName": "⑨🕵 宋歌影视多仓库",
+            "sourceUrl": "http://tv.nxog.top/nxog/ou1.php?url=http://tv.nxog.top&b=装B小宋哥直播1http://v.nxog.top/jar/live.jpg"
+        },
+        {
+            "sourceName": "⑩🛀🏻 小白影视多仓库",
+            "sourceUrl": "http://39.101.135.137:8686/"
+        },
+        {
+            "sourceName": "11🆔 拾光影视多仓库",
+            "sourceUrl": "https://ghps.cc/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json"
+        },
+        {
+            "sourceName": "12🎇恒星影视多仓库",
+            "sourceUrl": "http://530.my3v.work/hxck.json"
+        },
+        {
+            "sourceName": "13💖心动影视多仓库",
+            "sourceUrl": "http://530.my3v.work/xdck.json"
+        },
+        {
+            "sourceName": "147⃣七星影视多仓库",
+            "sourceUrl": "http://tvkj.top/DC.txt"
+        },
+       
+        {
+            "sourceName": "16💠水大侠影视仓库",
+            "sourceUrl": "https://gitee.com/GK_6_0/json/raw/master/json.txt"
+        },
+        {
+            "sourceName": "17📺追剧吧影视多仓",
+            "sourceUrl": "https://jihulab.com/jw2/jyf/-/raw/main/jihu.json"
+        },
+        {
+            "sourceName": "18🛰智界库影视库",
+            "sourceUrl": "https://152.32.170.60/1018610504/feng/raw/branch/master/many.txt"
+        },
+        {
+            "sourceName": "19🥥拾光源口多仓库",
+            "sourceUrl": "https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/xmbjm/main/xmbjmdc.json"
+        },
+        {
+            "sourceName": "20🍡日后魔改多仓库",
+            "sourceUrl": "https://152.32.170.60/gk0746/pxy/raw/branch/master/1%e4%bb%93.json"
+        },
+        {
+            "sourceName": "21🎭陆哥多仓库",
+            "sourceUrl": "https://gitee.com/tanghengice/lugemovie/raw/master/lugemovie1.txt "
+        },
+        {
+            "sourceName": "22🍷蚂蚁影视二仓库",
+            "sourceUrl": "https://pan.shangui.cc/f/mBYNHb/%E8%9A%82%E8%9A%81%E7%AA%9D2%E5%B1%80.txt"
+        },
+        {
+            "sourceName": "23🍷蚂蚁影视三仓库",
+            "sourceUrl": "https://pan.shangui.cc/f/X2yqFd/%E8%9A%82%E8%9A%81%E7%AA%9D3%E5%B1%80.txt"
+        }
+        
+    ]
+}
