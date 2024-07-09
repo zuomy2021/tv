@@ -4,21 +4,25 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
 #EXTINF:-1 group-title="本地,#genre#",深圳卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
 #EXTINF:-1 group-title="本地,#genre#",深圳卫视
+https://tv.cry33.com/shenzhen.php?id=szws
+#EXTINF:-1 group-title="本地,#genre#",深圳卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225943/index.m3u8
 #EXTINF:-1 group-title="本地,#genre#",深圳卫视
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000176/index.m3u8?IAS
 #EXTINF:-1 group-title="本地,#genre#",深圳都市
 https://epg.pw/stream/42922b3bab314ce0217fdf746165de08e00d0556ebf961ee63049811baacc5ac.m3u8
 #EXTINF:-1 group-title="本地,#genre#",深圳都市
+http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
+#EXTINF:-1 group-title="本地,#genre#",深圳都市
 https://tv.cry33.com/shenzhen.php?id=szds
 #EXTINF:-1 group-title="本地,#genre#",深圳娱乐
 https://tv.cry33.com/shenzhen.php?id=szyl
 #EXTINF:-1 group-title="本地,#genre#",深圳公共
 https://tv.cry33.com/shenzhen.php?id=szgg
-#EXTINF:-1 group-title="本地,#genre#",深圳财经生活
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=szcjsh
-#EXTINF:-1 group-title="本地,#genre#",深圳财经生活
+#EXTINF:-1 group-title="本地,#genre#",深圳财经
 https://tv.cry33.com/shenzhen.php?id=szcjsh
+#EXTINF:-1 group-title="本地,#genre#",深圳财经
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=szcjsh
 #EXTINF:-1 group-title="本地,#genre#",深圳电视剧
 https://tv.cry33.com/shenzhen.php?id=szdsj
 #EXTINF:-1 group-title="本地,#genre#",深圳少儿
@@ -106,6 +110,8 @@ http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
 #EXTINF:-1 group-title="4K超高清,#genre#",斗鱼4K影院
 http://159.75.85.63:35455/douyu/9249162
 #EXTINF:-1 group-title="4K超高清,#genre#",4K测试
+http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000459
+#EXTINF:-1 group-title="4K超高清,#genre#",4K测试
 http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000459
 #EXTINF:-1 group-title="4K超高清,#genre#",4K测试
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
@@ -119,14 +125,20 @@ http://zteres.sn.chinamobile.com:6060/000000001000/6000000003000004748/index.m3u
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/
 #EXTINF:-1 group-title="4K超高清,#genre#",4KUHD
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221225530/1.m3u
+#EXTINF:-1 group-title="4K超高清,#genre#",4K超高清电影
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=emdy4k
 #EXTINF:-1 group-title="4K超高清,#genre#",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="4K超高清,#genre#",苏州4K
 http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
+#EXTINF:-1 group-title="4K超高清,#genre#",FashionTV
+https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
 #EXTINF:-1 group-title="4K超高清,#genre#",FashionTV_4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="4K超高清,#genre#",FashionTV_4K
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
+#EXTINF:-1 group-title="4K超高清,#genre#",FashionBox HD
+http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/228/stream.m3u8
 #EXTINF:-1 group-title="4K超高清,#genre#",爱自然
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="4K超高清,#genre#",Clarity 4K
@@ -177,6 +189,12 @@ http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
 http://113.64.145.61:8081/hls/38/index.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",凤凰香港
 http://103.95.24.37:880/fhxgt.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+#EXTINF:-1 group-title="港澳台,#genre#",翡翠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+#EXTINF:-1 group-title="港澳台,#genre#",明珠台
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt
 #EXTINF:-1 group-title="港澳台,#genre#",无线资讯台开码
 https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
 #EXTINF:-1 group-title="港澳台,#genre#",无线新闻
@@ -195,6 +213,8 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 #EXTINF:-1 group-title="港澳台,#genre#",TVB星河
 http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",TVB星河
+https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",TVB 亚洲武侠
 http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",TVB 亚洲武侠
@@ -281,6 +301,8 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 group-title="国内影视,#genre#",黑龙江影视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
+#EXTINF:-1 group-title="国内影视,#genre#",峨眉电影
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=emdy
 #EXTINF:-1 group-title="国内影视,#genre#",重庆影视
 https://live.goodiptv.club/api/cqyx.php?id=cqyingshiHD
 #EXTINF:-1 group-title="国内影视,#genre#",陕西影视
@@ -295,6 +317,8 @@ http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=7884242846753128038
 http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
 #EXTINF:-1 group-title="国内影视,#genre#",湖南电视剧
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=8765482907954673867
+#EXTINF:-1 group-title="国内影视,#genre#",西部电影
+http://php.jdshipin.com:8880/qly.php?id=6332
 #EXTINF:-1 group-title="国内影视,#genre#",滨海影院
 http://traffic.jbh.tjbh.com/live/bhtv3/playlist.m3u8?ztianjd
 #EXTINF:-1 group-title="国内影视,#genre#",江苏影视
@@ -310,11 +334,9 @@ http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 #EXTINF:-1 group-title="国内影视,#genre#",精彩影视
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000063
 #EXTINF:-1 group-title="体育台,#genre#",央视台球
-https://epg.pw/stream/fcd995b82f8bed167a7f794e79f1e159e832dd277bab3a4e8a3b537a77b954da.ctv
+http://cdn.jdshipin.com:8880/ysp.php?id=ystq
 #EXTINF:-1 group-title="体育台,#genre#",央视台球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?m3u8_level=2
-#EXTINF:-1 group-title="体育台,#genre#",央视台球
-http://cdn.jdshipin.com:8880/ysp.php?id=ystq
 #EXTINF:-1 group-title="体育台,#genre#",央视台球
 https://live.goodiptv.club/api/cqyx.php?id=ystqHD
 #EXTINF:-1 group-title="体育台,#genre#",风云足球
@@ -422,17 +444,25 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 group-title="咪咕直播,#genre#",咪咕全民热练
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226508/index.m3u8$8.1M_1080
 #EXTINF:-1 group-title="探索频道,#genre#",求索记录
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000010
+#EXTINF:-1 group-title="探索频道,#genre#",求索记录
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 #EXTINF:-1 group-title="探索频道,#genre#",求索记录
 http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+#EXTINF:-1 group-title="探索频道,#genre#",求索生活
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000008
 #EXTINF:-1 group-title="探索频道,#genre#",求索生活
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 #EXTINF:-1 group-title="探索频道,#genre#",求索生活
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 group-title="探索频道,#genre#",求索科学
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000011
+#EXTINF:-1 group-title="探索频道,#genre#",求索科学
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
 #EXTINF:-1 group-title="探索频道,#genre#",求索科学
 http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+#EXTINF:-1 group-title="探索频道,#genre#",求索动物
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000009
 #EXTINF:-1 group-title="探索频道,#genre#",求索动物
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 #EXTINF:-1 group-title="探索频道,#genre#",求索动物
@@ -665,12 +695,6 @@ http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000049
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000049/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000049&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 group-title="IHOT,#genre#",IHOT爱电竞
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000054
-#EXTINF:-1 group-title="BesTV,#genre#",华语影院
-http://php.jdshipin.com:8880/bst.php?id=hyyy8m/8000000
-#EXTINF:-1 group-title="BesTV,#genre#",星光影院
-http://php.jdshipin.com:8880/bst.php?id=xgyy8m/8000000
-#EXTINF:-1 group-title="BesTV,#genre#",全球大片
-http://php.jdshipin.com:8880/bst.php?id=qqdp8m/8000000
 #EXTINF:-1 group-title="BesTV,#genre#",热门剧场
 http://php.jdshipin.com:8880/bst.php?id=rmjc8m/8000000
 #EXTINF:-1 group-title="BesTV,#genre#",热播精选
@@ -824,11 +848,11 @@ http://39.134.66.110/PLTV/88888888/224/3221225708/index.m3u8
 #EXTINF:-1 group-title="央视,#genre#",兵器科技
 https://epg.pw/stream/12b23b4e0f5af33226fef26d275780d411ed85bc0ccabf0b52c86c7233d06a7a.ctv
 #EXTINF:-1 group-title="央视,#genre#",兵器科技
-http://39.134.18.193/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="央视,#genre#",兵器科技
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/1.m3u8?m3u8_level=2
-#EXTINF:-1 group-title="央视,#genre#",兵器科技
 http://cdn.jdshipin.com:8880/ysp.php?id=bqkj
+#EXTINF:-1 group-title="央视,#genre#",兵器科技
+http://[2409:8087:4c0a:22:1::46]:6610/170000001115/UmaiCHAN638077907bdcd/1.m3u8?m3u8_level=2
+#EXTINF:-1 group-title="央视,#genre#",兵器科技
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGKB9zm%2BIxepVqZYZm7RAv244Kkb0RUYfm4%2FqM8nid95yfI6je%2Fgd5aFLyZ9USd3KbA
 #EXTINF:-1 group-title="央视,#genre#",世界地理
 https://epg.pw/stream/fad71b698d8919890b11d5c8c1ae156c58884bc231d53247b3490b89e65293de.ctv
 #EXTINF:-1 group-title="央视,#genre#",世界地理
@@ -1323,7 +1347,7 @@ http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6
 http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
 #EXTINF:-1 group-title="国际频道,#genre#",俄罗斯频道
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="国际频道,#genre#",金砖中文
+#EXTINF:-1 group-title="国际频道,#genre#",俄罗斯中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="国际频道,#genre#",FOX
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
