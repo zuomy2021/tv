@@ -640,8 +640,9 @@ CCTV8K,http://mtw.so/62HqYI
 4K测试,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 4K测试,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 华数4K影视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
-4KUHD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/
+4KUHD,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 4KUHD,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221225530/1.m3u
+
 
 4K超高清电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=emdy4k
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
@@ -682,6 +683,7 @@ loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 凤凰卫视资讯台,https://epg.pw/stream/5b0d7d9b8e3eaf3cbcef5aadfff18d6711afb9a3d41be927f3649bda058dc497.m3u8
 凤凰卫视资讯台,https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 凤凰卫视资讯台,https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
+凤凰香港,http://zsntlqj.xicp.net:8896/bysid/85.m3u8
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
 凤凰香港,http://1.62.64.252/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
@@ -691,6 +693,7 @@ loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港C+,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/index.m3u8
+亚洲卫视,http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
 
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
@@ -790,6 +793,7 @@ DaAi2 (大愛2) ,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 安徽影视,http://112.30.194.221:20080/live/d18ff95cb1fb4bbcb56215e189fc12be/hls.m3u8
 精彩影视,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000320630
 精彩影视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000063
+精彩影视,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 
 
@@ -890,18 +894,22 @@ NBA,http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
 
 
 探索频道,#genre#
+求索记录,http://tenfarr.com:4000/rtp/239.77.0.21:5146
 求索记录,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000010
-求索记录,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3#http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
+求索记录,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000010&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 求索生活,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000008
-求索生活,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3#http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
+求索生活,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 求索科学,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000011
-求索科学,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3#http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
+求索科学,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 求索动物,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000009
-求索动物,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3#http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
+求索动物,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
+纪实人文,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
+纪实科教,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
+
 
 芒果NewTV,#genre#
 newtv军事评论,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225668/index.m3u8
@@ -1528,6 +1536,8 @@ iPanda基地母子园1,http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
 iPanda怡然2,http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
 
 轮播,#genre#
+好先生,http://[2409:8c50:da00:10:5800::c]/live/9650792r4Uadz5Us_2000.flv?302_type=cold_aggr&_session_id=2767138517.n.cn-throax.gm7i_8092&cac=1&cb_retry=0&did=10000000000000000000000000001501&domain=open-tct.douyucdn2.cn&expire=0&fp_user_url=http%3A%2F%2Fopen-tct.douyucdn2.cn%2Fdyliveflv3%2F9650792r4Uadz5Us_2000.flv%3FwsAuth%3D4aad3e876d82b42570ba963d19efeb45%26token%3Dcpn-androidmpro-0-9650792-6b36c3415a9427b779b203a70632164d8cea7f1e393e89d4%26logo%3D0%26expire%3D0%26did%3D10000000000000000000000000001501%26origin%3Dtct%26vhost%3Dplay3%26sid%3D397286611&logo=0&manage_ip=&mir=true&node_id=&origin=tct&pro_type=http&redirect_from=pod.cn-throax.gm7i.nss&redirect_from_ip=2409%3A8c54%3A810%3Aa36%3A8000%3A0%3Ab00%3A26&redirect_to=fr.cn-x12pj9&redirect_to_ip=2409%3A8c50%3Ada00%3A10%3A5800%3A0%3A0%3Ac&sid=397286611&token=cpn-androidmpro-0-9650792-6b36c3415a9427b779b203a70632164d8cea7f1e393e89d4&vhost=tc-tct.douyucdn2.cn&wsAuth=4aad3e876d82b42570ba963d19efeb45
+好先生,http://maomao.kandiantv.cn/douyu1.php?id=9650792
 喜剧电影,http://159.75.85.63:35455/douyu/9292492
 译制国语,http://159.75.85.63:35455/douyu/2436390
 粤语电影,https://www.goodiptv.club/douyu/1226741
