@@ -9,19 +9,30 @@
 
 深圳龙岗,http://liveplay.sznews.com/66_showto_live/2647.m3u8
 深圳众创,http://liveplay.sznews.com/66_showto_live/2645.m3u8
+CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
 CHC家庭影院,http://221.205.180.219:8005/rtp/226.0.2.240:9820$LR•IPV4『线路5』
 CHC家庭影院,http://219.140.224.108:5555/rtp/239.69.1.243:11100$LR•IPV4『线路10』
-CHC家庭影院,http://119.98.37.169:85/rtp/239.69.1.243:11100$LR•IPV4『线路17』
+CHC家庭影院,http://183.188.229.22:6001/rtp/226.0.2.240:9820$LR•IPV4『线路11』
+CHC家庭影院,http://118.79.7.119:6001/rtp/226.0.2.240:9820$LR•IPV4『线路18』
+
 CHC家庭影院,https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.m3u8
 CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
 CHC家庭影院,http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4&IA%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
+
+CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
 CHC影迷电影,http://221.205.180.219:8005/rtp/226.0.2.93:8004$LR•IPV4『线路24』
 CHC影迷电影,http://119.98.134.206:5555/rtp/239.69.1.241:11088$LR•IPV4『线路25』
+CHC影迷电影,http://111.167.49.238:5002/rtp/225.1.1.214:5002$LR•IPV4『线路9』
 CHC影迷电影,http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
 CHC影迷电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
 CHC影迷电影,http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04&%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
+
+CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
 CHC动作电影,http://221.205.180.219:8005/rtp/226.0.2.94:8012$LR•IPV4『线路15』
 CHC动作电影,http://221.205.180.219:8001/rtp/226.0.2.94:8012$LR•IPV4『线路16』
+CHC动作电影,http://171.122.158.51:8085/rtp/226.0.2.94:8012$LR•IPV4『线路19』
+CHC动作电影,http://1.82.70.88:8014/rtp/239.112.205.207:5140$LR•IPV4『线路21』
+CHC动作电影,http://183.184.170.93:8002/rtp/226.0.2.94:8012$LR•IPV4『线路23』
 CHC动作电影,http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
 CHC动作电影,https://stream1.freetv.fun/006b3f2e27c8a3230cc32045d44cba89721e350f7b12bfff5ea1f0109a52c014.ctv
 CHC动作电影,https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
@@ -46,235 +57,221 @@ AMC电影台,http://mywlkj.ddns.net:754/tv/tw3.php?id=7
 周星驰,http://zby.xjqxz.top/live12/live.m3u8
 李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
 
-临时频道,#genre#
+临时频道2024-10-14,#genre#
 
-CCTV-1 综合,http://qwe.iptviptv.site:9694/hls/1/index.m3u8
-CCTV-2 财经,http://qwe.iptviptv.site:9694/hls/2/index.m3u8
-CCTV-3 综艺,http://qwe.iptviptv.site:9694/hls/3/index.m3u8
-CCTV-4 中文国际,http://qwe.iptviptv.site:9694/hls/4/index.m3u8
-CCTV-5 体育,http://qwe.iptviptv.site:9694/hls/5/index.m3u8
-CCTV-6 电影,http://qwe.iptviptv.site:9694/hls/6/index.m3u8
-CCTV-5+,http://qwe.iptviptv.site:9694/hls/136/index.m3u8
-CCTV-7 国防军事,http://qwe.iptviptv.site:9694/hls/7/index.m3u8
-CCTV-8 电视剧,http://qwe.iptviptv.site:9694/hls/8/index.m3u8
-CCTV-9 纪录,http://qwe.iptviptv.site:9694/hls/9/index.m3u8
-CCTV-10 科教,http://qwe.iptviptv.site:9694/hls/10/index.m3u8
-CCTV-11 戏曲,http://qwe.iptviptv.site:9694/hls/11/index.m3u8
-CCTV-12 社会与法,http://qwe.iptviptv.site:9694/hls/12/index.m3u8
-CCTV-13 新闻,http://qwe.iptviptv.site:9694/hls/13/index.m3u8
-CCTV-14 少儿,http://qwe.iptviptv.site:9694/hls/14/index.m3u8
-CCTV-15 音乐,http://qwe.iptviptv.site:9694/hls/15/index.m3u8
-CCTV-16 奥林匹克,http://qwe.iptviptv.site:9694/hls/16/index.m3u8
-CCTV-17 农业高清,http://qwe.iptviptv.site:9694/hls/17/index.m3u8
-湖南卫视,http://qwe.iptviptv.site:9694/hls/105/index.m3u8
-浙江卫视,http://qwe.iptviptv.site:9694/hls/106/index.m3u8
-江苏卫视,http://qwe.iptviptv.site:9694/hls/107/index.m3u8
-东方卫视,http://qwe.iptviptv.site:9694/hls/108/index.m3u8
-安徽卫视,http://qwe.iptviptv.site:9694/hls/109/index.m3u8
-北京卫视,http://qwe.iptviptv.site:9694/hls/110/index.m3u8
-天津卫视,http://qwe.iptviptv.site:9694/hls/111/index.m3u8
-山东卫视,http://qwe.iptviptv.site:9694/hls/112/index.m3u8
-江西卫视,http://qwe.iptviptv.site:9694/hls/113/index.m3u8
-湖北卫视,http://qwe.iptviptv.site:9694/hls/114/index.m3u8
-辽宁卫视,http://qwe.iptviptv.site:9694/hls/115/index.m3u8
-黑龙江卫视,http://qwe.iptviptv.site:9694/hls/116/index.m3u8
-贵州卫视,http://qwe.iptviptv.site:9694/hls/117/index.m3u8
-四川卫视,http://qwe.iptviptv.site:9694/hls/118/index.m3u8
-河南卫视,http://qwe.iptviptv.site:9694/hls/119/index.m3u8
-云南卫视,http://qwe.iptviptv.site:9694/hls/120/index.m3u8
-重庆卫视,http://qwe.iptviptv.site:9694/hls/121/index.m3u8
-河北卫视,http://qwe.iptviptv.site:9694/hls/122/index.m3u8
-东南卫视,http://qwe.iptviptv.site:9694/hls/123/index.m3u8
-广西卫视,http://qwe.iptviptv.site:9694/hls/124/index.m3u8
-吉林卫视,http://qwe.iptviptv.site:9694/hls/125/index.m3u8
-陕西卫视,http://qwe.iptviptv.site:9694/hls/126/index.m3u8
-山西卫视,http://qwe.iptviptv.site:9694/hls/127/index.m3u8
-内蒙古卫视,http://qwe.iptviptv.site:9694/hls/128/index.m3u8
-青海卫视,http://qwe.iptviptv.site:9694/hls/129/index.m3u8
-海南卫视,http://qwe.iptviptv.site:9694/hls/130/index.m3u8
-宁夏卫视,http://qwe.iptviptv.site:9694/hls/131/index.m3u8
-西藏卫视,http://qwe.iptviptv.site:9694/hls/132/index.m3u8
-新疆卫视,http://qwe.iptviptv.site:9694/hls/133/index.m3u8
-甘肃卫视,http://qwe.iptviptv.site:9694/hls/134/index.m3u8
-厦门卫视,http://qwe.iptviptv.site:9694/hls/135/index.m3u8
-五星体育,http://qwe.iptviptv.site:9694/hls/150/index.m3u8
-新闻综合,http://qwe.iptviptv.site:9694/hls/151/index.m3u8
-东方财经,http://qwe.iptviptv.site:9694/hls/152/index.m3u8
-第一财经,http://qwe.iptviptv.site:9694/hls/153/index.m3u8
-法治天地,http://qwe.iptviptv.site:9694/hls/154/index.m3u8
-都市频道,http://qwe.iptviptv.site:9694/hls/155/index.m3u8
-东方影视,http://qwe.iptviptv.site:9694/hls/156/index.m3u8
-上海教育,http://qwe.iptviptv.site:9694/hls/157/index.m3u8
-七彩戏剧,http://qwe.iptviptv.site:9694/hls/158/index.m3u8
-金色学堂,http://qwe.iptviptv.site:9694/hls/159/index.m3u8
-重庆影视,http://qwe.iptviptv.site:9694/hls/162/index.m3u8
-重庆新闻,http://qwe.iptviptv.site:9694/hls/163/index.m3u8
-重庆社会,http://qwe.iptviptv.site:9694/hls/164/index.m3u8
-重庆时尚,http://qwe.iptviptv.site:9694/hls/165/index.m3u8
-重庆娱乐,http://qwe.iptviptv.site:9694/hls/166/index.m3u8
-重庆少儿,http://qwe.iptviptv.site:9694/hls/167/index.m3u8
-重庆科教,http://qwe.iptviptv.site:9694/hls/168/index.m3u8
-重庆汽摩,http://qwe.iptviptv.site:9694/hls/169/index.m3u8
-铜梁综合,http://qwe.iptviptv.site:9694/hls/172/index.m3u8
-万州综合,http://qwe.iptviptv.site:9694/hls/173/index.m3u8
-万州科教,http://qwe.iptviptv.site:9694/hls/174/index.m3u8
-万州影视,http://qwe.iptviptv.site:9694/hls/175/index.m3u8
-万州三峡移民,http://qwe.iptviptv.site:9694/hls/176/index.m3u8
-扬州1,http://qwe.iptviptv.site:9694/hls/182/index.m3u8
-扬州2,http://qwe.iptviptv.site:9694/hls/183/index.m3u8
-扬州3,http://qwe.iptviptv.site:9694/hls/184/index.m3u8
-浙江新闻,http://qwe.iptviptv.site:9694/hls/188/index.m3u8
-浙江体育,http://qwe.iptviptv.site:9694/hls/189/index.m3u8
-浙江经济,http://qwe.iptviptv.site:9694/hls/191/index.m3u8
-浙江钱江,http://qwe.iptviptv.site:9694/hls/193/index.m3u8
-浙江少儿,http://qwe.iptviptv.site:9694/hls/194/index.m3u8
-浙江数码,http://qwe.iptviptv.site:9694/hls/195/index.m3u8
-杭州TV-1 综合,http://qwe.iptviptv.site:9694/hls/196/index.m3u8
-杭州TV-2 明珠,http://qwe.iptviptv.site:9694/hls/197/index.m3u8
-杭州TV-3 生活,http://qwe.iptviptv.site:9694/hls/198/index.m3u8
-杭州TV-4 影视,http://qwe.iptviptv.site:9694/hls/199/index.m3u8
-杭州TV-5 青少·体育,http://qwe.iptviptv.site:9694/hls/200/index.m3u8
-宁波TV1,http://qwe.iptviptv.site:9694/hls/205/index.m3u8
-宁波TV2,http://qwe.iptviptv.site:9694/hls/206/index.m3u8
-宁波TV3,http://qwe.iptviptv.site:9694/hls/207/index.m3u8
-宁波TV4,http://qwe.iptviptv.site:9694/hls/208/index.m3u8
-安徽体育,http://qwe.iptviptv.site:9694/hls/250/index.m3u8
-安徽公共,http://qwe.iptviptv.site:9694/hls/252/index.m3u8
-安徽影视,http://qwe.iptviptv.site:9694/hls/253/index.m3u8
-安徽经济,http://qwe.iptviptv.site:9694/hls/254/index.m3u8
-安徽科教,http://qwe.iptviptv.site:9694/hls/255/index.m3u8
-亳州农村,http://qwe.iptviptv.site:9694/hls/259/index.m3u8
-亳州新闻,http://qwe.iptviptv.site:9694/hls/260/index.m3u8
-歙县综合,http://qwe.iptviptv.site:9694/hls/263/index.m3u8
-滁州公共,http://qwe.iptviptv.site:9694/hls/265/index.m3u8
-滁州科教,http://qwe.iptviptv.site:9694/hls/266/index.m3u8
-滁州新闻综合,http://qwe.iptviptv.site:9694/hls/267/index.m3u8
-四川影视,http://qwe.iptviptv.site:9694/hls/300/index.m3u8
-经济频道,http://qwe.iptviptv.site:9694/hls/301/index.m3u8
-文化旅游,http://qwe.iptviptv.site:9694/hls/302/index.m3u8
-新闻频道,http://qwe.iptviptv.site:9694/hls/303/index.m3u8
-影视文艺,http://qwe.iptviptv.site:9694/hls/304/index.m3u8
-科教频道,http://qwe.iptviptv.site:9694/hls/305/index.m3u8
-乡村频道,http://qwe.iptviptv.site:9694/hls/306/index.m3u8
-峨眉电影,http://qwe.iptviptv.site:9694/hls/325/index.m3u8
-天津新闻,http://qwe.iptviptv.site:9694/hls/350/index.m3u8
-天津文艺,http://qwe.iptviptv.site:9694/hls/351/index.m3u8
-天津影视,http://qwe.iptviptv.site:9694/hls/352/index.m3u8
-天津都市,http://qwe.iptviptv.site:9694/hls/353/index.m3u8
-天津体育,http://qwe.iptviptv.site:9694/hls/354/index.m3u8
-陕西新闻,http://qwe.iptviptv.site:9694/hls/380/index.m3u8
-陕西都市,http://qwe.iptviptv.site:9694/hls/381/index.m3u8
-陕西生活,http://qwe.iptviptv.site:9694/hls/382/index.m3u8
-陕西影视,http://qwe.iptviptv.site:9694/hls/383/index.m3u8
-陕西公共,http://qwe.iptviptv.site:9694/hls/384/index.m3u8
-陕西体育,http://qwe.iptviptv.site:9694/hls/386/index.m3u8
-西部电影,http://qwe.iptviptv.site:9694/hls/387/index.m3u8
-西安影视,http://qwe.iptviptv.site:9694/hls/389/index.m3u8
-延安频道,http://qwe.iptviptv.site:9694/hls/393/index.m3u8
-安康综合,http://qwe.iptviptv.site:9694/hls/394/index.m3u8
-咸阳综合,http://qwe.iptviptv.site:9694/hls/400/index.m3u8
-宝鸡1,http://qwe.iptviptv.site:9694/hls/401/index.m3u8
-宝鸡2,http://qwe.iptviptv.site:9694/hls/402/index.m3u8
-扶风频道,http://qwe.iptviptv.site:9694/hls/405/index.m3u8
-广东卫视,http://qwe.iptviptv.site:9694/hls/450/index.m3u8
-广东珠江,http://qwe.iptviptv.site:9694/hls/451/index.m3u8
-大湾区卫视,http://qwe.iptviptv.site:9694/hls/452/index.m3u8
-广州综合,http://qwe.iptviptv.site:9694/hls/453/index.m3u8
-广东新闻,http://qwe.iptviptv.site:9694/hls/454/index.m3u8
-广东民生,http://qwe.iptviptv.site:9694/hls/455/index.m3u8
-广东体育,http://qwe.iptviptv.site:9694/hls/456/index.m3u8
-广东经济科教,http://qwe.iptviptv.site:9694/hls/457/index.m3u8
-广东影视,http://qwe.iptviptv.site:9694/hls/458/index.m3u8
-潮州综合,http://qwe.iptviptv.site:9694/hls/459/index.m3u8
-潮州民生,http://qwe.iptviptv.site:9694/hls/460/index.m3u8
-梅州导视,http://qwe.iptviptv.site:9694/hls/461/index.m3u8
-广东导视(G导视),http://qwe.iptviptv.site:9694/hls/462/index.m3u8
-广西新闻,http://qwe.iptviptv.site:9694/hls/470/index.m3u8
-广西综艺,http://qwe.iptviptv.site:9694/hls/471/index.m3u8
-广西都市,http://qwe.iptviptv.site:9694/hls/472/index.m3u8
-广西乐购,http://qwe.iptviptv.site:9694/hls/473/index.m3u8
-广西影视,http://qwe.iptviptv.site:9694/hls/474/index.m3u8
-广西资讯,http://qwe.iptviptv.site:9694/hls/475/index.m3u8
-南宁新闻,http://qwe.iptviptv.site:9694/hls/476/index.m3u8
-南宁都市,http://qwe.iptviptv.site:9694/hls/477/index.m3u8
-南宁影视,http://qwe.iptviptv.site:9694/hls/478/index.m3u8
-南宁公共,http://qwe.iptviptv.site:9694/hls/479/index.m3u8
-贺州综合,http://qwe.iptviptv.site:9694/hls/480/index.m3u8
-玉林新闻,http://qwe.iptviptv.site:9694/hls/488/index.m3u8
-河北经济,http://qwe.iptviptv.site:9694/hls/550/index.m3u8
-河北都市,http://qwe.iptviptv.site:9694/hls/551/index.m3u8
-河北影视,http://qwe.iptviptv.site:9694/hls/552/index.m3u8
-河北少儿,http://qwe.iptviptv.site:9694/hls/553/index.m3u8
-河北公共,http://qwe.iptviptv.site:9694/hls/554/index.m3u8
-河北农民,http://qwe.iptviptv.site:9694/hls/555/index.m3u8
-河北杂技,http://qwe.iptviptv.site:9694/hls/556/index.m3u8
-湖北经视,http://qwe.iptviptv.site:9694/hls/570/index.m3u8
-湖北垄上,http://qwe.iptviptv.site:9694/hls/571/index.m3u8
-湖北公共,http://qwe.iptviptv.site:9694/hls/572/index.m3u8
-湖北影视,http://qwe.iptviptv.site:9694/hls/573/index.m3u8
-湖北生活,http://qwe.iptviptv.site:9694/hls/575/index.m3u8
-武汉新闻,http://qwe.iptviptv.site:9694/hls/576/index.m3u8
-武汉电视剧,http://qwe.iptviptv.site:9694/hls/577/index.m3u8
-房县新闻,http://qwe.iptviptv.site:9694/hls/583/index.m3u8
-江苏体育休闲,http://qwe.iptviptv.site:9694/hls/600/index.m3u8
-江苏城市,http://qwe.iptviptv.site:9694/hls/601/index.m3u8
-江苏影视,http://qwe.iptviptv.site:9694/hls/602/index.m3u8
-江苏教育,http://qwe.iptviptv.site:9694/hls/603/index.m3u8
-江苏综艺,http://qwe.iptviptv.site:9694/hls/604/index.m3u8
-江苏新闻,http://qwe.iptviptv.site:9694/hls/605/index.m3u8
-CHC家庭影院,http://qwe.iptviptv.site:9694/hls/700/index.m3u8
-CHC动作电影,http://qwe.iptviptv.site:9694/hls/701/index.m3u8
-CHC影迷电影,http://qwe.iptviptv.site:9694/hls/702/index.m3u8
-星空卫视,http://qwe.iptviptv.site:9694/hls/703/index.m3u8
-风云足球,http://qwe.iptviptv.site:9694/hls/704/index.m3u8
-央视台球,http://qwe.iptviptv.site:9694/hls/705/index.m3u8
-高尔夫网球,http://qwe.iptviptv.site:9694/hls/706/index.m3u8
-女性时尚,http://qwe.iptviptv.site:9694/hls/707/index.m3u8
-世界地理,http://qwe.iptviptv.site:9694/hls/708/index.m3u8
-怀旧剧场,http://qwe.iptviptv.site:9694/hls/709/index.m3u8
-风云剧场,http://qwe.iptviptv.site:9694/hls/710/index.m3u8
-第一剧场,http://qwe.iptviptv.site:9694/hls/711/index.m3u8
-老故事,http://qwe.iptviptv.site:9694/hls/712/index.m3u8
-中学生,http://qwe.iptviptv.site:9694/hls/713/index.m3u8
-快乐垂钓,http://qwe.iptviptv.site:9694/hls/714/index.m3u8
-天元围棋,http://qwe.iptviptv.site:9694/hls/715/index.m3u8
-凤凰香港,http://qwe.iptviptv.site:9694/hls/730/index.m3u8
-凤凰中文,http://qwe.iptviptv.site:9694/hls/731/index.m3u8
-凤凰资询,http://qwe.iptviptv.site:9694/hls/732/index.m3u8
-重温经典,http://qwe.iptviptv.site:9694/hls/716/index.m3u8
-新视觉,http://qwe.iptviptv.site:9694/hls/717/index.m3u8
-劲爆体育,http://qwe.iptviptv.site:9694/hls/718/index.m3u8
-魅力足球,http://qwe.iptviptv.site:9694/hls/719/index.m3u8
-北京体育,http://qwe.iptviptv.site:9694/hls/800/index.m3u8
-淘电影,http://qwe.iptviptv.site:9694/hls/801/index.m3u8
-淘剧场,http://qwe.iptviptv.site:9694/hls/802/index.m3u8
-淘娱乐,http://qwe.iptviptv.site:9694/hls/803/index.m3u8
-淘baby,http://qwe.iptviptv.site:9694/hls/804/index.m3u8
-淘精彩,http://qwe.iptviptv.site:9694/hls/805/index.m3u8
-北京文艺,http://qwe.iptviptv.site:9694/hls/806/index.m3u8
-北京科教,http://qwe.iptviptv.site:9694/hls/807/index.m3u8
-北京影视,http://qwe.iptviptv.site:9694/hls/808/index.m3u8
-北京生活,http://qwe.iptviptv.site:9694/hls/809/index.m3u8
-北京财经,http://qwe.iptviptv.site:9694/hls/810/index.m3u8
-北京新闻,http://qwe.iptviptv.site:9694/hls/811/index.m3u8
-北京卡酷少儿,http://qwe.iptviptv.site:9694/hls/812/index.m3u8
-北京国际,http://qwe.iptviptv.site:9694/hls/813/index.m3u8
-V音乐台,http://qwe.iptviptv.site:9694/hls/1000/index.m3u8
-HBO,http://qwe.iptviptv.site:9694/hls/1001/index.m3u8
-今日俄罗斯,http://qwe.iptviptv.site:9694/hls/1003/index.m3u8
-日本NHK,http://qwe.iptviptv.site:9694/hls/1004/index.m3u8
-韩国KBS,http://qwe.iptviptv.site:9694/hls/1005/index.m3u8
-翡翠台(广电),http://qwe.iptviptv.site:9694/hls/99/index.m3u8
-明珠台,http://qwe.iptviptv.site:9694/hls/103/index.m3u8
-翡翠台(原版),http://qwe.iptviptv.site:9694/hls/98/index.m3u8
-千禧经典台,http://qwe.iptviptv.site:9694/hls/901/index.m3u8
-翡翠台4k,http://qwe.iptviptv.site:9694/hls/902/index.m3u8
-Animax,http://qwe.iptviptv.site:9694/hls/903/index.m3u8
-美亚电影台,http://qwe.iptviptv.site:9694/hls/904/index.m3u8
-TVB PLUS,http://qwe.iptviptv.site:9694/hls/905/index.m3u8
-无线新闻台,http://qwe.iptviptv.site:9694/hls/906/index.m3u8
-天映經典頻道,http://qwe.iptviptv.site:9694/hls/914/index.m3u8
-黃金翡翠台,http://qwe.iptviptv.site:9694/hls/916/index.m3u8
+CCTV-1 综合,http://php.iptviptv.site/iptv.php?id=cctv01
+CCTV-2 财经,http://php.iptviptv.site/iptv.php?id=cctv2
+CCTV-3 综艺,http://php.iptviptv.site/iptv.php?id=cctvz3
+CCTV-4 中文国际,http://php.iptviptv.site/iptv.php?id=cctvb4
+CCTV-5 体育,http://php.iptviptv.site/iptv.php?id=cctv5
+CCTV-6 电影,http://php.iptviptv.site/iptv.php?id=cctvm6
+CCTV-5+,http://php.iptviptv.site/iptv.php?id=cctv5+
+CCTV-7 国防军事,http://php.iptviptv.site/iptv.php?id=cctvq7
+CCTV-8 电视剧,http://php.iptviptv.site/iptv.php?id=cctv88
+CCTV-9 纪录,http://php.iptviptv.site/iptv.php?id=cctv09
+CCTV-10 科教,http://php.iptviptv.site/iptv.php?id=cctv100
+CCTV-11 戏曲,http://php.iptviptv.site/iptv.php?id=cctvp11
+CCTV-12 社会与法,http://php.iptviptv.site/iptv.php?id=cctv12
+CCTV-13 新闻,http://php.iptviptv.site/iptv.php?id=cctv13
+CCTV-14 少儿,http://php.iptviptv.site/iptv.php?id=cctv14
+CCTV-15 音乐,http://php.iptviptv.site/iptv.php?id=cctvo15
+CCTV-16 奥林匹克,http://php.iptviptv.site/iptv.php?id=cctvd16
+CCTV-17 农业高清,http://php.iptviptv.site/iptv.php?id=cctv17
+湖南卫视,http://php.iptviptv.site/iptv.php?id=hunan0d
+浙江卫视,http://php.iptviptv.site/iptv.php?id=zhejiangcy
+江苏卫视,http://php.iptviptv.site/iptv.php?id=jiangsu66
+东方卫视,http://php.iptviptv.site/iptv.php?id=dongfang18
+安徽卫视,http://php.iptviptv.site/iptv.php?id=anhui75
+北京卫视,http://php.iptviptv.site/iptv.php?id=bjws
+天津卫视,http://php.iptviptv.site/iptv.php?id=tianjin39
+山东卫视,http://php.iptviptv.site/iptv.php?id=shandongw1
+江西卫视,http://php.iptviptv.site/iptv.php?id=jiangxi80
+湖北卫视,http://php.iptviptv.site/iptv.php?id=hubeihubei
+辽宁卫视,http://php.iptviptv.site/iptv.php?id=liao
+黑龙江卫视,http://php.iptviptv.site/iptv.php?id=hlj62
+贵州卫视,http://php.iptviptv.site/iptv.php?id=guizhou112
+四川卫视,http://php.iptviptv.site/iptv.php?id=sichuan
+河南卫视,http://php.iptviptv.site/iptv.php?id=henan68
+云南卫视,http://php.iptviptv.site/iptv.php?id=yunnansf
+重庆卫视,http://php.iptviptv.site/iptv.php?id=chongqing
+河北卫视,http://php.iptviptv.site/iptv.php?id=hebeiyu
+东南卫视,http://php.iptviptv.site/iptv.php?id=dongnan11
+广西卫视,http://php.iptviptv.site/iptv.php?id=guangxibiaoge
+吉林卫视,http://php.iptviptv.site/iptv.php?id=jilina
+陕西卫视,http://php.iptviptv.site/iptv.php?id=shanxi5
+山西卫视,http://php.iptviptv.site/iptv.php?id=shangxi
+内蒙古卫视,http://php.iptviptv.site/iptv.php?id=neimenggu
+青海卫视,http://php.iptviptv.site/iptv.php?id=qinghai12
+海南卫视,http://php.iptviptv.site/iptv.php?id=hainan29
+宁夏卫视,http://php.iptviptv.site/iptv.php?id=lxia
+西藏卫视,http://php.iptviptv.site/iptv.php?id=xizang
+新疆卫视,http://php.iptviptv.site/iptv.php?id=xinjiang
+甘肃卫视,http://php.iptviptv.site/iptv.php?id=gansu93
+厦门卫视,http://php.iptviptv.site/iptv.php?id=xiamen
+五星体育,http://php.iptviptv.site/iptv.php?id=wuxingtiyu32
+新闻综合,http://php.iptviptv.site/iptv.php?id=xinwenzonghe41
+东方财经,http://php.iptviptv.site/iptv.php?id=dongfangcaijing88
+第一财经,http://php.iptviptv.site/iptv.php?id=dycaijing
+都市频道,http://php.iptviptv.site/iptv.php?id=dushi
+东方影视,http://php.iptviptv.site/iptv.php?id=dfys1
+重庆影视,http://php.iptviptv.site/iptv.php?id=cqys123
+重庆新闻,http://php.iptviptv.site/iptv.php?id=cqxw349
+重庆社会,http://php.iptviptv.site/iptv.php?id=cqsh1lm
+重庆娱乐,http://php.iptviptv.site/iptv.php?id=cqyl
+重庆少儿,http://php.iptviptv.site/iptv.php?id=cqse
+浙江新闻,http://php.iptviptv.site/iptv.php?id=zjxw6345
+浙江体育,http://php.iptviptv.site/iptv.php?id=zjty
+浙江少儿,http://php.iptviptv.site/iptv.php?id=zjs12e
+杭州TV-1 综合,http://php.iptviptv.site/iptv.php?id=zjhztv1
+杭州TV-2 明珠,http://php.iptviptv.site/iptv.php?id=zjhztv2
+杭州TV-3 生活,http://php.iptviptv.site/iptv.php?id=zjhztv3
+杭州TV-4 影视,http://php.iptviptv.site/iptv.php?id=zjhztv4
+杭州TV-5 青少·体育,http://php.iptviptv.site/iptv.php?id=zjhztv5
+宁波TV1,http://php.iptviptv.site/iptv.php?id=zjlbtv1
+宁波TV2,http://php.iptviptv.site/iptv.php?id=zjlbtv2
+宁波TV3,http://php.iptviptv.site/iptv.php?id=zjlbtv3
+宁波TV4,http://php.iptviptv.site/iptv.php?id=zjlbtv
+安徽体育,http://php.iptviptv.site/iptv.php?id=ahty56
+安徽公共,http://php.iptviptv.site/iptv.php?id=ahggrw
+安徽影视,http://php.iptviptv.site/iptv.php?id=ahysys
+安徽经济,http://php.iptviptv.site/iptv.php?id=ahjjjw
+安徽科教,http://php.iptviptv.site/iptv.php?id=ahkjyd
+亳州农村,http://php.iptviptv.site/iptv.php?id=ahhzcn
+亳州新闻,http://php.iptviptv.site/iptv.php?id=ahhzxw
+歙县综合,http://php.iptviptv.site/iptv.php?id=ahxzh
+滁州公共,http://php.iptviptv.site/iptv.php?id=ahxzgg
+滁州科教,http://php.iptviptv.site/iptv.php?id=ahxzjk
+滁州新闻综合,http://php.iptviptv.site/iptv.php?id=ahxzxwzh
+四川影视,http://php.iptviptv.site/iptv.php?id=scysysys1
+新闻频道,http://php.iptviptv.site/iptv.php?id=scxwzhzx
+峨眉电影,http://php.iptviptv.site/iptv.php?id=scemmetw
+天津新闻,http://php.iptviptv.site/iptv.php?id=TJxwef
+天津影视,http://php.iptviptv.site/iptv.php?id=TJyswed
+天津都市,http://php.iptviptv.site/iptv.php?id=TJds
+天津体育,http://php.iptviptv.site/iptv.php?id=TJtyTYH
+陕西新闻,http://php.iptviptv.site/iptv.php?id=SXXW111
+陕西影视,http://php.iptviptv.site/iptv.php?id=sxys666
+陕西体育,http://php.iptviptv.site/iptv.php?id=sxtysxty
+西部电影,http://php.iptviptv.site/iptv.php?id=sxxbdydytr
+西安影视,http://php.iptviptv.site/iptv.php?id=sxxady
+广东卫视,http://php.iptviptv.site/iptv.php?id=gdws651
+广东珠江,http://php.iptviptv.site/iptv.php?id=gdzjzj
+大湾区卫视,http://php.iptviptv.site/iptv.php?id=dawanqu678
+广州综合,http://php.iptviptv.site/iptv.php?id=gzzhhzzf
+广东新闻,http://php.iptviptv.site/iptv.php?id=gdxwgt
+广东民生,http://php.iptviptv.site/iptv.php?id=gdmswt
+广东体育,http://php.iptviptv.site/iptv.php?id=gdtyre
+广东经济科教,http://php.iptviptv.site/iptv.php?id=gdkejiao
+广东影视,http://php.iptviptv.site/iptv.php?id=gdyingshi
+潮州综合,http://php.iptviptv.site/iptv.php?id=gdczzh
+广东导视(G导视),http://php.iptviptv.site/iptv.php?id=gdds12
+广西新闻,http://php.iptviptv.site/iptv.php?id=gxxw
+广西综艺,http://php.iptviptv.site/iptv.php?id=gxzy
+广西影视,http://php.iptviptv.site/iptv.php?id=gxys
+南宁新闻,http://php.iptviptv.site/iptv.php?id=nlxw
+南宁影视,http://php.iptviptv.site/iptv.php?id=nlys
+河北都市,http://php.iptviptv.site/iptv.php?id=hbds
+河北影视,http://php.iptviptv.site/iptv.php?id=hbys12
+河北少儿,http://php.iptviptv.site/iptv.php?id=hbsese
+河北公共,http://php.iptviptv.site/iptv.php?id=hbgg
+河北杂技,http://php.iptviptv.site/iptv.php?id=hbzj
+湖北经视,http://php.iptviptv.site/iptv.php?id=hubeijs
+湖北垄上,http://php.iptviptv.site/iptv.php?id=hubeigs
+湖北影视,http://php.iptviptv.site/iptv.php?id=hubeiys
+武汉新闻,http://php.iptviptv.site/iptv.php?id=whxw
+武汉电视剧,http://php.iptviptv.site/iptv.php?id=whdsj
+江苏体育休闲,http://php.iptviptv.site/iptv.php?id=jsxxty
+江苏影视,http://php.iptviptv.site/iptv.php?id=jsys
+江苏综艺,http://php.iptviptv.site/iptv.php?id=jszy
+江苏新闻,http://php.iptviptv.site/iptv.php?id=jsxw
+CHC家庭影院,http://php.iptviptv.site/iptv.php?id=chcjiat66
+CHC动作电影,http://php.iptviptv.site/iptv.php?id=chdzc
+CHC影迷电影,http://php.iptviptv.site/iptv.php?id=chcmy
+星空卫视,http://php.iptviptv.site/iptv.php?id=xingkongsw
+风云足球,http://php.iptviptv.site/iptv.php?id=fengyunzq478
+央视台球,http://php.iptviptv.site/iptv.php?id=yangshitaiq4123
+高尔夫网球,http://php.iptviptv.site/iptv.php?id=gaoerfu
+女性时尚,http://php.iptviptv.site/iptv.php?id=nxss
+世界地理,http://php.iptviptv.site/iptv.php?id=sjdl
+怀旧剧场,http://php.iptviptv.site/iptv.php?id=hjjc873
+风云剧场,http://php.iptviptv.site/iptv.php?id=fengyunjc87
+第一剧场,http://php.iptviptv.site/iptv.php?id=diyijuc
+老故事,http://php.iptviptv.site/iptv.php?id=laogushi
+中学生,http://php.iptviptv.site/iptv.php?id=zxs
+快乐垂钓,http://php.iptviptv.site/iptv.php?id=klcd87
+天元围棋,http://php.iptviptv.site/iptv.php?id=tianyuanwq
+重温经典,http://php.iptviptv.site/iptv.php?id=cwjd
+新视觉,http://php.iptviptv.site/iptv.php?id=xsj
+劲爆体育,http://php.iptviptv.site/iptv.php?id=jbty
+魅力足球,http://php.iptviptv.site/iptv.php?id=mlzq
+北京体育,http://php.iptviptv.site/iptv.php?id=beijty23
+淘电影,http://php.iptviptv.site/iptv.php?id=taod
+淘剧场,http://php.iptviptv.site/iptv.php?id=taojr
+淘娱乐,http://php.iptviptv.site/iptv.php?id=taoyl31
+淘baby,http://php.iptviptv.site/iptv.php?id=taoybayd
+淘精彩,http://php.iptviptv.site/iptv.php?id=taoycj
+北京影视,http://php.iptviptv.site/iptv.php?id=beijingys
+北京财经,http://php.iptviptv.site/iptv.php?id=beijingcj
+北京新闻,http://php.iptviptv.site/iptv.php?id=beijingxw
+北京卡酷少儿,http://php.iptviptv.site/iptv.php?id=beijingku
+V音乐台,http://php.iptviptv.site/iptv.php?id=vyinyue
+HBO,http://php.iptviptv.site/iptv.php?id=HBO
+今日俄罗斯,http://php.iptviptv.site/iptv.php?id=elsjr
+日本NHK,http://php.iptviptv.site/iptv.php?id=nhk
+韩国KBS,http://php.iptviptv.site/iptv.php?id=kbs
+翡翠台(广电),http://php.iptviptv.site/iptv.php?id=fctgd66
+明珠台,http://php.iptviptv.site/iptv.php?id=mzt
+翡翠台(原版),http://php.iptviptv.site/iptv.php?id=fctyb841
+千禧经典台,http://php.iptviptv.site/iptv.php?id=qianxi
+翡翠台4k,http://php.iptviptv.site/iptv.php?id=fct4kcj
+Animax,http://php.iptviptv.site/iptv.php?id=animax
+美亚电影台,http://php.iptviptv.site/iptv.php?id=meiya666
+TVB PLUS,http://php.iptviptv.site/iptv.php?id=tvbsulp
+无线新闻台,http://php.iptviptv.site/iptv.php?id=wuxianxwfeiwu
+天映經典頻道,http://php.iptviptv.site/iptv.php?id=tianying
+黃金翡翠台,http://php.iptviptv.site/iptv.php?id=hjfct
+凤凰香港,http://php.iptviptv.site/iptv.php?id=fhxgwe
+凤凰中文,http://php.iptviptv.site/iptv.php?id=fhzwwe
+凤凰资询,http://php.iptviptv.site/iptv.php?id=fhzx
+黄金华剧台,http://php.iptviptv.site/iptv.php?id=hjhjt
+华语剧台,http://php.iptviptv.site/iptv.php?id=hyjt66
+粤语片台,http://php.iptviptv.site/iptv.php?id=yueyupiantai
+神州新闻台,http://php.iptviptv.site/iptv.php?id=szxwt
+无线卫星新闻台,http://php.iptviptv.site/iptv.php?id=wxwxxwt
+无线卫星亚洲台,http://php.iptviptv.site/iptv.php?id=wxwxyzt
+东方卫视国际频道,http://php.iptviptv.site/iptv.php?id=dfwsgj
+戏曲台,http://php.iptviptv.site/iptv.php?id=xqt
+娱乐新闻台,http://php.iptviptv.site/iptv.php?id=ylxwtww
+半岛电视台英语频道,http://php.iptviptv.site/iptv.php?id=bddstyypd
+创世电视,http://php.iptviptv.site/iptv.php?id=csds
+亚洲新闻台,http://php.iptviptv.site/iptv.php?id=yzxwt
+亚洲剧台,http://php.iptviptv.site/iptv.php?id=yzjt
+ZooMoo,http://php.iptviptv.site/iptv.php?id=zoomoosb
+tvN,http://php.iptviptv.site/iptv.php?id=tvnbs
+Thrill,http://php.iptviptv.site/iptv.php?id=thrillbs1
+SUPER Kids Channel,http://php.iptviptv.site/iptv.php?id=kidsch
+ROCK 综艺娱乐,http://php.iptviptv.site/iptv.php?id=rockzyyl
+ROCK Action,http://php.iptviptv.site/iptv.php?id=rockacti
+PopC,http://php.iptviptv.site/iptv.php?id=rock69
+Nickelodeon,http://php.iptviptv.site/iptv.php?id=nickelo
+Nick Jr,http://php.iptviptv.site/iptv.php?id=nickjr
+NHK World-Japan,http://php.iptviptv.site/iptv.php?id=nhkjapan
+my直播足球6台,http://php.iptviptv.site/iptv.php?id=zq6t
+my直播足球5台,http://php.iptviptv.site/iptv.php?id=zq5t
+my直播足球4台,http://php.iptviptv.site/iptv.php?id=zq4t
+my直播足球3台,http://php.iptviptv.site/iptv.php?id=zq3t
+myTV SUPER FREE,http://php.iptviptv.site/iptv.php?id=superfree
+myTV SUPER 18台,http://php.iptviptv.site/iptv.php?id=super18
+Mezzo Live HD,http://php.iptviptv.site/iptv.php?id=mezzo
+Love Nature HD,http://php.iptviptv.site/iptv.php?id=lovehd
+Love Nature 4K,http://php.iptviptv.site/iptv.php?id=love4k
+KIX,http://php.iptviptv.site/iptv.php?id=kix
+Global Trekker,http://php.iptviptv.site/iptv.php?id=global
+France 24,http://php.iptviptv.site/iptv.php?id=france67
+FashionBox,http://php.iptviptv.site/iptv.php?id=fashionbox
+DW,http://php.iptviptv.site/iptv.php?id=dw54
+AXN,http://php.iptviptv.site/iptv.php?id=axnwd
+Arirang TV,http://php.iptviptv.site/iptv.php?id=arirang
 
 
 央视高清,#genre#
@@ -465,20 +462,13 @@ DaAi2 (大愛2) ,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 体育台,#genre#
 
-央视台球,http://117.161.133.51:81/gitv_live/G_TAIQIU-CQ/G_TAIQIU-CQ.m3u8?p=GITV
-央视台球,http://php.jdshipin.com:8880/TVOD/iptv.php?id=ystq
-央视台球,http://cdn.jdshipin.com:8880/ysp.php?id=ystq
 央视台球,https://live.goodiptv.club/api/cqyx.php?id=ystqHD
-央视台球,http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172403.m3u8
-央视台球,http://42.48.17.204:808/hls/108/index.m3u8
 
-风云足球,http://117.161.133.51:81/gitv_live/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8?p=GITV
+
 风云足球,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fyzq
 风云足球,http://cdn.jdshipin.com:8880/ysp.php?id=fyzq
-风云足球,https://epg.pw/stream/429f44be8f007cfd67bf72ba165eb20871064218965c65efd1207c1c112b371c.ctv
-风云足球,http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
-风云足球,http://123.189.36.7:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 高尔夫网球,http://117.161.133.51:81/gitv_live/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ.m3u8?p=GITV
 高尔夫网球,https://epg.pw/stream/b7bea242512cacd749fdc6300350d422f59ac8d08bc703b55169535d01668344.ctv
@@ -495,6 +485,7 @@ DaAi2 (大愛2) ,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 综合体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226124/index.m3u8$8.1M_1080
 
+广东体育,http://113.65.7.43:8888/udp/239.77.0.6:5146$LR•IPV4『线路22』
 广东体育,https://epg.pw/stream/ff6983ce34a2ad295545550992df113dfeb39a061f903a8cf4dd426451c7530b.m3u8
 广东体育,http://php.jdshipin.com:8880/chudian.php?id=gdty
 劲爆体育,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000008
@@ -505,15 +496,19 @@ DaAi2 (大愛2) ,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 五星体育,http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 五星体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
 
-魅力足球,http://hlsbkmgsplive.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?&HlsSubType=&encrypt=,
 SITV魅力足球,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
+SITV魅力足球,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031207/1.m3u8
+SITV魅力足球,http://hlsbkmgsplive.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?&HlsSubType=&encrypt=,
+
 IHOT爱体育,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000290630
 newtv精品体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 newtv精品体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/index.m3u8$4.0M_1080
+newtv精品体育,http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 newtv精品体育,http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw520038825_-1252386603/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8?icpid=3&RTS=1674380635&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 newtv超级体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 newtv超级体育,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225715/index.m3u8$4.1M_1080
 newtv超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+
 
 穿越火线赛事,http://159.75.85.63:35455/huya/660101
 
@@ -1121,8 +1116,8 @@ FIFA+,https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 ESPN,https://epg.pw/stream/1feb00c8dfa4f135e1f00a93533eeaca5650c3b96c647d96e729008e13833d5e.ctv
 Nat Geo,http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 
 半岛电视,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8?zshijd
@@ -1363,11 +1358,14 @@ iPanda怡然2,http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
 知否知否应是绿肥红瘦,http://live.iill.top/yy.php?id=21881901
 神探狄仁杰,http://maomao.kandiantv.cn/douyu1.php?id=3395113
 神探狄仁杰轮播,http://live.iill.top/douyu.php?id=3395113
+ 神探狄仁杰1—5部全集,https://lunbo.freetv.top/yy/1382705592
 新白娘子传奇-修复版,http://live.iill.top/yy.php?id=1354930969
 科幻惊悚片-异形,https://lunbo.freetv.top/yy/1382735543
 007系列动作大片,https://lunbo.freetv.top/yy/1382736897
 第一滴血全集,https://lunbo.freetv.top/yy/1354932355
 喜剧电影,http://43.138.170.29:35455/douyu/9292492
+憨豆先生,https://lunbo.freetv.top/yy/1354930189
+白鹿原-国内经典战争片,https://lunbo.freetv.top/yy/1354931488
 豆瓣高分,http://zzy789.xyz/douyu1.php?id=8770422
 斗鱼-古装剧,http://maomao.kandiantv.cn/douyu1.php?id=338759
 斗鱼-恐怖1,http://159.75.85.63:35455/douyu/2935323
