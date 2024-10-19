@@ -1,1286 +1,566 @@
 #EXTM3U#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
-#EXTINF:-1 group-title="广东电信,#genre#",广东卫视
-http://tenfarr.com:4000/rtp/239.77.0.2:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东卫视
-http://tenfarr.com:4000/rtp/239.77.1.2:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.19:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.152:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.84:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东卫视超清
-http://tenfarr.com:4000/rtp/239.77.0.166:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东珠江
-http://tenfarr.com:4000/rtp/239.77.0.3:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东珠江
-http://tenfarr.com:4000/rtp/239.77.1.94:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东珠江高清
-http://tenfarr.com:4000/rtp/239.77.0.1:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东珠江超清
-http://tenfarr.com:4000/rtp/239.77.0.114:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东新闻
-http://tenfarr.com:4000/rtp/239.77.0.4:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东新闻高清
-http://tenfarr.com:4000/rtp/239.77.0.173:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东民生
-http://tenfarr.com:4000/rtp/239.77.0.5:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东民生高清
-http://tenfarr.com:4000/rtp/239.77.0.225:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东体育
-http://tenfarr.com:4000/rtp/239.77.0.6:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东体育（深圳）
-http://tenfarr.com:4000/rtp/239.77.1.97:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东体育高清-测试
-http://tenfarr.com:4000/rtp/239.77.0.112:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东体育超清
-http://tenfarr.com:4000/rtp/239.77.0.168:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东国际
-http://tenfarr.com:4000/rtp/239.77.0.7:5146
-#EXTINF:-1 group-title="广东电信,#genre#",经济科教
-http://tenfarr.com:4000/rtp/239.77.0.8:5146
-#EXTINF:-1 group-title="广东电信,#genre#",经济科教高清
-http://tenfarr.com:4000/rtp/239.77.0.85:5146
-#EXTINF:-1 group-title="广东电信,#genre#",经济科教超清
-http://tenfarr.com:4000/rtp/239.77.0.167:5146
-#EXTINF:-1 group-title="广东电信,#genre#",大湾区卫视
-http://tenfarr.com:4000/rtp/239.77.0.9:5146
-#EXTINF:-1 group-title="广东电信,#genre#",大湾区卫视
-http://tenfarr.com:4000/rtp/239.77.1.12:5146
-#EXTINF:-1 group-title="广东电信,#genre#",大湾区卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.215:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东影视
-http://tenfarr.com:4000/rtp/239.77.0.11:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东影视高清
-http://tenfarr.com:4000/rtp/239.77.0.217:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东少儿
-http://tenfarr.com:4000/rtp/239.77.0.12:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东少儿高清
-http://tenfarr.com:4000/rtp/239.77.0.250:5146
-#EXTINF:-1 group-title="广东电信,#genre#",嘉佳卡通
-http://tenfarr.com:4000/rtp/239.77.0.13:5146
-#EXTINF:-1 group-title="广东电信,#genre#",嘉佳卡通
-http://tenfarr.com:4000/rtp/239.77.1.15:5146
-#EXTINF:-1 group-title="广东电信,#genre#",嘉佳卡通高清
-http://tenfarr.com:4000/rtp/239.77.0.179:5146
-#EXTINF:-1 group-title="广东电信,#genre#",南方购物-精选
-http://tenfarr.com:4000/rtp/239.77.0.19:5146
-#EXTINF:-1 group-title="广东电信,#genre#",南方购物
-http://tenfarr.com:4000/rtp/239.77.0.22:5146
-#EXTINF:-1 group-title="广东电信,#genre#",岭南戏曲
-http://tenfarr.com:4000/rtp/239.77.0.16:5146
-#EXTINF:-1 group-title="广东电信,#genre#",岭南戏曲高清
-http://tenfarr.com:4000/rtp/239.77.0.122:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东房产
-http://tenfarr.com:4000/rtp/239.77.0.14:5146
-#EXTINF:-1 group-title="广东电信,#genre#",现代教育
-http://tenfarr.com:4000/rtp/239.77.0.18:5146
-#EXTINF:-1 group-title="广东电信,#genre#",现代教育高清
-http://tenfarr.com:4000/rtp/239.77.0.213:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东移动
-http://tenfarr.com:4000/rtp/239.77.0.20:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东综艺 4K50p
-http://tenfarr.com:4000/rtp/239.77.1.236:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东综艺 4K
-http://tenfarr.com:4000/rtp/239.77.1.237:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东综艺(4k)
-http://tenfarr.com:4000/rtp/239.77.0.244:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东综艺 宽色域(4k)
-http://tenfarr.com:4000/rtp/239.77.0.246:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东综艺(4k)
-http://tenfarr.com:4000/rtp/239.77.0.245:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东综艺 宽色域AVS2(4k) (AVS2)
-http://tenfarr.com:4000/rtp/239.77.0.252:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广州综合
-http://tenfarr.com:4000/rtp/239.253.43.66:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广州综合高清
-http://tenfarr.com:4000/rtp/239.253.43.71:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广州新闻
-http://tenfarr.com:4000/rtp/239.253.43.67:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广州新闻高清
-http://tenfarr.com:4000/rtp/239.253.43.72:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广州影视
-http://tenfarr.com:4000/rtp/239.253.43.68:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广州影视高清
-http://tenfarr.com:4000/rtp/239.253.43.73:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广州法治
-http://tenfarr.com:4000/rtp/239.253.43.69:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广州法治高清
-http://tenfarr.com:4000/rtp/239.253.43.74:5146
-#EXTINF:-1 group-title="广东电信,#genre#",南国都市 4K
-http://tenfarr.com:4000/rtp/239.253.43.99:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳卫视
-http://tenfarr.com:4000/rtp/239.77.0.55:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳卫视
-http://tenfarr.com:4000/rtp/239.77.1.21:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.3:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.148:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.92:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳卫视超清
-http://tenfarr.com:4000/rtp/239.77.0.130:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳都市频道
-http://tenfarr.com:4000/rtp/239.77.1.34:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳都市频道高清
-http://tenfarr.com:4000/rtp/239.77.1.176:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳都市频道高清
-http://tenfarr.com:4000/rtp/239.77.1.124:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳电视剧频道
-http://tenfarr.com:4000/rtp/239.77.1.7:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳电视剧频道高清
-http://tenfarr.com:4000/rtp/239.77.1.177:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳电视剧频道高清
-http://tenfarr.com:4000/rtp/239.77.1.125:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳财经生活
-http://tenfarr.com:4000/rtp/239.77.1.22:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳财经生活高清
-http://tenfarr.com:4000/rtp/239.77.1.242:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳娱乐频道
-http://tenfarr.com:4000/rtp/239.77.1.36:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳娱乐频道高清
-http://tenfarr.com:4000/rtp/239.77.1.243:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳体育健康
-http://tenfarr.com:4000/rtp/239.77.1.8:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳体育健康高清
-http://tenfarr.com:4000/rtp/239.77.1.128:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳体育健康高清
-http://tenfarr.com:4000/rtp/239.77.1.140:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳少儿频道
-http://tenfarr.com:4000/rtp/239.77.1.38:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳少儿频道高清
-http://tenfarr.com:4000/rtp/239.77.1.244:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳公共频道
-http://tenfarr.com:4000/rtp/239.77.1.9:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳公共频道高清
-http://tenfarr.com:4000/rtp/239.77.1.178:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳公共频道高清
-http://tenfarr.com:4000/rtp/239.77.1.126:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳宝安频道（音频）
-http://tenfarr.com:4000/rtp/239.77.1.206:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳宝安频道高清
-http://tenfarr.com:4000/rtp/239.77.1.67:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳宝安第一课
-http://tenfarr.com:4000/rtp/239.77.1.225:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳龙岗频道高清
-http://tenfarr.com:4000/rtp/239.77.1.223:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳东部频道高清
-http://tenfarr.com:4000/rtp/239.77.1.224:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳众创TV高清
-http://tenfarr.com:4000/rtp/239.77.1.247:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳移动电视
-http://tenfarr.com:4000/rtp/239.77.1.175:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳宜和购物
-http://tenfarr.com:4000/rtp/239.77.1.39:5146
-#EXTINF:-1 group-title="广东电信,#genre#",深圳宜和购物高清
-http://tenfarr.com:4000/rtp/239.77.1.87:5146
-#EXTINF:-1 group-title="广东电信,#genre#",韶关新闻综合
-http://tenfarr.com:4000/rtp/239.77.0.116:5146
-#EXTINF:-1 group-title="广东电信,#genre#",韶关新闻综合高清
-http://tenfarr.com:4000/rtp/239.77.0.117:5146
-#EXTINF:-1 group-title="广东电信,#genre#",湛江新闻综合
-http://tenfarr.com:4000/rtp/239.77.0.120:5146
-#EXTINF:-1 group-title="广东电信,#genre#",湛江新闻综合高清
-http://tenfarr.com:4000/rtp/239.77.0.141:5146
-#EXTINF:-1 group-title="广东电信,#genre#",湛江公共
-http://tenfarr.com:4000/rtp/239.77.0.121:5146
-#EXTINF:-1 group-title="广东电信,#genre#",湛江公共高清
-http://tenfarr.com:4000/rtp/239.77.0.140:5146
-#EXTINF:-1 group-title="广东电信,#genre#",揭阳综合
-http://tenfarr.com:4000/rtp/239.77.0.157:5146
-#EXTINF:-1 group-title="广东电信,#genre#",揭阳综合高清
-http://tenfarr.com:4000/rtp/239.77.0.229:5146
-#EXTINF:-1 group-title="广东电信,#genre#",揭阳生活
-http://tenfarr.com:4000/rtp/239.77.0.158:5146
-#EXTINF:-1 group-title="广东电信,#genre#",揭阳生活高清
-http://tenfarr.com:4000/rtp/239.77.0.251:5146
-#EXTINF:-1 group-title="广东电信,#genre#",汕尾新闻综合
-http://tenfarr.com:4000/rtp/239.77.1.189:5146
-#EXTINF:-1 group-title="广东电信,#genre#",汕尾新闻综合高清
-http://tenfarr.com:4000/rtp/239.77.0.25:5146
-#EXTINF:-1 group-title="广东电信,#genre#",汕尾文化生活
-http://tenfarr.com:4000/rtp/239.77.1.190:5146
-#EXTINF:-1 group-title="广东电信,#genre#",汕尾文化生活高清
-http://tenfarr.com:4000/rtp/239.77.0.187:5146
-#EXTINF:-1 group-title="广东电信,#genre#",江门综合
-http://tenfarr.com:4000/rtp/239.77.0.195:5146
-#EXTINF:-1 group-title="广东电信,#genre#",江门综合高清
-http://tenfarr.com:4000/rtp/239.77.0.201:5146
-#EXTINF:-1 group-title="广东电信,#genre#",江门侨乡生活
-http://tenfarr.com:4000/rtp/239.77.0.196:5146
-#EXTINF:-1 group-title="广东电信,#genre#",江门侨乡生活高清
-http://tenfarr.com:4000/rtp/239.77.0.202:5146
-#EXTINF:-1 group-title="广东电信,#genre#",HZTV-1
-http://tenfarr.com:4000/rtp/239.77.0.247:5146
-#EXTINF:-1 group-title="广东电信,#genre#",HZTV-1
-http://tenfarr.com:4000/rtp/239.77.1.154:5146
-#EXTINF:-1 group-title="广东电信,#genre#",HZTV-1高清
-http://tenfarr.com:4000/rtp/239.77.1.232:5146
-#EXTINF:-1 group-title="广东电信,#genre#",HZTV-2
-http://tenfarr.com:4000/rtp/239.77.0.248:5146
-#EXTINF:-1 group-title="广东电信,#genre#",HZTV-2
-http://tenfarr.com:4000/rtp/239.77.1.173:5146
-#EXTINF:-1 group-title="广东电信,#genre#",HZTV-2高清
-http://tenfarr.com:4000/rtp/239.77.1.233:5146
-#EXTINF:-1 group-title="广东电信,#genre#",珠海-1
-http://tenfarr.com:4000/rtp/239.77.1.230:5146
-#EXTINF:-1 group-title="广东电信,#genre#",珠海-1高清
-http://tenfarr.com:4000/rtp/239.77.0.155:5146
-#EXTINF:-1 group-title="广东电信,#genre#",珠海-2
-http://tenfarr.com:4000/rtp/239.77.1.231:5146
-#EXTINF:-1 group-title="广东电信,#genre#",珠海-2高清
-http://tenfarr.com:4000/rtp/239.77.0.154:5146
-#EXTINF:-1 group-title="广东电信,#genre#",肇庆综合
-http://tenfarr.com:4000/rtp/239.253.43.3:5146
-#EXTINF:-1 group-title="广东电信,#genre#",肇庆综合高清
-http://tenfarr.com:4000/rtp/239.253.43.1:5146
-#EXTINF:-1 group-title="广东电信,#genre#",肇庆生活服务
-http://tenfarr.com:4000/rtp/239.253.43.4:5146
-#EXTINF:-1 group-title="广东电信,#genre#",肇庆生活服务高清
-http://tenfarr.com:4000/rtp/239.253.43.2:5146
-#EXTINF:-1 group-title="广东电信,#genre#",河源综合
-http://tenfarr.com:4000/rtp/239.253.43.215:5146
-#EXTINF:-1 group-title="广东电信,#genre#",河源综合高清
-http://tenfarr.com:4000/rtp/239.253.43.213:5146
-#EXTINF:-1 group-title="广东电信,#genre#",河源公共
-http://tenfarr.com:4000/rtp/239.253.43.216:5146
-#EXTINF:-1 group-title="广东电信,#genre#",河源公共高清
-http://tenfarr.com:4000/rtp/239.253.43.214:5146
-#EXTINF:-1 group-title="广东电信,#genre#",清远新闻综合
-http://tenfarr.com:4000/rtp/239.253.43.31:5146
-#EXTINF:-1 group-title="广东电信,#genre#",清远新闻综合高清
-http://tenfarr.com:4000/rtp/239.253.43.33:5146
-#EXTINF:-1 group-title="广东电信,#genre#",清远文旅生活
-http://tenfarr.com:4000/rtp/239.253.43.32:5146
-#EXTINF:-1 group-title="广东电信,#genre#",清远文旅生活高清
-http://tenfarr.com:4000/rtp/239.253.43.34:5146
-#EXTINF:-1 group-title="广东电信,#genre#",云浮综合
-http://tenfarr.com:4000/rtp/239.253.43.195:5146
-#EXTINF:-1 group-title="广东电信,#genre#",云浮综合高清
-http://tenfarr.com:4000/rtp/239.77.0.253:5146
-#EXTINF:-1 group-title="广东电信,#genre#",云浮文旅
-http://tenfarr.com:4000/rtp/239.253.43.194:5146
-#EXTINF:-1 group-title="广东电信,#genre#",云浮文旅高清
-http://tenfarr.com:4000/rtp/239.77.0.254:5146
-#EXTINF:-1 group-title="广东电信,#genre#",茂名综合
-http://tenfarr.com:4000/rtp/239.77.0.204:5146
-#EXTINF:-1 group-title="广东电信,#genre#",茂名综合高清
-http://tenfarr.com:4000/rtp/239.77.0.206:5146
-#EXTINF:-1 group-title="广东电信,#genre#",茂名公共
-http://tenfarr.com:4000/rtp/239.77.0.205:5146
-#EXTINF:-1 group-title="广东电信,#genre#",茂名公共高清
-http://tenfarr.com:4000/rtp/239.77.0.207:5146
-#EXTINF:-1 group-title="广东电信,#genre#",汕头综合
-http://tenfarr.com:4000/rtp/239.253.43.30:5146
-#EXTINF:-1 group-title="广东电信,#genre#",汕头综合高清
-http://tenfarr.com:4000/rtp/239.77.1.130:5146
-#EXTINF:-1 group-title="广东电信,#genre#",汕头综合高清
-http://tenfarr.com:4000/rtp/239.253.43.45:5146
-#EXTINF:-1 group-title="广东电信,#genre#",汕头经济生活
-http://tenfarr.com:4000/rtp/239.253.43.43:5146
-#EXTINF:-1 group-title="广东电信,#genre#",汕头经济生活高清
-http://tenfarr.com:4000/rtp/239.77.1.131:5146
-#EXTINF:-1 group-title="广东电信,#genre#",汕头经济生活高清
-http://tenfarr.com:4000/rtp/239.253.43.46:5146
-#EXTINF:-1 group-title="广东电信,#genre#",汕头文旅体育
-http://tenfarr.com:4000/rtp/239.253.43.44:5146
-#EXTINF:-1 group-title="广东电信,#genre#",汕头文旅体育高清
-http://tenfarr.com:4000/rtp/239.77.1.132:5146
-#EXTINF:-1 group-title="广东电信,#genre#",汕头文旅体育高清
-http://tenfarr.com:4000/rtp/239.253.43.47:5146
-#EXTINF:-1 group-title="广东电信,#genre#",佛山公共
-http://tenfarr.com:4000/rtp/239.253.43.48:5146
-#EXTINF:-1 group-title="广东电信,#genre#",佛山公共高清
-http://tenfarr.com:4000/rtp/239.253.43.53:5146
-#EXTINF:-1 group-title="广东电信,#genre#",佛山南海
-http://tenfarr.com:4000/rtp/239.253.43.49:5146
-#EXTINF:-1 group-title="广东电信,#genre#",佛山南海
-http://tenfarr.com:4000/rtp/239.77.0.236:5146
-#EXTINF:-1 group-title="广东电信,#genre#",佛山南海高清
-http://tenfarr.com:4000/rtp/239.253.43.54:5146
-#EXTINF:-1 group-title="广东电信,#genre#",佛山顺德
-http://tenfarr.com:4000/rtp/239.253.43.50:5146
-#EXTINF:-1 group-title="广东电信,#genre#",佛山顺德高清
-http://tenfarr.com:4000/rtp/239.253.43.55:5146
-#EXTINF:-1 group-title="广东电信,#genre#",佛山影视
-http://tenfarr.com:4000/rtp/239.253.43.51:5146
-#EXTINF:-1 group-title="广东电信,#genre#",佛山影视高清
-http://tenfarr.com:4000/rtp/239.253.43.56:5146
-#EXTINF:-1 group-title="广东电信,#genre#",佛山综合
-http://tenfarr.com:4000/rtp/239.253.43.52:5146
-#EXTINF:-1 group-title="广东电信,#genre#",佛山综合高清
-http://tenfarr.com:4000/rtp/239.253.43.57:5146
-#EXTINF:-1 group-title="广东电信,#genre#",东莞新闻综合
-http://tenfarr.com:4000/rtp/239.253.43.102:5146
-#EXTINF:-1 group-title="广东电信,#genre#",东莞新闻综合高清
-http://tenfarr.com:4000/rtp/239.253.43.104:5146
-#EXTINF:-1 group-title="广东电信,#genre#",东莞生活资讯
-http://tenfarr.com:4000/rtp/239.253.43.103:5146
-#EXTINF:-1 group-title="广东电信,#genre#",东莞生活资讯高清
-http://tenfarr.com:4000/rtp/239.253.43.105:5146
-#EXTINF:-1 group-title="广东电信,#genre#",中山综合
-http://tenfarr.com:4000/rtp/239.253.43.59:5146
-#EXTINF:-1 group-title="广东电信,#genre#",中山综合高清
-http://tenfarr.com:4000/rtp/239.253.43.62:5146
-#EXTINF:-1 group-title="广东电信,#genre#",香山文化
-http://tenfarr.com:4000/rtp/239.253.43.60:5146
-#EXTINF:-1 group-title="广东电信,#genre#",香山文化高清
-http://tenfarr.com:4000/rtp/239.253.43.63:5146
-#EXTINF:-1 group-title="广东电信,#genre#",中山教育
-http://tenfarr.com:4000/rtp/239.253.43.61:5146
-#EXTINF:-1 group-title="广东电信,#genre#",中山教育高清
-http://tenfarr.com:4000/rtp/239.253.43.64:5146
-#EXTINF:-1 group-title="广东电信,#genre#",潮州综合高清
-http://tenfarr.com:4000/rtp/239.253.43.70:5146
-#EXTINF:-1 group-title="广东电信,#genre#",潮州民生高清
-http://tenfarr.com:4000/rtp/239.253.43.75:5146
-#EXTINF:-1 group-title="广东电信,#genre#",徐闻综合高清
-http://tenfarr.com:4000/rtp/239.253.43.112:5146
-#EXTINF:-1 group-title="广东电信,#genre#",梅州-1高清
-http://tenfarr.com:4000/rtp/239.253.43.123:5146
-#EXTINF:-1 group-title="广东电信,#genre#",客家生活高清
-http://tenfarr.com:4000/rtp/239.253.43.124:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-1综合
-http://tenfarr.com:4000/rtp/239.77.0.30:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-1
-http://tenfarr.com:4000/rtp/239.77.1.20:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-1
-http://tenfarr.com:4000/rtp/239.77.0.241:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-1高清
-http://tenfarr.com:4000/rtp/239.77.1.17:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-1高清
-http://tenfarr.com:4000/rtp/239.77.1.144:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-1高清
-http://tenfarr.com:4000/rtp/239.77.0.119:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-1高清(CCTV -1综合高清)
-http://tenfarr.com:4000/rtp/239.77.0.86:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-1超清
-http://tenfarr.com:4000/rtp/239.77.0.129:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-2财经
-http://tenfarr.com:4000/rtp/239.77.0.31:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-2
-http://tenfarr.com:4000/rtp/239.77.1.28:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-2高清
-http://tenfarr.com:4000/rtp/239.77.1.158:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-2高清 (CAVS)
-http://tenfarr.com:4000/rtp/239.253.43.17:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-2高清测试(CCTV -2财经高清)
-http://tenfarr.com:4000/rtp/239.77.0.137:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-3综艺
-http://tenfarr.com:4000/rtp/239.77.0.32:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-3高清
-http://tenfarr.com:4000/rtp/239.77.0.169:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-3超清 (CAVS)
-http://tenfarr.com:4000/rtp/239.77.0.175:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-4中文国际
-http://tenfarr.com:4000/rtp/239.77.0.33:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-4
-http://tenfarr.com:4000/rtp/239.77.1.41:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-4高清
-http://tenfarr.com:4000/rtp/239.77.1.163:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-4高清
-http://tenfarr.com:4000/rtp/239.77.1.166:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-4高清
-http://tenfarr.com:4000/rtp/239.77.0.78:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-4美洲高清
-http://tenfarr.com:4000/rtp/239.253.43.121:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-4欧洲高清
-http://tenfarr.com:4000/rtp/239.253.43.120:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-5体育
-http://tenfarr.com:4000/rtp/239.77.0.34:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-5高清
-http://tenfarr.com:4000/rtp/239.77.0.170:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-5超清 (CAVS)
-http://tenfarr.com:4000/rtp/239.77.0.177:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-5+
-http://tenfarr.com:4000/rtp/239.77.1.146:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-5+高清
-http://tenfarr.com:4000/rtp/239.77.0.87:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-5+高清
-http://tenfarr.com:4000/rtp/239.77.1.31:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-5+高清
-http://tenfarr.com:4000/rtp/239.77.1.147:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-6电影
-http://tenfarr.com:4000/rtp/239.77.0.35:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-6高清
-http://tenfarr.com:4000/rtp/239.77.0.171:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-6超清 (CAVS)
-http://tenfarr.com:4000/rtp/239.77.0.178:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-7国防军事
-http://tenfarr.com:4000/rtp/239.77.0.36:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-7
-http://tenfarr.com:4000/rtp/239.77.1.24:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-7高清
-http://tenfarr.com:4000/rtp/239.77.1.159:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-7高清 (CAVS)
-http://tenfarr.com:4000/rtp/239.77.1.167:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-7高清测试(CCTV -7军事农业高清)
-http://tenfarr.com:4000/rtp/239.77.0.138:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-8电视剧
-http://tenfarr.com:4000/rtp/239.77.0.37:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-8高清
-http://tenfarr.com:4000/rtp/239.77.0.172:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-8超清 (CAVS)
-http://tenfarr.com:4000/rtp/239.77.0.181:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-9纪录
-http://tenfarr.com:4000/rtp/239.77.0.38:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-9
-http://tenfarr.com:4000/rtp/239.77.1.65:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-9高清
-http://tenfarr.com:4000/rtp/239.77.1.160:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-9高清 (CAVS)
-http://tenfarr.com:4000/rtp/239.77.1.168:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-9高清测试
-http://tenfarr.com:4000/rtp/239.77.0.135:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-10科教
-http://tenfarr.com:4000/rtp/239.77.0.39:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-10
-http://tenfarr.com:4000/rtp/239.77.1.25:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-10高清
-http://tenfarr.com:4000/rtp/239.77.1.113:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-10高清 (CAVS)
-http://tenfarr.com:4000/rtp/239.77.1.169:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-10高清测试(CCTV-10科教高清)
-http://tenfarr.com:4000/rtp/239.77.0.134:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-11戏曲
-http://tenfarr.com:4000/rtp/239.77.0.40:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-11
-http://tenfarr.com:4000/rtp/239.77.1.42:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-11高清
-http://tenfarr.com:4000/rtp/239.77.1.238:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-12社会与法
-http://tenfarr.com:4000/rtp/239.77.0.41:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-12
-http://tenfarr.com:4000/rtp/239.77.1.10:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-12高清
-http://tenfarr.com:4000/rtp/239.77.1.109:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-12高清 (CAVS)
-http://tenfarr.com:4000/rtp/239.77.1.170:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-12高清测试
-http://tenfarr.com:4000/rtp/239.77.0.136:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-13新闻
-http://tenfarr.com:4000/rtp/239.77.0.42:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-13
-http://tenfarr.com:4000/rtp/239.77.1.26:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-13高清
-http://tenfarr.com:4000/rtp/239.77.0.188:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-13高清
-http://tenfarr.com:4000/rtp/239.253.43.196:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-14少儿
-http://tenfarr.com:4000/rtp/239.77.0.43:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-14
-http://tenfarr.com:4000/rtp/239.77.1.43:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-14高清
-http://tenfarr.com:4000/rtp/239.77.1.161:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-14高清 (CAVS)
-http://tenfarr.com:4000/rtp/239.77.1.171:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-14高清测试
-http://tenfarr.com:4000/rtp/239.77.0.133:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-15音乐
-http://tenfarr.com:4000/rtp/239.77.0.44:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-15
-http://tenfarr.com:4000/rtp/239.77.1.11:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-15高清
-http://tenfarr.com:4000/rtp/239.77.1.239:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-16高清
-http://tenfarr.com:4000/rtp/239.77.0.165:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-16高清
-http://tenfarr.com:4000/rtp/239.77.1.76:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-16 4K
-http://tenfarr.com:4000/rtp/239.77.1.98:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-17农业
-http://tenfarr.com:4000/rtp/239.77.0.115:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-17
-http://tenfarr.com:4000/rtp/239.77.1.123:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-17高清
-http://tenfarr.com:4000/rtp/239.77.1.121:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-17农业高清
-http://tenfarr.com:4000/rtp/239.77.0.198:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-4K 4K
-http://tenfarr.com:4000/rtp/239.77.0.194:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-4K 4K50p
-http://tenfarr.com:4000/rtp/239.77.0.174:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-4K 4K
-http://tenfarr.com:4000/rtp/239.77.1.180:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CCTV-8K 8K
-http://tenfarr.com:4000/rtp/239.253.43.106:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CGTN
-http://tenfarr.com:4000/rtp/239.77.0.45:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CGTN
-http://tenfarr.com:4000/rtp/239.77.1.27:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CGTN英语高清
-http://tenfarr.com:4000/rtp/239.77.0.199:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CGTN Documentary高清
-http://tenfarr.com:4000/rtp/239.253.43.122:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CGTN西班牙语高清
-http://tenfarr.com:4000/rtp/239.77.0.221:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CGTN法语高清
-http://tenfarr.com:4000/rtp/239.77.0.228:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CGTN阿拉伯语高清
-http://tenfarr.com:4000/rtp/239.253.43.200:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CGTN俄语高清
-http://tenfarr.com:4000/rtp/239.253.43.201:5146
-#EXTINF:-1 group-title="广东电信,#genre#",湖南卫视
-http://tenfarr.com:4000/rtp/239.77.0.46:5146
-#EXTINF:-1 group-title="广东电信,#genre#",湖南卫视
-http://tenfarr.com:4000/rtp/239.77.1.29:5146
-#EXTINF:-1 group-title="广东电信,#genre#",湖南卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.5:5146
-#EXTINF:-1 group-title="广东电信,#genre#",湖南卫视高清 (CAVS)
-http://tenfarr.com:4000/rtp/239.77.1.129:5146
-#EXTINF:-1 group-title="广东电信,#genre#",湖南卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.88:5146
-#EXTINF:-1 group-title="广东电信,#genre#",湖南卫视超清
-http://tenfarr.com:4000/rtp/239.77.0.127:5146
-#EXTINF:-1 group-title="广东电信,#genre#",浙江卫视
-http://tenfarr.com:4000/rtp/239.77.0.47:5146
-#EXTINF:-1 group-title="广东电信,#genre#",浙江卫视
-http://tenfarr.com:4000/rtp/239.77.1.32:5146
-#EXTINF:-1 group-title="广东电信,#genre#",浙江卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.33:5146
-#EXTINF:-1 group-title="广东电信,#genre#",浙江卫视高清 (CAVS)
-http://tenfarr.com:4000/rtp/239.77.1.150:5146
-#EXTINF:-1 group-title="广东电信,#genre#",浙江卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.89:5146
-#EXTINF:-1 group-title="广东电信,#genre#",浙江卫视超清 (CAVS)
-http://tenfarr.com:4000/rtp/239.77.0.125:5146
-#EXTINF:-1 group-title="广东电信,#genre#",江苏卫视
-http://tenfarr.com:4000/rtp/239.77.0.48:5146
-#EXTINF:-1 group-title="广东电信,#genre#",江苏卫视
-http://tenfarr.com:4000/rtp/239.77.1.40:5146
-#EXTINF:-1 group-title="广东电信,#genre#",江苏卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.18:5146
-#EXTINF:-1 group-title="广东电信,#genre#",江苏卫视高清 (CAVS)
-http://tenfarr.com:4000/rtp/239.77.1.149:5146
-#EXTINF:-1 group-title="广东电信,#genre#",江苏卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.90:5146
-#EXTINF:-1 group-title="广东电信,#genre#",江苏卫视超清 (CAVS)
-http://tenfarr.com:4000/rtp/239.77.0.126:5146
-#EXTINF:-1 group-title="广东电信,#genre#",东方卫视
-http://tenfarr.com:4000/rtp/239.77.0.49:5146
-#EXTINF:-1 group-title="广东电信,#genre#",东方卫视
-http://tenfarr.com:4000/rtp/239.77.1.48:5146
-#EXTINF:-1 group-title="广东电信,#genre#",东方卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.218:5146
-#EXTINF:-1 group-title="广东电信,#genre#",东方卫视高清 (CAVS)
-http://tenfarr.com:4000/rtp/239.77.1.156:5146
-#EXTINF:-1 group-title="广东电信,#genre#",东方卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.98:5146
-#EXTINF:-1 group-title="广东电信,#genre#",安徽卫视
-http://tenfarr.com:4000/rtp/239.77.0.50:5146
-#EXTINF:-1 group-title="广东电信,#genre#",安徽卫视
-http://tenfarr.com:4000/rtp/239.77.1.13:5146
-#EXTINF:-1 group-title="广东电信,#genre#",安徽卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.92:5146
-#EXTINF:-1 group-title="广东电信,#genre#",安徽卫视高清 (CAVS)
-http://tenfarr.com:4000/rtp/239.77.1.157:5146
-#EXTINF:-1 group-title="广东电信,#genre#",安徽卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.183:5146
-#EXTINF:-1 group-title="广东电信,#genre#",北京卫视
-http://tenfarr.com:4000/rtp/239.77.0.51:5146
-#EXTINF:-1 group-title="广东电信,#genre#",北京卫视
-http://tenfarr.com:4000/rtp/239.77.1.14:5146
-#EXTINF:-1 group-title="广东电信,#genre#",北京卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.4:5146
-#EXTINF:-1 group-title="广东电信,#genre#",北京卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.151:5146
-#EXTINF:-1 group-title="广东电信,#genre#",北京卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.91:5146
-#EXTINF:-1 group-title="广东电信,#genre#",天津卫视
-http://tenfarr.com:4000/rtp/239.77.0.52:5146
-#EXTINF:-1 group-title="广东电信,#genre#",天津卫视
-http://tenfarr.com:4000/rtp/239.77.1.37:5146
-#EXTINF:-1 group-title="广东电信,#genre#",天津卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.141:5146
-#EXTINF:-1 group-title="广东电信,#genre#",天津卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.182:5146
-#EXTINF:-1 group-title="广东电信,#genre#",天津卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.97:5146
-#EXTINF:-1 group-title="广东电信,#genre#",天津卫视超清
-http://tenfarr.com:4000/rtp/239.77.0.131:5146
-#EXTINF:-1 group-title="广东电信,#genre#",山东卫视
-http://tenfarr.com:4000/rtp/239.77.0.53:5146
-#EXTINF:-1 group-title="广东电信,#genre#",山东卫视
-http://tenfarr.com:4000/rtp/239.77.1.66:5146
-#EXTINF:-1 group-title="广东电信,#genre#",山东卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.142:5146
-#EXTINF:-1 group-title="广东电信,#genre#",山东卫视高清 (CAVS)
-http://tenfarr.com:4000/rtp/239.77.1.153:5146
-#EXTINF:-1 group-title="广东电信,#genre#",山东卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.94:5146
-#EXTINF:-1 group-title="广东电信,#genre#",山东卫视超清 (CAVS)
-http://tenfarr.com:4000/rtp/239.77.0.132:5146
-#EXTINF:-1 group-title="广东电信,#genre#",江西卫视
-http://tenfarr.com:4000/rtp/239.77.0.54:5146
-#EXTINF:-1 group-title="广东电信,#genre#",江西卫视
-http://tenfarr.com:4000/rtp/239.77.1.73:5146
-#EXTINF:-1 group-title="广东电信,#genre#",江西卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.219:5146
-#EXTINF:-1 group-title="广东电信,#genre#",江西卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.149:5146
-#EXTINF:-1 group-title="广东电信,#genre#",湖北卫视
-http://tenfarr.com:4000/rtp/239.77.0.56:5146
-#EXTINF:-1 group-title="广东电信,#genre#",湖北卫视
-http://tenfarr.com:4000/rtp/239.77.1.44:5146
-#EXTINF:-1 group-title="广东电信,#genre#",湖北卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.93:5146
-#EXTINF:-1 group-title="广东电信,#genre#",湖北卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.174:5146
-#EXTINF:-1 group-title="广东电信,#genre#",湖北卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.95:5146
-#EXTINF:-1 group-title="广东电信,#genre#",湖北卫视超清
-http://tenfarr.com:4000/rtp/239.77.0.128:5146
-#EXTINF:-1 group-title="广东电信,#genre#",辽宁卫视
-http://tenfarr.com:4000/rtp/239.77.0.57:5146
-#EXTINF:-1 group-title="广东电信,#genre#",辽宁卫视
-http://tenfarr.com:4000/rtp/239.77.1.62:5146
-#EXTINF:-1 group-title="广东电信,#genre#",辽宁卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.103:5146
-#EXTINF:-1 group-title="广东电信,#genre#",辽宁卫视 高清
-http://tenfarr.com:4000/rtp/239.77.0.123:5146
-#EXTINF:-1 group-title="广东电信,#genre#",辽宁卫视超清 (CAVS)
-http://tenfarr.com:4000/rtp/239.77.0.161:5146
-#EXTINF:-1 group-title="广东电信,#genre#",黑龙江卫视
-http://tenfarr.com:4000/rtp/239.77.0.58:5146
-#EXTINF:-1 group-title="广东电信,#genre#",黑龙江卫视
-http://tenfarr.com:4000/rtp/239.77.1.71:5146
-#EXTINF:-1 group-title="广东电信,#genre#",黑龙江卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.6:5146
-#EXTINF:-1 group-title="广东电信,#genre#",黑龙江卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.179:5146
-#EXTINF:-1 group-title="广东电信,#genre#",黑龙江卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.93:5146
-#EXTINF:-1 group-title="广东电信,#genre#",黑龙江卫视超清
-http://tenfarr.com:4000/rtp/239.77.0.124:5146
-#EXTINF:-1 group-title="广东电信,#genre#",贵州卫视
-http://tenfarr.com:4000/rtp/239.77.0.59:5146
-#EXTINF:-1 group-title="广东电信,#genre#",贵州卫视
-http://tenfarr.com:4000/rtp/239.77.1.61:5146
-#EXTINF:-1 group-title="广东电信,#genre#",贵州卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.221:5146
-#EXTINF:-1 group-title="广东电信,#genre#",贵州卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.230:5146
-#EXTINF:-1 group-title="广东电信,#genre#",四川卫视
-http://tenfarr.com:4000/rtp/239.77.0.60:5146
-#EXTINF:-1 group-title="广东电信,#genre#",四川卫视
-http://tenfarr.com:4000/rtp/239.77.1.30:5146
-#EXTINF:-1 group-title="广东电信,#genre#",四川卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.215:5146
-#EXTINF:-1 group-title="广东电信,#genre#",四川卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.159:5146
-#EXTINF:-1 group-title="广东电信,#genre#",四川卫视超清 (CAVS)
-http://tenfarr.com:4000/rtp/239.77.0.163:5146
-#EXTINF:-1 group-title="广东电信,#genre#",河南卫视
-http://tenfarr.com:4000/rtp/239.77.0.61:5146
-#EXTINF:-1 group-title="广东电信,#genre#",河南卫视
-http://tenfarr.com:4000/rtp/239.77.1.58:5146
-#EXTINF:-1 group-title="广东电信,#genre#",河南卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.229:5146
-#EXTINF:-1 group-title="广东电信,#genre#",河南卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.17:5146
-#EXTINF:-1 group-title="广东电信,#genre#",云南卫视
-http://tenfarr.com:4000/rtp/239.77.0.62:5146
-#EXTINF:-1 group-title="广东电信,#genre#",云南卫视
-http://tenfarr.com:4000/rtp/239.77.1.72:5146
-#EXTINF:-1 group-title="广东电信,#genre#",云南卫视高清
-http://tenfarr.com:4000/rtp/239.253.43.37:5146
-#EXTINF:-1 group-title="广东电信,#genre#",云南卫视高清
-http://tenfarr.com:4000/rtp/239.253.43.100:5146
-#EXTINF:-1 group-title="广东电信,#genre#",重庆卫视
-http://tenfarr.com:4000/rtp/239.77.0.63:5146
-#EXTINF:-1 group-title="广东电信,#genre#",重庆卫视
-http://tenfarr.com:4000/rtp/239.77.1.16:5146
-#EXTINF:-1 group-title="广东电信,#genre#",重庆卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.162:5146
-#EXTINF:-1 group-title="广东电信,#genre#",重庆卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.210:5146
-#EXTINF:-1 group-title="广东电信,#genre#",重庆卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.182:5146
-#EXTINF:-1 group-title="广东电信,#genre#",河北卫视
-http://tenfarr.com:4000/rtp/239.77.0.64:5146
-#EXTINF:-1 group-title="广东电信,#genre#",河北卫视
-http://tenfarr.com:4000/rtp/239.77.1.60:5146
-#EXTINF:-1 group-title="广东电信,#genre#",河北卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.214:5146
-#EXTINF:-1 group-title="广东电信,#genre#",河北卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.148:5146
-#EXTINF:-1 group-title="广东电信,#genre#",东南卫视
-http://tenfarr.com:4000/rtp/239.77.0.65:5146
-#EXTINF:-1 group-title="广东电信,#genre#",东南卫视
-http://tenfarr.com:4000/rtp/239.77.1.1:5146
-#EXTINF:-1 group-title="广东电信,#genre#",东南卫视
-http://tenfarr.com:4000/rtp/239.77.1.213:5146
-#EXTINF:-1 group-title="广东电信,#genre#",东南卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.104:5146
-#EXTINF:-1 group-title="广东电信,#genre#",福建东南卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.146:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广西卫视
-http://tenfarr.com:4000/rtp/239.77.0.66:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广西卫视
-http://tenfarr.com:4000/rtp/239.77.1.59:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广西卫视高清
-http://tenfarr.com:4000/rtp/239.253.43.36:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广西卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.139:5146
-#EXTINF:-1 group-title="广东电信,#genre#",吉林卫视
-http://tenfarr.com:4000/rtp/239.77.0.67:5146
-#EXTINF:-1 group-title="广东电信,#genre#",吉林卫视
-http://tenfarr.com:4000/rtp/239.77.1.45:5146
-#EXTINF:-1 group-title="广东电信,#genre#",吉林卫视高清
-http://tenfarr.com:4000/rtp/239.77.1.111:5146
-#EXTINF:-1 group-title="广东电信,#genre#",吉林卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.150:5146
-#EXTINF:-1 group-title="广东电信,#genre#",陕西卫视
-http://tenfarr.com:4000/rtp/239.77.0.68:5146
-#EXTINF:-1 group-title="广东电信,#genre#",陕西卫视
-http://tenfarr.com:4000/rtp/239.77.1.54:5146
-#EXTINF:-1 group-title="广东电信,#genre#",山西卫视
-http://tenfarr.com:4000/rtp/239.77.0.69:5146
-#EXTINF:-1 group-title="广东电信,#genre#",山西卫视
-http://tenfarr.com:4000/rtp/239.77.1.74:5146
-#EXTINF:-1 group-title="广东电信,#genre#",内蒙古卫视
-http://tenfarr.com:4000/rtp/239.77.0.70:5146
-#EXTINF:-1 group-title="广东电信,#genre#",内蒙古卫视
-http://tenfarr.com:4000/rtp/239.77.1.55:5146
-#EXTINF:-1 group-title="广东电信,#genre#",青海卫视
-http://tenfarr.com:4000/rtp/239.77.0.71:5146
-#EXTINF:-1 group-title="广东电信,#genre#",青海卫视
-http://tenfarr.com:4000/rtp/239.77.1.70:5146
-#EXTINF:-1 group-title="广东电信,#genre#",青海卫视高清
-http://tenfarr.com:4000/rtp/239.253.43.125:5146
-#EXTINF:-1 group-title="广东电信,#genre#",海南卫视
-http://tenfarr.com:4000/rtp/239.77.0.72:5146
-#EXTINF:-1 group-title="广东电信,#genre#",海南卫视
-http://tenfarr.com:4000/rtp/239.77.1.51:5146
-#EXTINF:-1 group-title="广东电信,#genre#",海南卫视高清
-http://tenfarr.com:4000/rtp/239.253.43.35:5146
-#EXTINF:-1 group-title="广东电信,#genre#",海南卫视高清
-http://tenfarr.com:4000/rtp/239.253.43.101:5146
-#EXTINF:-1 group-title="广东电信,#genre#",宁夏卫视
-http://tenfarr.com:4000/rtp/239.77.0.73:5146
-#EXTINF:-1 group-title="广东电信,#genre#",宁夏卫视
-http://tenfarr.com:4000/rtp/239.77.1.47:5146
-#EXTINF:-1 group-title="广东电信,#genre#",西藏卫视
-http://tenfarr.com:4000/rtp/239.77.0.74:5146
-#EXTINF:-1 group-title="广东电信,#genre#",西藏卫视
-http://tenfarr.com:4000/rtp/239.77.1.49:5146
-#EXTINF:-1 group-title="广东电信,#genre#",新疆卫视
-http://tenfarr.com:4000/rtp/239.77.0.75:5146
-#EXTINF:-1 group-title="广东电信,#genre#",新疆卫视
-http://tenfarr.com:4000/rtp/239.77.1.53:5146
-#EXTINF:-1 group-title="广东电信,#genre#",甘肃卫视
-http://tenfarr.com:4000/rtp/239.77.0.76:5146
-#EXTINF:-1 group-title="广东电信,#genre#",甘肃卫视
-http://tenfarr.com:4000/rtp/239.77.1.57:5146
-#EXTINF:-1 group-title="广东电信,#genre#",甘肃卫视高清
-http://tenfarr.com:4000/rtp/239.77.0.189:5146
-#EXTINF:-1 group-title="广东电信,#genre#",兵团卫视
-http://tenfarr.com:4000/rtp/239.77.0.77:5146
-#EXTINF:-1 group-title="广东电信,#genre#",兵团卫视
-http://tenfarr.com:4000/rtp/239.77.1.80:5146
-#EXTINF:-1 group-title="广东电信,#genre#",厦门卫视
-http://tenfarr.com:4000/rtp/239.77.0.96:5146
-#EXTINF:-1 group-title="广东电信,#genre#",三沙卫视
-http://tenfarr.com:4000/rtp/239.77.0.152:5146
-#EXTINF:-1 group-title="广东电信,#genre#",三沙卫视
-http://tenfarr.com:4000/rtp/239.77.1.117:5146
-#EXTINF:-1 group-title="广东电信,#genre#",三沙卫视高清
-http://tenfarr.com:4000/rtp/239.253.43.113:5146
-#EXTINF:-1 group-title="广东电信,#genre#",吉林延边卫视
-http://tenfarr.com:4000/rtp/239.77.0.10:5146
-#EXTINF:-1 group-title="广东电信,#genre#",延边卫视
-http://tenfarr.com:4000/rtp/239.77.1.99:5146
-#EXTINF:-1 group-title="广东电信,#genre#",兵器科技高清
-http://tenfarr.com:4000/rtp/239.253.43.18:5146
-#EXTINF:-1 group-title="广东电信,#genre#",兵器科技高清
-http://tenfarr.com:4000/rtp/239.253.43.9:5146
-#EXTINF:-1 group-title="广东电信,#genre#",电视指南高清
-http://tenfarr.com:4000/rtp/239.253.43.19:5146
-#EXTINF:-1 group-title="广东电信,#genre#",电视指南高清
-http://tenfarr.com:4000/rtp/239.253.43.10:5146
-#EXTINF:-1 group-title="广东电信,#genre#",风云足球高清
-http://tenfarr.com:4000/rtp/239.253.43.20:5146
-#EXTINF:-1 group-title="广东电信,#genre#",风云足球高清
-http://tenfarr.com:4000/rtp/239.253.43.14:5146
-#EXTINF:-1 group-title="广东电信,#genre#",央视台球高清
-http://tenfarr.com:4000/rtp/239.253.43.21:5146
-#EXTINF:-1 group-title="广东电信,#genre#",央视台球高清
-http://tenfarr.com:4000/rtp/239.253.43.11:5146
-#EXTINF:-1 group-title="广东电信,#genre#",高尔夫网球高清
-http://tenfarr.com:4000/rtp/239.253.43.22:5146
-#EXTINF:-1 group-title="广东电信,#genre#",高尔夫网球高清
-http://tenfarr.com:4000/rtp/239.253.43.12:5146
-#EXTINF:-1 group-title="广东电信,#genre#",女性时尚高清
-http://tenfarr.com:4000/rtp/239.253.43.23:5146
-#EXTINF:-1 group-title="广东电信,#genre#",女性时尚高清
-http://tenfarr.com:4000/rtp/239.253.43.8:5146
-#EXTINF:-1 group-title="广东电信,#genre#",世界地理高清
-http://tenfarr.com:4000/rtp/239.253.43.24:5146
-#EXTINF:-1 group-title="广东电信,#genre#",世界地理高清
-http://tenfarr.com:4000/rtp/239.253.43.7:5146
-#EXTINF:-1 group-title="广东电信,#genre#",怀旧剧场高清
-http://tenfarr.com:4000/rtp/239.253.43.25:5146
-#EXTINF:-1 group-title="广东电信,#genre#",怀旧剧场高清
-http://tenfarr.com:4000/rtp/239.253.43.5:5146
-#EXTINF:-1 group-title="广东电信,#genre#",风云剧场高清
-http://tenfarr.com:4000/rtp/239.253.43.26:5146
-#EXTINF:-1 group-title="广东电信,#genre#",风云剧场高清
-http://tenfarr.com:4000/rtp/239.253.43.16:5146
-#EXTINF:-1 group-title="广东电信,#genre#",央视文化精品高清
-http://tenfarr.com:4000/rtp/239.253.43.27:5146
-#EXTINF:-1 group-title="广东电信,#genre#",央视文化精品高清
-http://tenfarr.com:4000/rtp/239.253.43.13:5146
-#EXTINF:-1 group-title="广东电信,#genre#",第一剧场高清
-http://tenfarr.com:4000/rtp/239.253.43.28:5146
-#EXTINF:-1 group-title="广东电信,#genre#",第一剧场高清
-http://tenfarr.com:4000/rtp/239.253.43.15:5146
-#EXTINF:-1 group-title="广东电信,#genre#",风云音乐高清
-http://tenfarr.com:4000/rtp/239.253.43.29:5146
-#EXTINF:-1 group-title="广东电信,#genre#",风云音乐高清
-http://tenfarr.com:4000/rtp/239.253.43.6:5146
-#EXTINF:-1 group-title="广东电信,#genre#",老故事
-http://tenfarr.com:4000/rtp/239.77.0.220:5146
-#EXTINF:-1 group-title="广东电信,#genre#",老故事
-http://tenfarr.com:4000/rtp/239.77.1.197:5146
-#EXTINF:-1 group-title="广东电信,#genre#",中学生
-http://tenfarr.com:4000/rtp/239.77.1.195:5146
-#EXTINF:-1 group-title="广东电信,#genre#",发现之旅
-http://tenfarr.com:4000/rtp/239.77.1.112:5146
-#EXTINF:-1 group-title="广东电信,#genre#",发现之旅
-http://tenfarr.com:4000/rtp/239.253.43.127:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CHC高清电影
-http://tenfarr.com:4000/rtp/239.77.0.27:5146
-#EXTINF:-1 group-title="广东电信,#genre#",卡酷少儿
-http://tenfarr.com:4000/rtp/239.77.0.79:5146
-#EXTINF:-1 group-title="广东电信,#genre#",卡酷少儿
-http://tenfarr.com:4000/rtp/239.77.1.50:5146
-#EXTINF:-1 group-title="广东电信,#genre#",金鹰卡通
-http://tenfarr.com:4000/rtp/239.77.0.80:5146
-#EXTINF:-1 group-title="广东电信,#genre#",金鹰卡通
-http://tenfarr.com:4000/rtp/239.77.1.52:5146
-#EXTINF:-1 group-title="广东电信,#genre#",金鹰卡通高清
-http://tenfarr.com:4000/rtp/239.77.0.164:5146
-#EXTINF:-1 group-title="广东电信,#genre#",哈哈炫动
-http://tenfarr.com:4000/rtp/239.77.0.81:5146
-#EXTINF:-1 group-title="广东电信,#genre#",哈哈炫动
-http://tenfarr.com:4000/rtp/239.77.1.139:5146
-#EXTINF:-1 group-title="广东电信,#genre#",优漫卡通
-http://tenfarr.com:4000/rtp/239.77.0.222:5146
-#EXTINF:-1 group-title="广东电信,#genre#",优漫卡通
-http://tenfarr.com:4000/rtp/239.77.1.79:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CETV-1
-http://tenfarr.com:4000/rtp/239.77.0.82:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CETV-1
-http://tenfarr.com:4000/rtp/239.77.1.46:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CETV-1高清
-http://tenfarr.com:4000/rtp/239.77.1.222:5146
-#EXTINF:-1 group-title="广东电信,#genre#",中国教育-1高清
-http://tenfarr.com:4000/rtp/239.77.0.200:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CETV-2
-http://tenfarr.com:4000/rtp/239.77.0.28:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CETV-2
-http://tenfarr.com:4000/rtp/239.77.1.69:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CETV-4
-http://tenfarr.com:4000/rtp/239.77.0.29:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CETV-4
-http://tenfarr.com:4000/rtp/239.77.1.68:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CETV-4高清
-http://tenfarr.com:4000/rtp/239.77.1.200:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CETV-4高清
-http://tenfarr.com:4000/rtp/239.253.43.40:5146
-#EXTINF:-1 group-title="广东电信,#genre#",CETV-4高清
-http://tenfarr.com:4000/rtp/239.253.43.114:5146
-#EXTINF:-1 group-title="广东电信,#genre#",早期教育高清
-http://tenfarr.com:4000/rtp/239.77.0.180:5146
-#EXTINF:-1 group-title="广东电信,#genre#",山东教育
-http://tenfarr.com:4000/rtp/239.77.0.83:5146
-#EXTINF:-1 group-title="广东电信,#genre#",山东教育卫视
-http://tenfarr.com:4000/rtp/239.77.1.35:5146
-#EXTINF:-1 group-title="广东电信,#genre#",财富天下
-http://tenfarr.com:4000/rtp/239.77.0.113:5146
-#EXTINF:-1 group-title="广东电信,#genre#",财富天下
-http://tenfarr.com:4000/rtp/239.77.1.81:5146
-#EXTINF:-1 group-title="广东电信,#genre#",中国交通
-http://tenfarr.com:4000/rtp/239.77.1.249:5146
-#EXTINF:-1 group-title="广东电信,#genre#",中国天气
-http://tenfarr.com:4000/rtp/239.77.1.143:5146
-#EXTINF:-1 group-title="广东电信,#genre#",茶
-http://tenfarr.com:4000/rtp/239.77.0.15:5146
-#EXTINF:-1 group-title="广东电信,#genre#",茶频道高清
-http://tenfarr.com:4000/rtp/239.77.1.207:5146
-#EXTINF:-1 group-title="广东电信,#genre#",快乐垂钓
-http://tenfarr.com:4000/rtp/239.77.0.145:5146
-#EXTINF:-1 group-title="广东电信,#genre#",快乐垂钓高清
-http://tenfarr.com:4000/rtp/239.77.1.119:5146
-#EXTINF:-1 group-title="广东电信,#genre#",金鹰纪实高清
-http://tenfarr.com:4000/rtp/239.77.1.217:5146
-#EXTINF:-1 group-title="广东电信,#genre#",金鹰纪实高清测试
-http://tenfarr.com:4000/rtp/239.77.0.160:5146
-#EXTINF:-1 group-title="广东电信,#genre#",金鹰纪实超清测试 (CAVS)
-http://tenfarr.com:4000/rtp/239.77.0.162:5146
-#EXTINF:-1 group-title="广东电信,#genre#",上海纪实高清
-http://tenfarr.com:4000/rtp/239.77.1.216:5146
-#EXTINF:-1 group-title="广东电信,#genre#",上海纪实高清
-http://tenfarr.com:4000/rtp/239.77.0.147:5146
-#EXTINF:-1 group-title="广东电信,#genre#",环球奇观
-http://tenfarr.com:4000/rtp/239.77.0.224:5146
-#EXTINF:-1 group-title="广东电信,#genre#",环球奇观
-http://tenfarr.com:4000/rtp/239.77.1.198:5146
-#EXTINF:-1 group-title="广东电信,#genre#",环球奇观
-http://tenfarr.com:4000/rtp/239.253.43.126:5146
-#EXTINF:-1 group-title="广东电信,#genre#",书画频道
-http://tenfarr.com:4000/rtp/239.77.1.115:5146
-#EXTINF:-1 group-title="广东电信,#genre#",DOXTV
-http://tenfarr.com:4000/rtp/239.77.1.155:5146
-#EXTINF:-1 group-title="广东电信,#genre#",优优宝贝
-http://tenfarr.com:4000/rtp/239.77.1.193:5146
-#EXTINF:-1 group-title="广东电信,#genre#",优优宝贝
-http://tenfarr.com:4000/rtp/239.253.43.39:5146
-#EXTINF:-1 group-title="广东电信,#genre#",中华特产
-http://tenfarr.com:4000/rtp/239.77.1.204:5146
-#EXTINF:-1 group-title="广东电信,#genre#",四海钓鱼
-http://tenfarr.com:4000/rtp/239.77.1.137:5146
-#EXTINF:-1 group-title="广东电信,#genre#",环球旅游
-http://tenfarr.com:4000/rtp/239.77.1.202:5146
-#EXTINF:-1 group-title="广东电信,#genre#",生态环境
-http://tenfarr.com:4000/rtp/239.77.1.201:5146
-#EXTINF:-1 group-title="广东电信,#genre#",生态环境
-http://tenfarr.com:4000/rtp/239.253.43.42:5146
-#EXTINF:-1 group-title="广东电信,#genre#",车迷频道
-http://tenfarr.com:4000/rtp/239.77.1.203:5146
-#EXTINF:-1 group-title="广东电信,#genre#",车迷频道
-http://tenfarr.com:4000/rtp/239.253.43.41:5146
-#EXTINF:-1 group-title="广东电信,#genre#",GTV网络棋牌
-http://tenfarr.com:4000/rtp/239.253.43.38:5146
-#EXTINF:-1 group-title="广东电信,#genre#",新动漫
-http://tenfarr.com:4000/rtp/239.77.1.136:5146
-#EXTINF:-1 group-title="广东电信,#genre#",游戏竞技
-http://tenfarr.com:4000/rtp/239.77.0.211:5146
-#EXTINF:-1 group-title="广东电信,#genre#",靓妆
-http://tenfarr.com:4000/rtp/239.77.0.212:5146
-#EXTINF:-1 group-title="广东电信,#genre#",靓妆
-http://tenfarr.com:4000/rtp/239.77.1.118:5146
-#EXTINF:-1 group-title="广东电信,#genre#",求索纪录高清
-http://tenfarr.com:4000/rtp/239.77.0.21:5146
-#EXTINF:-1 group-title="广东电信,#genre#",求索生活高清
-http://tenfarr.com:4000/rtp/239.77.0.153:5146
-#EXTINF:-1 group-title="广东电信,#genre#",梨园
-http://tenfarr.com:4000/rtp/239.77.0.210:5146
-#EXTINF:-1 group-title="广东电信,#genre#",梨园频道高清
-http://tenfarr.com:4000/rtp/239.77.1.100:5146
-#EXTINF:-1 group-title="广东电信,#genre#",武术世界
-http://tenfarr.com:4000/rtp/239.77.0.216:5146
-#EXTINF:-1 group-title="广东电信,#genre#",武术世界高清
-http://tenfarr.com:4000/rtp/239.77.1.108:5146
-#EXTINF:-1 group-title="广东电信,#genre#",文物宝库
-http://tenfarr.com:4000/rtp/239.77.0.227:5146
-#EXTINF:-1 group-title="广东电信,#genre#",文物宝库高清
-http://tenfarr.com:4000/rtp/239.77.1.120:5146
-#EXTINF:-1 group-title="广东电信,#genre#",国学
-http://tenfarr.com:4000/rtp/239.77.0.226:5146
-#EXTINF:-1 group-title="广东电信,#genre#",国学频道
-http://tenfarr.com:4000/rtp/239.77.1.105:5146
-#EXTINF:-1 group-title="广东电信,#genre#",先锋乒羽
-http://tenfarr.com:4000/rtp/239.77.1.208:5146
-#EXTINF:-1 group-title="广东电信,#genre#",汽摩
-http://tenfarr.com:4000/rtp/239.77.0.209:5146
-#EXTINF:-1 group-title="广东电信,#genre#",汽摩
-http://tenfarr.com:4000/rtp/239.77.1.205:5146
-#EXTINF:-1 group-title="广东电信,#genre#",天元围棋
-http://tenfarr.com:4000/rtp/239.253.43.98:5146
-#EXTINF:-1 group-title="广东电信,#genre#",证券服务
-http://tenfarr.com:4000/rtp/239.77.1.135:5146
-#EXTINF:-1 group-title="广东电信,#genre#",证券服务
-http://tenfarr.com:4000/rtp/239.253.43.58:5146
-#EXTINF:-1 group-title="广东电信,#genre#",IPTV1
-http://tenfarr.com:4000/rtp/239.77.1.75:5146
-#EXTINF:-1 group-title="广东电信,#genre#",IPTV2
-http://tenfarr.com:4000/rtp/239.77.1.63:5146
-#EXTINF:-1 group-title="广东电信,#genre#",爱综艺
-http://tenfarr.com:4000/rtp/239.77.0.107:5146
-#EXTINF:-1 group-title="广东电信,#genre#",爱综艺
-http://tenfarr.com:4000/rtp/239.77.1.78:5146
-#EXTINF:-1 group-title="广东电信,#genre#",IPTV3
-http://tenfarr.com:4000/rtp/239.77.1.64:5146
-#EXTINF:-1 group-title="广东电信,#genre#",IPTV4
-http://tenfarr.com:4000/rtp/239.77.1.56:5146
-#EXTINF:-1 group-title="广东电信,#genre#",爱体育
-http://tenfarr.com:4000/rtp/239.77.0.108:5146
-#EXTINF:-1 group-title="广东电信,#genre#",爱体育
-http://tenfarr.com:4000/rtp/239.77.1.77:5146
-#EXTINF:-1 group-title="广东电信,#genre#",爱体育高清
-http://tenfarr.com:4000/rtp/239.77.0.176:5146
-#EXTINF:-1 group-title="广东电信,#genre#",爱体育高清
-http://tenfarr.com:4000/rtp/239.77.1.116:5146
-#EXTINF:-1 group-title="广东电信,#genre#",爱电影
-http://tenfarr.com:4000/rtp/239.77.0.103:5146
-#EXTINF:-1 group-title="广东电信,#genre#",爱电影
-http://tenfarr.com:4000/rtp/239.77.1.138:5146
-#EXTINF:-1 group-title="广东电信,#genre#",爱大剧
-http://tenfarr.com:4000/rtp/239.77.0.105:5146
-#EXTINF:-1 group-title="广东电信,#genre#",爱大剧
-http://tenfarr.com:4000/rtp/239.77.1.82:5146
-#EXTINF:-1 group-title="广东电信,#genre#",IPTV谍战剧场
-http://tenfarr.com:4000/rtp/239.77.0.99:5146
-#EXTINF:-1 group-title="广东电信,#genre#",IPTV谍战剧场
-http://tenfarr.com:4000/rtp/239.77.1.83:5146
-#EXTINF:-1 group-title="广东电信,#genre#",IPTV相声小品
-http://tenfarr.com:4000/rtp/239.77.0.100:5146
-#EXTINF:-1 group-title="广东电信,#genre#",IPTV相声小品
-http://tenfarr.com:4000/rtp/239.77.1.84:5146
-#EXTINF:-1 group-title="广东电信,#genre#",IPTV野外
-http://tenfarr.com:4000/rtp/239.77.0.101:5146
-#EXTINF:-1 group-title="广东电信,#genre#",IPTV野外
-http://tenfarr.com:4000/rtp/239.77.1.85:5146
-#EXTINF:-1 group-title="广东电信,#genre#",IPTV法治
-http://tenfarr.com:4000/rtp/239.77.0.102:5146
-#EXTINF:-1 group-title="广东电信,#genre#",IPTV法治
-http://tenfarr.com:4000/rtp/239.77.1.86:5146
-#EXTINF:-1 group-title="广东电信,#genre#",魅力时尚
-http://tenfarr.com:4000/rtp/239.77.0.110:5146
-#EXTINF:-1 group-title="广东电信,#genre#",IPTV魅力时尚
-http://tenfarr.com:4000/rtp/239.77.1.88:5146
-#EXTINF:-1 group-title="广东电信,#genre#",经典电影
-http://tenfarr.com:4000/rtp/239.77.0.104:5146
-#EXTINF:-1 group-title="广东电信,#genre#",IPTV经典电影
-http://tenfarr.com:4000/rtp/239.77.1.89:5146
-#EXTINF:-1 group-title="广东电信,#genre#",热播剧场
-http://tenfarr.com:4000/rtp/239.77.0.106:5146
-#EXTINF:-1 group-title="广东电信,#genre#",IPTV热播剧场
-http://tenfarr.com:4000/rtp/239.77.1.90:5146
-#EXTINF:-1 group-title="广东电信,#genre#",少儿动画
-http://tenfarr.com:4000/rtp/239.77.0.109:5146
-#EXTINF:-1 group-title="广东电信,#genre#",IPTV少儿动画
-http://tenfarr.com:4000/rtp/239.77.1.91:5146
-#EXTINF:-1 group-title="广东电信,#genre#",IPTV收视指南
-http://tenfarr.com:4000/rtp/239.77.0.111:5146
-#EXTINF:-1 group-title="广东电信,#genre#",4k测试频道8
-http://tenfarr.com:4000/rtp/239.77.0.249:5146
-#EXTINF:-1 group-title="广东电信,#genre#",EBU
-http://tenfarr.com:4000/rtp/239.253.43.165:5146
-#EXTINF:-1 group-title="广东电信,#genre#",PPTV-1
-http://tenfarr.com:4000/rtp/239.77.1.183:5146
-#EXTINF:-1 group-title="广东电信,#genre#",PPTV-2
-http://tenfarr.com:4000/rtp/239.77.1.184:5146
-#EXTINF:-1 group-title="广东电信,#genre#",PPTV-3
-http://tenfarr.com:4000/rtp/239.77.1.185:5146
-#EXTINF:-1 group-title="广东电信,#genre#",PPTV-4
-http://tenfarr.com:4000/rtp/239.77.1.186:5146
-#EXTINF:-1 group-title="广东电信,#genre#",Unknown@239.77.1.23:5146
-http://tenfarr.com:4000/rtp/239.77.1.23:5146
-#EXTINF:-1 group-title="广东电信,#genre#",九屏同播
-http://tenfarr.com:4000/rtp/239.77.1.234:5146
-#EXTINF:-1 group-title="广东电信,#genre#",卫星信号传输故障高清
-http://tenfarr.com:4000/rtp/239.77.1.240:5146
-#EXTINF:-1 group-title="广东电信,#genre#",四屏同播
-http://tenfarr.com:4000/rtp/239.77.1.107:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东IPTV广告
-http://tenfarr.com:4000/rtp/239.77.0.232:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东IPTV广告
-http://tenfarr.com:4000/rtp/239.77.0.233:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东IPTV广告
-http://tenfarr.com:4000/rtp/239.77.0.118:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东IPTV广告
-http://tenfarr.com:4000/rtp/239.77.0.240:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东IPTV广告
-http://tenfarr.com:4000/rtp/239.77.0.208:5146
-#EXTINF:-1 group-title="广东电信,#genre#",广东IPTV广告
-http://tenfarr.com:4000/rtp/239.77.0.218:5146
-#EXTINF:-1 group-title="广东电信,#genre#",极K精选-测试
-http://tenfarr.com:4000/rtp/239.77.0.231:5146
-#EXTINF:-1 group-title="广东电信,#genre#",极k影视-测试
-http://tenfarr.com:4000/rtp/239.253.43.218:5146
-#EXTINF:-1 group-title="广东电信,#genre#",爱上4K
-http://tenfarr.com:4000/rtp/239.253.43.219:5146
-#EXTINF:-1 group-title="广东电信,#genre#",版权问题不能播放
-http://tenfarr.com:4000/rtp/239.77.0.185:5146
-#EXTINF:-1 group-title="广东电信,#genre#",百事通高清
-http://tenfarr.com:4000/rtp/239.253.43.119:5146
-#EXTINF:-1 group-title="广东电信,#genre#",百事通高清
-http://tenfarr.com:4000/rtp/239.253.43.118:5146
-#EXTINF:-1 group-title="广东电信,#genre#",百事通高清
-http://tenfarr.com:4000/rtp/239.253.43.117:5146
-#EXTINF:-1 group-title="广东电信,#genre#",百事通高清
-http://tenfarr.com:4000/rtp/239.253.43.116:5146
-#EXTINF:-1 group-title="广东电信,#genre#",百事通高清
-http://tenfarr.com:4000/rtp/239.253.43.115:5146
-#EXTINF:-1 group-title="广东电信,#genre#",直播室101
-http://tenfarr.com:4000/rtp/239.253.43.217:5146
-#EXTINF:-1 group-title="广东电信,#genre#",直播室102
-http://tenfarr.com:4000/rtp/239.253.43.153:5146
-#EXTINF:-1 group-title="广东电信,#genre#",直播室103
-http://tenfarr.com:4000/rtp/239.253.43.154:5146
-#EXTINF:-1 group-title="广东电信,#genre#",直播室104
-http://tenfarr.com:4000/rtp/239.253.43.155:5146
-#EXTINF:-1 group-title="广东电信,#genre#",直播室105
-http://tenfarr.com:4000/rtp/239.253.43.156:5146
-#EXTINF:-1 group-title="广东电信,#genre#",直播室106
-http://tenfarr.com:4000/rtp/239.253.43.157:5146
-#EXTINF:-1 group-title="广东电信,#genre#",直播室107
-http://tenfarr.com:4000/rtp/239.253.43.158:5146
-#EXTINF:-1 group-title="广东电信,#genre#",直播室108
-http://tenfarr.com:4000/rtp/239.253.43.160:5146
-#EXTINF:-1 group-title="广东电信,#genre#",直播室109
-http://tenfarr.com:4000/rtp/239.253.43.161:5146
-#EXTINF:-1 group-title="广东电信,#genre#",直播室110
-http://tenfarr.com:4000/rtp/239.253.43.162:5146
-#EXTINF:-1 group-title="广东电信,#genre#",直播室111
-http://tenfarr.com:4000/rtp/239.253.43.163:5146
-#EXTINF:-1 group-title="广东电信,#genre#",精选频道1
-http://tenfarr.com:4000/rtp/239.77.0.186:5146
-#EXTINF:-1 group-title="广东电信,#genre#",网络通道3HD
-http://tenfarr.com:4000/rtp/239.77.1.187:5146
-#EXTINF:-1 group-title="广东电信,#genre#",网络通道4HD
-http://tenfarr.com:4000/rtp/239.77.0.235:5146
-#EXTINF:-1 group-title="广东电信,#genre#",网络通道6HD
-http://tenfarr.com:4000/rtp/239.77.1.122:5146
-#EXTINF:-1 group-title="广东电信,#genre#",（信号传输故障）高清
-http://tenfarr.com:4000/rtp/239.77.1.110:5146
-#EXTINF:-1 group-title="本地,#genre#",深圳卫视
+#EXTINF:-1 group-title="本地常用,#genre#",深圳卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
-#EXTINF:-1 group-title="本地,#genre#",深圳卫视
+#EXTINF:-1 group-title="本地常用,#genre#",深圳卫视
 http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000529
-#EXTINF:-1 group-title="本地,#genre#",深圳卫视
+#EXTINF:-1 group-title="本地常用,#genre#",深圳卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225739/index.m3u8
-#EXTINF:-1 group-title="本地,#genre#",深圳卫视
-http://39.134.24.165/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226205/1.m3u8
-#EXTINF:-1 group-title="本地,#genre#",深圳都市
-https://epg.pw/stream/42922b3bab314ce0217fdf746165de08e00d0556ebf961ee63049811baacc5ac.m3u8
-#EXTINF:-1 group-title="本地,#genre#",深圳都市
-http://livepull-tcyzb.sztv.com.cn/live/dushi01.m3u8
-#EXTINF:-1 group-title="本地,#genre#",深圳都市
-https://tv.cry33.com/shenzhen.php?id=szds
-#EXTINF:-1 group-title="本地,#genre#",深圳龙岗
+#EXTINF:-1 group-title="本地常用,#genre#",深圳卫视
+http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225668/main.m3u8
+#EXTINF:-1 group-title="本地常用,#genre#",深圳卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226313/index.m3u8
+#EXTINF:-1 group-title="本地常用,#genre#",深圳龙岗
 http://liveplay.sznews.com/66_showto_live/2647.m3u8
-#EXTINF:-1 group-title="本地,#genre#",深圳众创
+#EXTINF:-1 group-title="本地常用,#genre#",深圳众创
 http://liveplay.sznews.com/66_showto_live/2645.m3u8
-#EXTINF:-1 group-title="本地,#genre#",CHC家庭影院
-http://58.19.38.162:9901/tsfile/live/1036_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="本地,#genre#",CHC家庭影院
-http://123.189.36.86:9901/tsfile/live/1105_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="本地,#genre#",CHC家庭影院
+#EXTINF:-1 group-title="本地常用,#genre#",CHC家庭影院
+http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D
+#EXTINF:-1 group-title="本地常用,#genre#",CHC家庭影院
+http://221.205.180.219:8005/rtp/226.0.2.240:9820$LR•IPV4『线路5』
+#EXTINF:-1 group-title="本地常用,#genre#",CHC家庭影院
+http://219.140.224.108:5555/rtp/239.69.1.243:11100$LR•IPV4『线路10』
+#EXTINF:-1 group-title="本地常用,#genre#",CHC家庭影院
+http://183.188.229.22:6001/rtp/226.0.2.240:9820$LR•IPV4『线路11』
+#EXTINF:-1 group-title="本地常用,#genre#",CHC家庭影院
+http://118.79.7.119:6001/rtp/226.0.2.240:9820$LR•IPV4『线路18』
+#EXTINF:-1 group-title="本地常用,#genre#",CHC家庭影院
 https://epg.pw/stream/085a38ada3bf036f74dc58987291160253095044bdff40a127b5578345656db0.m3u8
-#EXTINF:-1 group-title="本地,#genre#",CHC家庭影院
+#EXTINF:-1 group-title="本地常用,#genre#",CHC家庭影院
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
-#EXTINF:-1 group-title="本地,#genre#",CHC家庭影院
+#EXTINF:-1 group-title="本地常用,#genre#",CHC家庭影院
 http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4&IA%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4
-#EXTINF:-1 group-title="本地,#genre#",CHC影迷电影
-http://58.19.38.162:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="本地,#genre#",CHC影迷电影
+#EXTINF:-1 group-title="本地常用,#genre#",CHC影迷电影
+http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
+#EXTINF:-1 group-title="本地常用,#genre#",CHC影迷电影
+http://221.205.180.219:8005/rtp/226.0.2.93:8004$LR•IPV4『线路24』
+#EXTINF:-1 group-title="本地常用,#genre#",CHC影迷电影
+http://119.98.134.206:5555/rtp/239.69.1.241:11088$LR•IPV4『线路25』
+#EXTINF:-1 group-title="本地常用,#genre#",CHC影迷电影
+http://111.167.49.238:5002/rtp/225.1.1.214:5002$LR•IPV4『线路9』
+#EXTINF:-1 group-title="本地常用,#genre#",CHC影迷电影
+http://[2001:250:5800:1005::155]:80/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
+#EXTINF:-1 group-title="本地常用,#genre#",CHC影迷电影
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
-#EXTINF:-1 group-title="本地,#genre#",CHC影迷电影
+#EXTINF:-1 group-title="本地常用,#genre#",CHC影迷电影
 http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04&%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04
-#EXTINF:-1 group-title="本地,#genre#",CHC动作电影
-https://epg.pw/stream/9e5dbc0cbb15ba574f44e0d67c54cff2c85a7ed97dbb73e3b2101b26fec45cf1.m3u8
-#EXTINF:-1 group-title="本地,#genre#",CHC动作电影
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$LR•IPV6『线路2』
-#EXTINF:-1 group-title="本地,#genre#",CHC动作电影
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$LR•IPV6『线路5』
-#EXTINF:-1 group-title="本地,#genre#",CHC动作电影
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8$LR•IPV6『线路7』
-#EXTINF:-1 group-title="本地,#genre#",CHC动作电影
-http://119.98.70.182:4022/rtp/239.69.1.242:11094$LR•IPV4『线路15』
-#EXTINF:-1 group-title="本地,#genre#",CHC华诚影视
+#EXTINF:-1 group-title="本地常用,#genre#",CHC动作电影
+http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
+#EXTINF:-1 group-title="本地常用,#genre#",CHC动作电影
+http://221.205.180.219:8005/rtp/226.0.2.94:8012$LR•IPV4『线路15』
+#EXTINF:-1 group-title="本地常用,#genre#",CHC动作电影
+http://221.205.180.219:8001/rtp/226.0.2.94:8012$LR•IPV4『线路16』
+#EXTINF:-1 group-title="本地常用,#genre#",CHC动作电影
+http://171.122.158.51:8085/rtp/226.0.2.94:8012$LR•IPV4『线路19』
+#EXTINF:-1 group-title="本地常用,#genre#",CHC动作电影
+http://1.82.70.88:8014/rtp/239.112.205.207:5140$LR•IPV4『线路21』
+#EXTINF:-1 group-title="本地常用,#genre#",CHC动作电影
+http://183.184.170.93:8002/rtp/226.0.2.94:8012$LR•IPV4『线路23』
+#EXTINF:-1 group-title="本地常用,#genre#",CHC动作电影
+http://[2001:250:5800:1005::155]:80/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
+#EXTINF:-1 group-title="本地常用,#genre#",CHC动作电影
+https://stream1.freetv.fun/006b3f2e27c8a3230cc32045d44cba89721e350f7b12bfff5ea1f0109a52c014.ctv
+#EXTINF:-1 group-title="本地常用,#genre#",CHC动作电影
+https://epg.pw/stream/a9e49885cb3e631c34781283c45119db7bc5431c547d78b748880c9f3952fc04.m3u8
+#EXTINF:-1 group-title="本地常用,#genre#",CHC动作电影
+http://58.59.47.242:8180/TV00000000000000000030@HHZT
+#EXTINF:-1 group-title="本地常用,#genre#",CHC华诚影视
 http://120.76.248.139/live/bfgd/4200000289.m3u8
-#EXTINF:-1 group-title="本地,#genre#",1905电影网1
+#EXTINF:-1 group-title="本地常用,#genre#",1905国内电影
 http://php.jdshipin.com:8880/1905.php?id=1905dy
-#EXTINF:-1 group-title="本地,#genre#",1905电影网2
+#EXTINF:-1 group-title="本地常用,#genre#",1905国内电影
+http://ygbh.live/1905.php?id=1905a
+#EXTINF:-1 group-title="本地常用,#genre#",1905国外电影
 http://php.jdshipin.com:8880/1905.php?id=1905dy2
-#EXTINF:-1 group-title="本地,#genre#",斗鱼19
-http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-#EXTINF:-1 group-title="本地,#genre#",斗鱼02
-http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000p.flv?wsAuth=f149db0a268e17b462c4032f715fc551&token=cpn-androidmpro-0-85894-a3575d938a4aa30976aaee9c53a07043e9aa8ec98785781a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
-#EXTINF:-1 group-title="本地,#genre#",AMC电影台
+#EXTINF:-1 group-title="本地常用,#genre#",1905国外电影
+http://ygbh.live/1905.php?id=1905b
+#EXTINF:-1 group-title="本地常用,#genre#",AMC电影台
 http://61.221.215.25:8800/hls/43/index.m3u8
-#EXTINF:-1 group-title="本地,#genre#",AMC电影台
+#EXTINF:-1 group-title="本地常用,#genre#",AMC电影台
 http://mywlkj.ddns.net:754/tv/tw3.php?id=7
-#EXTINF:-1 group-title="本地,#genre#",美亚电影台
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-#EXTINF:-1 group-title="本地,#genre#",点掌财经
-https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
-#EXTINF:-1 group-title="本地,#genre#",成龙
-http://zby.xjqxz.top/cldy/live.m3u8
-#EXTINF:-1 group-title="本地,#genre#",周星驰
-http://zby.xjqxz.top/live12/live.m3u8
-#EXTINF:-1 group-title="本地,#genre#",李连杰
-http://zby.xjqxz.top/lljdy/live.m3u8
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV16
-http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000008000023254
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV16
-http://php.jdshipin.com:8880/bst.php?id=cctv16hd4k/15000000
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV4K
-http://php.jdshipin.com:8880/cqyx.php?id=CCTV4K
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV4K
-http://159.75.85.63:5679/cctv4k.php
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV4K
-https://tv.cry33.com/ys4k.php?id=4k
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV8K
-http://cdn.jdshipin.com:8880/ysp.php?id=cctv8k
-#EXTINF:-1 group-title="央视高清,#genre#",CCTV8K
-http://mtw.so/62HqYI
-#EXTINF:-1 group-title="4K超高清,#genre#",欢笑剧场
+#EXTINF:-1 group-title="不稳定频道,#genre#",CCTV-1综合
+http://php.iptviptv.site/iptv.php?id=cctv01
+#EXTINF:-1 group-title="不稳定频道,#genre#",CCTV-2财经
+http://php.iptviptv.site/iptv.php?id=cctv2
+#EXTINF:-1 group-title="不稳定频道,#genre#",CCTV-3综艺
+http://php.iptviptv.site/iptv.php?id=cctvz3
+#EXTINF:-1 group-title="不稳定频道,#genre#",CCTV-4中文国际
+http://php.iptviptv.site/iptv.php?id=cctvb4
+#EXTINF:-1 group-title="不稳定频道,#genre#",CCTV-5体育
+http://php.iptviptv.site/iptv.php?id=cctv5
+#EXTINF:-1 group-title="不稳定频道,#genre#",CCTV-5+
+http://php.iptviptv.site/iptv.php?id=cctv5+
+#EXTINF:-1 group-title="不稳定频道,#genre#",CCTV-6电影
+http://php.iptviptv.site/iptv.php?id=cctvm6
+#EXTINF:-1 group-title="不稳定频道,#genre#",CCTV-7国防军事
+http://php.iptviptv.site/iptv.php?id=cctvq7
+#EXTINF:-1 group-title="不稳定频道,#genre#",CCTV-8电视剧
+http://php.iptviptv.site/iptv.php?id=cctv88
+#EXTINF:-1 group-title="不稳定频道,#genre#",CCTV-9纪录
+http://php.iptviptv.site/iptv.php?id=cctv09
+#EXTINF:-1 group-title="不稳定频道,#genre#",CCTV-10科教
+http://php.iptviptv.site/iptv.php?id=cctv100
+#EXTINF:-1 group-title="不稳定频道,#genre#",CCTV-11戏曲
+http://php.iptviptv.site/iptv.php?id=cctvp11
+#EXTINF:-1 group-title="不稳定频道,#genre#",CCTV-12社会与法
+http://php.iptviptv.site/iptv.php?id=cctv12
+#EXTINF:-1 group-title="不稳定频道,#genre#",CCTV-13新闻
+http://php.iptviptv.site/iptv.php?id=cctv13
+#EXTINF:-1 group-title="不稳定频道,#genre#",CCTV-14少儿
+http://php.iptviptv.site/iptv.php?id=cctv14
+#EXTINF:-1 group-title="不稳定频道,#genre#",CCTV-15音乐
+http://php.iptviptv.site/iptv.php?id=cctvo15
+#EXTINF:-1 group-title="不稳定频道,#genre#",CCTV-16奥林匹克
+http://php.iptviptv.site/iptv.php?id=cctvd16
+#EXTINF:-1 group-title="不稳定频道,#genre#",CCTV-17农业高清
+http://php.iptviptv.site/iptv.php?id=cctv17
+#EXTINF:-1 group-title="不稳定频道,#genre#",湖南卫视
+http://php.iptviptv.site/iptv.php?id=hunan0d
+#EXTINF:-1 group-title="不稳定频道,#genre#",浙江卫视
+http://php.iptviptv.site/iptv.php?id=zhejiangcy
+#EXTINF:-1 group-title="不稳定频道,#genre#",江苏卫视
+http://php.iptviptv.site/iptv.php?id=jiangsu66
+#EXTINF:-1 group-title="不稳定频道,#genre#",东方卫视
+http://php.iptviptv.site/iptv.php?id=dongfang18
+#EXTINF:-1 group-title="不稳定频道,#genre#",安徽卫视
+http://php.iptviptv.site/iptv.php?id=anhui75
+#EXTINF:-1 group-title="不稳定频道,#genre#",北京卫视
+http://php.iptviptv.site/iptv.php?id=bjws
+#EXTINF:-1 group-title="不稳定频道,#genre#",天津卫视
+http://php.iptviptv.site/iptv.php?id=tianjin39
+#EXTINF:-1 group-title="不稳定频道,#genre#",山东卫视
+http://php.iptviptv.site/iptv.php?id=shandongw1
+#EXTINF:-1 group-title="不稳定频道,#genre#",江西卫视
+http://php.iptviptv.site/iptv.php?id=jiangxi80
+#EXTINF:-1 group-title="不稳定频道,#genre#",湖北卫视
+http://php.iptviptv.site/iptv.php?id=hubeihubei
+#EXTINF:-1 group-title="不稳定频道,#genre#",辽宁卫视
+http://php.iptviptv.site/iptv.php?id=liao
+#EXTINF:-1 group-title="不稳定频道,#genre#",黑龙江卫视
+http://php.iptviptv.site/iptv.php?id=hlj62
+#EXTINF:-1 group-title="不稳定频道,#genre#",贵州卫视
+http://php.iptviptv.site/iptv.php?id=guizhou112
+#EXTINF:-1 group-title="不稳定频道,#genre#",四川卫视
+http://php.iptviptv.site/iptv.php?id=sichuan
+#EXTINF:-1 group-title="不稳定频道,#genre#",河南卫视
+http://php.iptviptv.site/iptv.php?id=henan68
+#EXTINF:-1 group-title="不稳定频道,#genre#",云南卫视
+http://php.iptviptv.site/iptv.php?id=yunnansf
+#EXTINF:-1 group-title="不稳定频道,#genre#",重庆卫视
+http://php.iptviptv.site/iptv.php?id=chongqing
+#EXTINF:-1 group-title="不稳定频道,#genre#",河北卫视
+http://php.iptviptv.site/iptv.php?id=hebeiyu
+#EXTINF:-1 group-title="不稳定频道,#genre#",东南卫视
+http://php.iptviptv.site/iptv.php?id=dongnan11
+#EXTINF:-1 group-title="不稳定频道,#genre#",广西卫视
+http://php.iptviptv.site/iptv.php?id=guangxibiaoge
+#EXTINF:-1 group-title="不稳定频道,#genre#",吉林卫视
+http://php.iptviptv.site/iptv.php?id=jilina
+#EXTINF:-1 group-title="不稳定频道,#genre#",陕西卫视
+http://php.iptviptv.site/iptv.php?id=shanxi5
+#EXTINF:-1 group-title="不稳定频道,#genre#",山西卫视
+http://php.iptviptv.site/iptv.php?id=shangxi
+#EXTINF:-1 group-title="不稳定频道,#genre#",内蒙古卫视
+http://php.iptviptv.site/iptv.php?id=neimenggu
+#EXTINF:-1 group-title="不稳定频道,#genre#",青海卫视
+http://php.iptviptv.site/iptv.php?id=qinghai12
+#EXTINF:-1 group-title="不稳定频道,#genre#",海南卫视
+http://php.iptviptv.site/iptv.php?id=hainan29
+#EXTINF:-1 group-title="不稳定频道,#genre#",宁夏卫视
+http://php.iptviptv.site/iptv.php?id=lxia
+#EXTINF:-1 group-title="不稳定频道,#genre#",西藏卫视
+http://php.iptviptv.site/iptv.php?id=xizang
+#EXTINF:-1 group-title="不稳定频道,#genre#",新疆卫视
+http://php.iptviptv.site/iptv.php?id=xinjiang
+#EXTINF:-1 group-title="不稳定频道,#genre#",甘肃卫视
+http://php.iptviptv.site/iptv.php?id=gansu93
+#EXTINF:-1 group-title="不稳定频道,#genre#",厦门卫视
+http://php.iptviptv.site/iptv.php?id=xiamen
+#EXTINF:-1 group-title="不稳定频道,#genre#",五星体育
+http://php.iptviptv.site/iptv.php?id=wuxingtiyu32
+#EXTINF:-1 group-title="不稳定频道,#genre#",新闻综合
+http://php.iptviptv.site/iptv.php?id=xinwenzonghe41
+#EXTINF:-1 group-title="不稳定频道,#genre#",东方财经
+http://php.iptviptv.site/iptv.php?id=dongfangcaijing88
+#EXTINF:-1 group-title="不稳定频道,#genre#",第一财经
+http://php.iptviptv.site/iptv.php?id=dycaijing
+#EXTINF:-1 group-title="不稳定频道,#genre#",都市频道
+http://php.iptviptv.site/iptv.php?id=dushi
+#EXTINF:-1 group-title="不稳定频道,#genre#",东方影视
+http://php.iptviptv.site/iptv.php?id=dfys1
+#EXTINF:-1 group-title="不稳定频道,#genre#",重庆影视
+http://php.iptviptv.site/iptv.php?id=cqys123
+#EXTINF:-1 group-title="不稳定频道,#genre#",重庆新闻
+http://php.iptviptv.site/iptv.php?id=cqxw349
+#EXTINF:-1 group-title="不稳定频道,#genre#",重庆社会
+http://php.iptviptv.site/iptv.php?id=cqsh1lm
+#EXTINF:-1 group-title="不稳定频道,#genre#",重庆娱乐
+http://php.iptviptv.site/iptv.php?id=cqyl
+#EXTINF:-1 group-title="不稳定频道,#genre#",重庆少儿
+http://php.iptviptv.site/iptv.php?id=cqse
+#EXTINF:-1 group-title="不稳定频道,#genre#",浙江新闻
+http://php.iptviptv.site/iptv.php?id=zjxw6345
+#EXTINF:-1 group-title="不稳定频道,#genre#",浙江体育
+http://php.iptviptv.site/iptv.php?id=zjty
+#EXTINF:-1 group-title="不稳定频道,#genre#",浙江少儿
+http://php.iptviptv.site/iptv.php?id=zjs12e
+#EXTINF:-1 group-title="不稳定频道,#genre#",杭州TV-1综合
+http://php.iptviptv.site/iptv.php?id=zjhztv1
+#EXTINF:-1 group-title="不稳定频道,#genre#",杭州TV-2明珠
+http://php.iptviptv.site/iptv.php?id=zjhztv2
+#EXTINF:-1 group-title="不稳定频道,#genre#",杭州TV-3生活
+http://php.iptviptv.site/iptv.php?id=zjhztv3
+#EXTINF:-1 group-title="不稳定频道,#genre#",杭州TV-4影视
+http://php.iptviptv.site/iptv.php?id=zjhztv4
+#EXTINF:-1 group-title="不稳定频道,#genre#",杭州TV-5青少体育
+http://php.iptviptv.site/iptv.php?id=zjhztv5
+#EXTINF:-1 group-title="不稳定频道,#genre#",宁波TV1
+http://php.iptviptv.site/iptv.php?id=zjlbtv1
+#EXTINF:-1 group-title="不稳定频道,#genre#",宁波TV2
+http://php.iptviptv.site/iptv.php?id=zjlbtv2
+#EXTINF:-1 group-title="不稳定频道,#genre#",宁波TV3
+http://php.iptviptv.site/iptv.php?id=zjlbtv3
+#EXTINF:-1 group-title="不稳定频道,#genre#",宁波TV4
+http://php.iptviptv.site/iptv.php?id=zjlbtv
+#EXTINF:-1 group-title="不稳定频道,#genre#",安徽体育
+http://php.iptviptv.site/iptv.php?id=ahty56
+#EXTINF:-1 group-title="不稳定频道,#genre#",安徽公共
+http://php.iptviptv.site/iptv.php?id=ahggrw
+#EXTINF:-1 group-title="不稳定频道,#genre#",安徽影视
+http://php.iptviptv.site/iptv.php?id=ahysys
+#EXTINF:-1 group-title="不稳定频道,#genre#",安徽经济
+http://php.iptviptv.site/iptv.php?id=ahjjjw
+#EXTINF:-1 group-title="不稳定频道,#genre#",安徽科教
+http://php.iptviptv.site/iptv.php?id=ahkjyd
+#EXTINF:-1 group-title="不稳定频道,#genre#",亳州农村
+http://php.iptviptv.site/iptv.php?id=ahhzcn
+#EXTINF:-1 group-title="不稳定频道,#genre#",亳州新闻
+http://php.iptviptv.site/iptv.php?id=ahhzxw
+#EXTINF:-1 group-title="不稳定频道,#genre#",歙县综合
+http://php.iptviptv.site/iptv.php?id=ahxzh
+#EXTINF:-1 group-title="不稳定频道,#genre#",滁州公共
+http://php.iptviptv.site/iptv.php?id=ahxzgg
+#EXTINF:-1 group-title="不稳定频道,#genre#",滁州科教
+http://php.iptviptv.site/iptv.php?id=ahxzjk
+#EXTINF:-1 group-title="不稳定频道,#genre#",滁州新闻综合
+http://php.iptviptv.site/iptv.php?id=ahxzxwzh
+#EXTINF:-1 group-title="不稳定频道,#genre#",四川影视
+http://php.iptviptv.site/iptv.php?id=scysysys1
+#EXTINF:-1 group-title="不稳定频道,#genre#",新闻频道
+http://php.iptviptv.site/iptv.php?id=scxwzhzx
+#EXTINF:-1 group-title="不稳定频道,#genre#",峨眉电影
+http://php.iptviptv.site/iptv.php?id=scemmetw
+#EXTINF:-1 group-title="不稳定频道,#genre#",天津新闻
+http://php.iptviptv.site/iptv.php?id=TJxwef
+#EXTINF:-1 group-title="不稳定频道,#genre#",天津影视
+http://php.iptviptv.site/iptv.php?id=TJyswed
+#EXTINF:-1 group-title="不稳定频道,#genre#",天津都市
+http://php.iptviptv.site/iptv.php?id=TJds
+#EXTINF:-1 group-title="不稳定频道,#genre#",天津体育
+http://php.iptviptv.site/iptv.php?id=TJtyTYH
+#EXTINF:-1 group-title="不稳定频道,#genre#",陕西新闻
+http://php.iptviptv.site/iptv.php?id=SXXW111
+#EXTINF:-1 group-title="不稳定频道,#genre#",陕西影视
+http://php.iptviptv.site/iptv.php?id=sxys666
+#EXTINF:-1 group-title="不稳定频道,#genre#",陕西体育
+http://php.iptviptv.site/iptv.php?id=sxtysxty
+#EXTINF:-1 group-title="不稳定频道,#genre#",西部电影
+http://php.iptviptv.site/iptv.php?id=sxxbdydytr
+#EXTINF:-1 group-title="不稳定频道,#genre#",西安影视
+http://php.iptviptv.site/iptv.php?id=sxxady
+#EXTINF:-1 group-title="不稳定频道,#genre#",广东卫视
+http://php.iptviptv.site/iptv.php?id=gdws651
+#EXTINF:-1 group-title="不稳定频道,#genre#",广东珠江
+http://php.iptviptv.site/iptv.php?id=gdzjzj
+#EXTINF:-1 group-title="不稳定频道,#genre#",大湾区卫视
+http://php.iptviptv.site/iptv.php?id=dawanqu678
+#EXTINF:-1 group-title="不稳定频道,#genre#",广州综合
+http://php.iptviptv.site/iptv.php?id=gzzhhzzf
+#EXTINF:-1 group-title="不稳定频道,#genre#",广东新闻
+http://php.iptviptv.site/iptv.php?id=gdxwgt
+#EXTINF:-1 group-title="不稳定频道,#genre#",广东民生
+http://php.iptviptv.site/iptv.php?id=gdmswt
+#EXTINF:-1 group-title="不稳定频道,#genre#",广东体育
+http://php.iptviptv.site/iptv.php?id=gdtyre
+#EXTINF:-1 group-title="不稳定频道,#genre#",广东经济科教
+http://php.iptviptv.site/iptv.php?id=gdkejiao
+#EXTINF:-1 group-title="不稳定频道,#genre#",广东影视
+http://php.iptviptv.site/iptv.php?id=gdyingshi
+#EXTINF:-1 group-title="不稳定频道,#genre#",潮州综合
+http://php.iptviptv.site/iptv.php?id=gdczzh
+#EXTINF:-1 group-title="不稳定频道,#genre#",广东导视(G导视)
+http://php.iptviptv.site/iptv.php?id=gdds12
+#EXTINF:-1 group-title="不稳定频道,#genre#",广西新闻
+http://php.iptviptv.site/iptv.php?id=gxxw
+#EXTINF:-1 group-title="不稳定频道,#genre#",广西综艺
+http://php.iptviptv.site/iptv.php?id=gxzy
+#EXTINF:-1 group-title="不稳定频道,#genre#",广西影视
+http://php.iptviptv.site/iptv.php?id=gxys
+#EXTINF:-1 group-title="不稳定频道,#genre#",南宁新闻
+http://php.iptviptv.site/iptv.php?id=nlxw
+#EXTINF:-1 group-title="不稳定频道,#genre#",南宁影视
+http://php.iptviptv.site/iptv.php?id=nlys
+#EXTINF:-1 group-title="不稳定频道,#genre#",河北都市
+http://php.iptviptv.site/iptv.php?id=hbds
+#EXTINF:-1 group-title="不稳定频道,#genre#",河北影视
+http://php.iptviptv.site/iptv.php?id=hbys12
+#EXTINF:-1 group-title="不稳定频道,#genre#",河北少儿
+http://php.iptviptv.site/iptv.php?id=hbsese
+#EXTINF:-1 group-title="不稳定频道,#genre#",河北公共
+http://php.iptviptv.site/iptv.php?id=hbgg
+#EXTINF:-1 group-title="不稳定频道,#genre#",河北杂技
+http://php.iptviptv.site/iptv.php?id=hbzj
+#EXTINF:-1 group-title="不稳定频道,#genre#",湖北经视
+http://php.iptviptv.site/iptv.php?id=hubeijs
+#EXTINF:-1 group-title="不稳定频道,#genre#",湖北垄上
+http://php.iptviptv.site/iptv.php?id=hubeigs
+#EXTINF:-1 group-title="不稳定频道,#genre#",湖北影视
+http://php.iptviptv.site/iptv.php?id=hubeiys
+#EXTINF:-1 group-title="不稳定频道,#genre#",武汉新闻
+http://php.iptviptv.site/iptv.php?id=whxw
+#EXTINF:-1 group-title="不稳定频道,#genre#",武汉电视剧
+http://php.iptviptv.site/iptv.php?id=whdsj
+#EXTINF:-1 group-title="不稳定频道,#genre#",江苏体育休闲
+http://php.iptviptv.site/iptv.php?id=jsxxty
+#EXTINF:-1 group-title="不稳定频道,#genre#",江苏影视
+http://php.iptviptv.site/iptv.php?id=jsys
+#EXTINF:-1 group-title="不稳定频道,#genre#",江苏综艺
+http://php.iptviptv.site/iptv.php?id=jszy
+#EXTINF:-1 group-title="不稳定频道,#genre#",江苏新闻
+http://php.iptviptv.site/iptv.php?id=jsxw
+#EXTINF:-1 group-title="不稳定频道,#genre#",CHC家庭影院
+http://php.iptviptv.site/iptv.php?id=chcjiat66
+#EXTINF:-1 group-title="不稳定频道,#genre#",CHC动作电影
+http://php.iptviptv.site/iptv.php?id=chdzc
+#EXTINF:-1 group-title="不稳定频道,#genre#",CHC影迷电影
+http://php.iptviptv.site/iptv.php?id=chcmy
+#EXTINF:-1 group-title="不稳定频道,#genre#",星空卫视
+http://php.iptviptv.site/iptv.php?id=xingkongsw
+#EXTINF:-1 group-title="不稳定频道,#genre#",风云足球
+http://php.iptviptv.site/iptv.php?id=fengyunzq478
+#EXTINF:-1 group-title="不稳定频道,#genre#",央视台球
+http://php.iptviptv.site/iptv.php?id=yangshitaiq4123
+#EXTINF:-1 group-title="不稳定频道,#genre#",高尔夫网球
+http://php.iptviptv.site/iptv.php?id=gaoerfu
+#EXTINF:-1 group-title="不稳定频道,#genre#",女性时尚
+http://php.iptviptv.site/iptv.php?id=nxss
+#EXTINF:-1 group-title="不稳定频道,#genre#",世界地理
+http://php.iptviptv.site/iptv.php?id=sjdl
+#EXTINF:-1 group-title="不稳定频道,#genre#",怀旧剧场
+http://php.iptviptv.site/iptv.php?id=hjjc873
+#EXTINF:-1 group-title="不稳定频道,#genre#",风云剧场
+http://php.iptviptv.site/iptv.php?id=fengyunjc87
+#EXTINF:-1 group-title="不稳定频道,#genre#",第一剧场
+http://php.iptviptv.site/iptv.php?id=diyijuc
+#EXTINF:-1 group-title="不稳定频道,#genre#",老故事
+http://php.iptviptv.site/iptv.php?id=laogushi
+#EXTINF:-1 group-title="不稳定频道,#genre#",中学生
+http://php.iptviptv.site/iptv.php?id=zxs
+#EXTINF:-1 group-title="不稳定频道,#genre#",快乐垂钓
+http://php.iptviptv.site/iptv.php?id=klcd87
+#EXTINF:-1 group-title="不稳定频道,#genre#",天元围棋
+http://php.iptviptv.site/iptv.php?id=tianyuanwq
+#EXTINF:-1 group-title="不稳定频道,#genre#",重温经典
+http://php.iptviptv.site/iptv.php?id=cwjd
+#EXTINF:-1 group-title="不稳定频道,#genre#",新视觉
+http://php.iptviptv.site/iptv.php?id=xsj
+#EXTINF:-1 group-title="不稳定频道,#genre#",劲爆体育
+http://php.iptviptv.site/iptv.php?id=jbty
+#EXTINF:-1 group-title="不稳定频道,#genre#",魅力足球
+http://php.iptviptv.site/iptv.php?id=mlzq
+#EXTINF:-1 group-title="不稳定频道,#genre#",北京体育
+http://php.iptviptv.site/iptv.php?id=beijty23
+#EXTINF:-1 group-title="不稳定频道,#genre#",淘电影
+http://php.iptviptv.site/iptv.php?id=taod
+#EXTINF:-1 group-title="不稳定频道,#genre#",淘剧场
+http://php.iptviptv.site/iptv.php?id=taojr
+#EXTINF:-1 group-title="不稳定频道,#genre#",淘娱乐
+http://php.iptviptv.site/iptv.php?id=taoyl31
+#EXTINF:-1 group-title="不稳定频道,#genre#",淘baby
+http://php.iptviptv.site/iptv.php?id=taoybayd
+#EXTINF:-1 group-title="不稳定频道,#genre#",淘精彩
+http://php.iptviptv.site/iptv.php?id=taoycj
+#EXTINF:-1 group-title="不稳定频道,#genre#",北京影视
+http://php.iptviptv.site/iptv.php?id=beijingys
+#EXTINF:-1 group-title="不稳定频道,#genre#",北京财经
+http://php.iptviptv.site/iptv.php?id=beijingcj
+#EXTINF:-1 group-title="不稳定频道,#genre#",北京新闻
+http://php.iptviptv.site/iptv.php?id=beijingxw
+#EXTINF:-1 group-title="不稳定频道,#genre#",北京卡酷少儿
+http://php.iptviptv.site/iptv.php?id=beijingku
+#EXTINF:-1 group-title="不稳定频道,#genre#",V音乐台
+http://php.iptviptv.site/iptv.php?id=vyinyue
+#EXTINF:-1 group-title="不稳定频道,#genre#",HBO
+http://php.iptviptv.site/iptv.php?id=HBO
+#EXTINF:-1 group-title="不稳定频道,#genre#",今日俄罗斯
+http://php.iptviptv.site/iptv.php?id=elsjr
+#EXTINF:-1 group-title="不稳定频道,#genre#",日本NHK
+http://php.iptviptv.site/iptv.php?id=nhk
+#EXTINF:-1 group-title="不稳定频道,#genre#",韩国KBS
+http://php.iptviptv.site/iptv.php?id=kbs
+#EXTINF:-1 group-title="不稳定频道,#genre#",翡翠台(广电)
+http://php.iptviptv.site/iptv.php?id=fctgd66
+#EXTINF:-1 group-title="不稳定频道,#genre#",明珠台
+http://php.iptviptv.site/iptv.php?id=mzt
+#EXTINF:-1 group-title="不稳定频道,#genre#",翡翠台(原版)
+http://php.iptviptv.site/iptv.php?id=fctyb841
+#EXTINF:-1 group-title="不稳定频道,#genre#",千禧经典台
+http://php.iptviptv.site/iptv.php?id=qianxi
+#EXTINF:-1 group-title="不稳定频道,#genre#",翡翠台4k
+http://php.iptviptv.site/iptv.php?id=fct4kcj
+#EXTINF:-1 group-title="不稳定频道,#genre#",Animax
+http://php.iptviptv.site/iptv.php?id=animax
+#EXTINF:-1 group-title="不稳定频道,#genre#",美亚电影台
+http://php.iptviptv.site/iptv.php?id=meiya666
+#EXTINF:-1 group-title="不稳定频道,#genre#",TVB PLUS
+http://php.iptviptv.site/iptv.php?id=tvbsulp
+#EXTINF:-1 group-title="不稳定频道,#genre#",无线新闻台
+http://php.iptviptv.site/iptv.php?id=wuxianxwfeiwu
+#EXTINF:-1 group-title="不稳定频道,#genre#",天映經典頻道
+http://php.iptviptv.site/iptv.php?id=tianying
+#EXTINF:-1 group-title="不稳定频道,#genre#",黃金翡翠台
+http://php.iptviptv.site/iptv.php?id=hjfct
+#EXTINF:-1 group-title="不稳定频道,#genre#",凤凰香港
+http://php.iptviptv.site/iptv.php?id=fhxgwe
+#EXTINF:-1 group-title="不稳定频道,#genre#",凤凰中文
+http://php.iptviptv.site/iptv.php?id=fhzwwe
+#EXTINF:-1 group-title="不稳定频道,#genre#",凤凰资询
+http://php.iptviptv.site/iptv.php?id=fhzx
+#EXTINF:-1 group-title="不稳定频道,#genre#",黄金华剧台
+http://php.iptviptv.site/iptv.php?id=hjhjt
+#EXTINF:-1 group-title="不稳定频道,#genre#",华语剧台
+http://php.iptviptv.site/iptv.php?id=hyjt66
+#EXTINF:-1 group-title="不稳定频道,#genre#",粤语片台
+http://php.iptviptv.site/iptv.php?id=yueyupiantai
+#EXTINF:-1 group-title="不稳定频道,#genre#",神州新闻台
+http://php.iptviptv.site/iptv.php?id=szxwt
+#EXTINF:-1 group-title="不稳定频道,#genre#",无线卫星新闻台
+http://php.iptviptv.site/iptv.php?id=wxwxxwt
+#EXTINF:-1 group-title="不稳定频道,#genre#",无线卫星亚洲台
+http://php.iptviptv.site/iptv.php?id=wxwxyzt
+#EXTINF:-1 group-title="不稳定频道,#genre#",东方卫视国际频道
+http://php.iptviptv.site/iptv.php?id=dfwsgj
+#EXTINF:-1 group-title="不稳定频道,#genre#",戏曲台
+http://php.iptviptv.site/iptv.php?id=xqt
+#EXTINF:-1 group-title="不稳定频道,#genre#",娱乐新闻台
+http://php.iptviptv.site/iptv.php?id=ylxwtww
+#EXTINF:-1 group-title="不稳定频道,#genre#",半岛电视台英语频道
+http://php.iptviptv.site/iptv.php?id=bddstyypd
+#EXTINF:-1 group-title="不稳定频道,#genre#",创世电视
+http://php.iptviptv.site/iptv.php?id=csds
+#EXTINF:-1 group-title="不稳定频道,#genre#",亚洲新闻台
+http://php.iptviptv.site/iptv.php?id=yzxwt
+#EXTINF:-1 group-title="不稳定频道,#genre#",亚洲剧台
+http://php.iptviptv.site/iptv.php?id=yzjt
+#EXTINF:-1 group-title="不稳定频道,#genre#",ZooMoo
+http://php.iptviptv.site/iptv.php?id=zoomoosb
+#EXTINF:-1 group-title="不稳定频道,#genre#",tvN
+http://php.iptviptv.site/iptv.php?id=tvnbs
+#EXTINF:-1 group-title="不稳定频道,#genre#",Thrill
+http://php.iptviptv.site/iptv.php?id=thrillbs1
+#EXTINF:-1 group-title="不稳定频道,#genre#",SUPER Kids Channel
+http://php.iptviptv.site/iptv.php?id=kidsch
+#EXTINF:-1 group-title="不稳定频道,#genre#",ROCK 综艺娱乐
+http://php.iptviptv.site/iptv.php?id=rockzyyl
+#EXTINF:-1 group-title="不稳定频道,#genre#",ROCK Action
+http://php.iptviptv.site/iptv.php?id=rockacti
+#EXTINF:-1 group-title="不稳定频道,#genre#",PopC
+http://php.iptviptv.site/iptv.php?id=rock69
+#EXTINF:-1 group-title="不稳定频道,#genre#",Nickelodeon
+http://php.iptviptv.site/iptv.php?id=nickelo
+#EXTINF:-1 group-title="不稳定频道,#genre#",Nick Jr
+http://php.iptviptv.site/iptv.php?id=nickjr
+#EXTINF:-1 group-title="不稳定频道,#genre#",NHK World-Japan
+http://php.iptviptv.site/iptv.php?id=nhkjapan
+#EXTINF:-1 group-title="不稳定频道,#genre#",my直播足球6台
+http://php.iptviptv.site/iptv.php?id=zq6t
+#EXTINF:-1 group-title="不稳定频道,#genre#",my直播足球5台
+http://php.iptviptv.site/iptv.php?id=zq5t
+#EXTINF:-1 group-title="不稳定频道,#genre#",my直播足球4台
+http://php.iptviptv.site/iptv.php?id=zq4t
+#EXTINF:-1 group-title="不稳定频道,#genre#",my直播足球3台
+http://php.iptviptv.site/iptv.php?id=zq3t
+#EXTINF:-1 group-title="不稳定频道,#genre#",myTV SUPER FREE
+http://php.iptviptv.site/iptv.php?id=superfree
+#EXTINF:-1 group-title="不稳定频道,#genre#",myTV SUPER 18台
+http://php.iptviptv.site/iptv.php?id=super18
+#EXTINF:-1 group-title="不稳定频道,#genre#",Mezzo Live HD
+http://php.iptviptv.site/iptv.php?id=mezzo
+#EXTINF:-1 group-title="不稳定频道,#genre#",Love Nature HD
+http://php.iptviptv.site/iptv.php?id=lovehd
+#EXTINF:-1 group-title="不稳定频道,#genre#",Love Nature 4K
+http://php.iptviptv.site/iptv.php?id=love4k
+#EXTINF:-1 group-title="不稳定频道,#genre#",KIX
+http://php.iptviptv.site/iptv.php?id=kix
+#EXTINF:-1 group-title="不稳定频道,#genre#",Global Trekker
+http://php.iptviptv.site/iptv.php?id=global
+#EXTINF:-1 group-title="不稳定频道,#genre#",France 24
+http://php.iptviptv.site/iptv.php?id=france67
+#EXTINF:-1 group-title="不稳定频道,#genre#",FashionBox
+http://php.iptviptv.site/iptv.php?id=fashionbox
+#EXTINF:-1 group-title="不稳定频道,#genre#",DW
+http://php.iptviptv.site/iptv.php?id=dw54
+#EXTINF:-1 group-title="不稳定频道,#genre#",AXN
+http://php.iptviptv.site/iptv.php?id=axnwd
+#EXTINF:-1 group-title="不稳定频道,#genre#",Arirang TV
+http://php.iptviptv.site/iptv.php?id=arirang
+#EXTINF:-1 group-title="4K频道,#genre#",欢笑剧场
 http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000007000010001
-#EXTINF:-1 group-title="4K超高清,#genre#",欢笑剧场
+#EXTINF:-1 group-title="4K频道,#genre#",欢笑剧场
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000009455
-#EXTINF:-1 group-title="4K超高清,#genre#",欢笑剧场
+#EXTINF:-1 group-title="4K频道,#genre#",欢笑剧场
 http://php.jdshipin.com:8880/bst.php?id=hxjc4k/15000000
-#EXTINF:-1 group-title="4K超高清,#genre#",欢笑剧场
+#EXTINF:-1 group-title="4K频道,#genre#",欢笑剧场
 http://php.jdshipin.com:8880/bst2.php?id=hxjc4k/15000000
-#EXTINF:-1 group-title="4K超高清,#genre#",纯享4K
+#EXTINF:-1 group-title="4K频道,#genre#",纯享4K
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011651
-#EXTINF:-1 group-title="4K超高清,#genre#",4K 影视
+#EXTINF:-1 group-title="4K频道,#genre#",4K 影视
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 group-title="4K超高清,#genre#",4K测试
+#EXTINF:-1 group-title="4K频道,#genre#",4K测试
 http://php.jdshipin.com:8880/TVOD/hnyd.php?id=00000001000000060000000000000459
-#EXTINF:-1 group-title="4K超高清,#genre#",4K测试
+#EXTINF:-1 group-title="4K频道,#genre#",4K测试
 http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000459
-#EXTINF:-1 group-title="4K超高清,#genre#",4K测试
+#EXTINF:-1 group-title="4K频道,#genre#",4K测试
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 group-title="4K超高清,#genre#",4K测试
+#EXTINF:-1 group-title="4K频道,#genre#",4K测试
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 group-title="4K超高清,#genre#",华数4K影视
+#EXTINF:-1 group-title="4K频道,#genre#",华数4K影视
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000014
-#EXTINF:-1 group-title="4K超高清,#genre#",4KUHD
+#EXTINF:-1 group-title="4K频道,#genre#",4KUHD
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
-#EXTINF:-1 group-title="4K超高清,#genre#",4KUHD
+#EXTINF:-1 group-title="4K频道,#genre#",4KUHD
 http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/1/224/3221225530/1.m3u
-#EXTINF:-1 group-title="4K超高清,#genre#",4K超高清电影
+#EXTINF:-1 group-title="4K频道,#genre#",4K电影
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=emdy4k
-#EXTINF:-1 group-title="4K超高清,#genre#",苏州4K
+#EXTINF:-1 group-title="4K频道,#genre#",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 group-title="4K超高清,#genre#",苏州4K
+#EXTINF:-1 group-title="4K频道,#genre#",苏州4K
 http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8
-#EXTINF:-1 group-title="4K超高清,#genre#",FashionTV
+#EXTINF:-1 group-title="4K频道,#genre#",FashionTV
 https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
-#EXTINF:-1 group-title="4K超高清,#genre#",FashionTV_4K
+#EXTINF:-1 group-title="4K频道,#genre#",FashionTV_4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="4K超高清,#genre#",FashionTV_4K
+#EXTINF:-1 group-title="4K频道,#genre#",FashionTV_4K
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
-#EXTINF:-1 group-title="4K超高清,#genre#",FashionTV
+#EXTINF:-1 group-title="4K频道,#genre#",FashionTV
 https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
-#EXTINF:-1 group-title="4K超高清,#genre#",FashionBox HD
+#EXTINF:-1 group-title="4K频道,#genre#",FashionBox HD
 http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/228/stream.m3u8
-#EXTINF:-1 group-title="4K超高清,#genre#",爱自然
+#EXTINF:-1 group-title="4K频道,#genre#",爱自然
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="4K超高清,#genre#",Clarity 4K
+#EXTINF:-1 group-title="4K频道,#genre#",Clarity 4K
 https://i.mjh.nz/SamsungTVPlus/USBA3800005NI.m3u8
-#EXTINF:-1 group-title="4K超高清,#genre#",loupe 4K
+#EXTINF:-1 group-title="4K频道,#genre#",loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
-#EXTINF:-1 group-title="4K超高清,#genre#",江苏8K
+#EXTINF:-1 group-title="4K频道,#genre#",江苏8K
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
-#EXTINF:-1 group-title="4K超高清,#genre#",江苏8K
+#EXTINF:-1 group-title="4K频道,#genre#",江苏8K
 http://[2409:8087:2001:20:2800:0:df6e:eb04]/wh7f454c46tw1782571424_-1576923679/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8?icpid=3&RTS=1674188624&from=40&popid=40&hms_devid=2041&prioritypopid=40&vqe=3
-#EXTINF:-1 group-title="4K超高清,#genre#",北京纪实8K
+#EXTINF:-1 group-title="4K频道,#genre#",北京纪实8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-#EXTINF:-1 group-title="4K超高清,#genre#",北京纪实8K
+#EXTINF:-1 group-title="4K频道,#genre#",北京纪实8K
 http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-#EXTINF:-1 group-title="4K超高清,#genre#",测试
-http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-#EXTINF:-1 group-title="4K超高清,#genre#",测试
-http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
-#EXTINF:-1 group-title="4K超高清,#genre#",测试
-http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000196/index.m3u8?IAS
+#EXTINF:-1 group-title="港澳台,#genre#",凤凰卫视中文台
+http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",凤凰卫视中文台
 http://122.224.232.218:8888/rtp/233.50.200.191:5140$LR•IPV4『线路9』
 #EXTINF:-1 group-title="港澳台,#genre#",凤凰卫视中文台
@@ -1288,35 +568,29 @@ http://122.224.232.218:8888/rtp/233.50.200.191:5140$LR•IPV4『线路17』
 #EXTINF:-1 group-title="港澳台,#genre#",凤凰卫视中文台
 http://122.224.232.218:8888/rtp/233.50.200.191:5140$LR•IPV4『线路20』
 #EXTINF:-1 group-title="港澳台,#genre#",凤凰卫视中文台
-http://122.224.232.226:8888/udp/233.50.200.191:5140
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8$LR•IPV6『线路1』
+#EXTINF:-1 group-title="港澳台,#genre#",凤凰卫视中文台
+http://183.234.238.18:8927/live1129.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",凤凰卫视中文台
+http://58.250.155.2:8180/TV00000000000000000031@HHZT
 #EXTINF:-1 group-title="港澳台,#genre#",凤凰卫视中文台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="港澳台,#genre#",凤凰卫视中文台
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 group-title="港澳台,#genre#",凤凰卫视中文台
-https://epg.pw/stream/653363b4a3d6b0c5850c53b115d02d5e5e57d7d4c2954ef7c4163640e2cdd991.ctv
-#EXTINF:-1 group-title="港澳台,#genre#",凤凰卫视中文台
-https://epg.pw/stream/91dffd2dca60b65821a94747f2f3020dfc9642bb89f86ed7fa6d8b0b7487c5d2.m3u8
-#EXTINF:-1 group-title="港澳台,#genre#",凤凰卫视中文台
-https://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
-#EXTINF:-1 group-title="港澳台,#genre#",凤凰卫视中文台
-https://play-flive.ifeng.com/live/06OLEGEGM4G.flv
+http://ayolee.com:5253/udp/239.93.0.162:2192$LR•IPV4『线路20』
 #EXTINF:-1 group-title="港澳台,#genre#",凤凰卫视资讯台
-http://122.224.232.226:8888/udp/233.50.200.192:5140
+http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",凤凰卫视资讯台
+http://115.215.52.219:9999/udp/233.50.200.192:5140$LR•IPV4『线路15』
+#EXTINF:-1 group-title="港澳台,#genre#",凤凰卫视资讯台
+http://183.234.238.18:8926/live1128.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",凤凰卫视资讯台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="港澳台,#genre#",凤凰卫视资讯台
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 group-title="港澳台,#genre#",凤凰卫视资讯台
-https://epg.pw/stream/30cd5e1750b4964bc1bedfea45649cec7531987a88a0f5dc2fb8c773b5c582f7.ctv
-#EXTINF:-1 group-title="港澳台,#genre#",凤凰卫视资讯台
-https://epg.pw/stream/5b0d7d9b8e3eaf3cbcef5aadfff18d6711afb9a3d41be927f3649bda058dc497.m3u8
-#EXTINF:-1 group-title="港澳台,#genre#",凤凰卫视资讯台
-https://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="港澳台,#genre#",凤凰卫视资讯台
-https://play-flive.ifeng.com/live/06OLEEWQKN4.flv
+http://www.erbao1981.top:8188/udp/239.76.246.134:1234
 #EXTINF:-1 group-title="港澳台,#genre#",凤凰香港
 http://zsntlqj.xicp.net:8896/bysid/85.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",凤凰香港
+http://58.144.154.93/qctv.fengshows.cn/live/0701phk72.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",凤凰香港
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 #EXTINF:-1 group-title="港澳台,#genre#",凤凰香港
@@ -1365,6 +639,8 @@ https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 http://php.jdshipin.com:8880/smt.php?id=j2_twn
 #EXTINF:-1 group-title="港澳台,#genre#",TVB Plus
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
+#EXTINF:-1 group-title="港澳台,#genre#",星空卫视
+http://wouu.net:9977/rtp/239.93.1.10:2193
 #EXTINF:-1 group-title="港澳台,#genre#",TVB星河
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 #EXTINF:-1 group-title="港澳台,#genre#",TVB星河
@@ -1385,6 +661,8 @@ https://ali.hlspull.yximgs.com/live/asdfg32516.flv
 http://51.89.21.73:27347/livehttpplay?channel_id=20152
 #EXTINF:-1 group-title="港澳台,#genre#",面包台
 https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 group-title="港澳台,#genre#",澳视澳门
+http://183.237.246.14:9931/tsfile/live/1039_1.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",澳亚卫视
 https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 #EXTINF:-1 group-title="港澳台,#genre#",澳门莲花
@@ -1475,6 +753,8 @@ http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000032212
 http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001016/index.m3u8
 #EXTINF:-1 group-title="国内影视,#genre#",东方影视
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
+#EXTINF:-1 group-title="国内影视,#genre#",东方影视
+http://[2409:8087:5e01:24::16]:6610/000000001000/2000000002000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000013&IASHttpSessionId=OTT19019320240419154124000281
 #EXTINF:-1 group-title="国内影视,#genre#",黑龙江影视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 #EXTINF:-1 group-title="国内影视,#genre#",峨眉电影
@@ -1486,9 +766,7 @@ http://nas.jdshipin.com:8801/qly.php?id=6329
 #EXTINF:-1 group-title="国内影视,#genre#",山西影视
 https://epg.pw/stream/8ae155d3d07df50891ec8247cd2c0102e44ca97938efb60a8b6082e81c4d65f9.ctv
 #EXTINF:-1 group-title="国内影视,#genre#",湖南电影
-http://222.241.154.37:9901/tsfile/live/23025_1.m3u8
-#EXTINF:-1 group-title="国内影视,#genre#",湖南电影
-http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=7884242846753128038
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
 #EXTINF:-1 group-title="国内影视,#genre#",湖南电视剧
 http://222.241.154.37:9901/tsfile/live/23026_1.m3u8
 #EXTINF:-1 group-title="国内影视,#genre#",湖南电视剧
@@ -1515,32 +793,20 @@ http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000063
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000063/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000063&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 group-title="国内影视,#genre#",重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 group-title="体育台,#genre#",央视台球
-http://117.161.133.51:81/gitv_live/G_TAIQIU-CQ/G_TAIQIU-CQ.m3u8?p=GITV
-#EXTINF:-1 group-title="体育台,#genre#",央视台球
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=ystq
-#EXTINF:-1 group-title="体育台,#genre#",央视台球
-http://cdn.jdshipin.com:8880/ysp.php?id=ystq
+#EXTINF:-1 group-title="国内影视,#genre#",重温经典
+http://mtw.so/5NPX0U
+#EXTINF:-1 group-title="国内影视,#genre#",重温经典
+http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+#EXTINF:-1 group-title="国内影视,#genre#",新视觉HD
+http://117.161.12.124/live/program/live/xsjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 group-title="体育台,#genre#",央视台球
 https://live.goodiptv.club/api/cqyx.php?id=ystqHD
-#EXTINF:-1 group-title="体育台,#genre#",央视台球
-http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024172403.m3u8
-#EXTINF:-1 group-title="体育台,#genre#",央视台球HD
-http://benhaha.top:8888/udp/239.21.0.71:3624
-#EXTINF:-1 group-title="体育台,#genre#",风云足球
-http://117.161.133.51:81/gitv_live/G_FENGSHANGZQ-CQ/G_FENGSHANGZQ-CQ.m3u8?p=GITV
 #EXTINF:-1 group-title="体育台,#genre#",风云足球
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fyzq
 #EXTINF:-1 group-title="体育台,#genre#",风云足球
 http://cdn.jdshipin.com:8880/ysp.php?id=fyzq
 #EXTINF:-1 group-title="体育台,#genre#",风云足球
-https://epg.pw/stream/429f44be8f007cfd67bf72ba165eb20871064218965c65efd1207c1c112b371c.ctv
-#EXTINF:-1 group-title="体育台,#genre#",风云足球
-http://39.134.18.195/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
-#EXTINF:-1 group-title="体育台,#genre#",风云足球
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/1.m3u8?m3u8_level=2
-#EXTINF:-1 group-title="体育台,#genre#",风云足球
-http://123.189.36.7:9901/tsfile/live/1122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="体育台,#genre#",高尔夫网球
 http://117.161.133.51:81/gitv_live/G_CCTV-GOLF-CQ/G_CCTV-GOLF-CQ.m3u8?p=GITV
 #EXTINF:-1 group-title="体育台,#genre#",高尔夫网球
@@ -1555,8 +821,18 @@ http://cdn.jdshipin.com:8880/ysp.php?id=gefwq
 http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 #EXTINF:-1 group-title="体育台,#genre#",精彩足球
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226147/index.m3u8$8.1M_1080
+#EXTINF:-1 group-title="体育台,#genre#",睛彩青少
+http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226053/main.m3u8
+#EXTINF:-1 group-title="体育台,#genre#",睛彩竞技
+http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225897/main.m3u8
+#EXTINF:-1 group-title="体育台,#genre#",睛彩篮球
+http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225895/main.m3u8
+#EXTINF:-1 group-title="体育台,#genre#",睛彩广场舞
+http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221226046/main.m3u8
 #EXTINF:-1 group-title="体育台,#genre#",综合体育
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226124/index.m3u8$8.1M_1080
+#EXTINF:-1 group-title="体育台,#genre#",广东体育
+http://113.65.7.43:8888/udp/239.77.0.6:5146$LR•IPV4『线路22』
 #EXTINF:-1 group-title="体育台,#genre#",广东体育
 https://epg.pw/stream/ff6983ce34a2ad295545550992df113dfeb39a061f903a8cf4dd426451c7530b.m3u8
 #EXTINF:-1 group-title="体育台,#genre#",广东体育
@@ -1575,16 +851,20 @@ http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000017540
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19594820240419041339000523
 #EXTINF:-1 group-title="体育台,#genre#",五星体育
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
-#EXTINF:-1 group-title="体育台,#genre#",魅力足球
-http://hlsbkmgsplive.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?&HlsSubType=&encrypt=,
 #EXTINF:-1 group-title="体育台,#genre#",SITV魅力足球
 http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031207
+#EXTINF:-1 group-title="体育台,#genre#",SITV魅力足球
+http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031207/1.m3u8
+#EXTINF:-1 group-title="体育台,#genre#",SITV魅力足球
+http://hlsbkmgsplive.miguvideo.com/migu/kailu/mlzuhd/57/20230411/01.m3u8?&HlsSubType=&encrypt=,
 #EXTINF:-1 group-title="体育台,#genre#",IHOT爱体育
 http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000290630
 #EXTINF:-1 group-title="体育台,#genre#",newtv精品体育
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 group-title="体育台,#genre#",newtv精品体育
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225674/index.m3u8$4.0M_1080
+#EXTINF:-1 group-title="体育台,#genre#",newtv精品体育
+http://[2409:8087:1a0b:df::4004]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8
 #EXTINF:-1 group-title="体育台,#genre#",newtv精品体育
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw520038825_-1252386603/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8?icpid=3&RTS=1674380635&from=40&popid=40&hms_devid=2116&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="体育台,#genre#",newtv超级体育
@@ -1593,6 +873,8 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225715/index.m3u8$4.1M_1080
 #EXTINF:-1 group-title="体育台,#genre#",newtv超级体育
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+#EXTINF:-1 group-title="体育台,#genre#",穿越火线赛事
+http://159.75.85.63:35455/huya/660101
 #EXTINF:-1 group-title="体育台,#genre#",FOX体育
 http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/7323/index.m3u8
 #EXTINF:-1 group-title="体育台,#genre#",Bein体育
@@ -1669,6 +951,10 @@ http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播-10
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
+#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播-11
+http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225901/main.m3u8
+#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播-12
+http://[2409:8087:1a01:df::7005]/TVOD/88888888/224/3221225611/main.m3u8
 #EXTINF:-1 group-title="咪咕直播,#genre#",咪咕全民热练
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226508/index.m3u8
 #EXTINF:-1 group-title="咪咕直播,#genre#",咪咕全民热练
@@ -2347,16 +1633,22 @@ http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",广东卫视
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225966/index.m3u8
+#EXTINF:-1 group-title="卫视,#genre#",广东卫视
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226248/index.m3u8
+#EXTINF:-1 group-title="卫视,#genre#",大湾区卫视
+https://php.17186.eu.org/gdtv/web/nfws.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",大湾区卫视
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226442/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",大湾区卫视
 http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="卫视,#genre#",大湾区卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
-#EXTINF:-1 group-title="卫视,#genre#",大湾区荔枝台
-http://glive.grtn.cn/live/lizhi.m3u8
-#EXTINF:-1 group-title="卫视,#genre#",荔枝台
-http://glive.grtn.cn/live/jilupian.m3u8
+#EXTINF:-1 group-title="卫视,#genre#",广西卫视
+http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031118
+#EXTINF:-1 group-title="卫视,#genre#",广西卫视
+http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
+#EXTINF:-1 group-title="卫视,#genre#",广西卫视
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",香港卫视
 http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 #EXTINF:-1 group-title="卫视,#genre#",湖北卫视
@@ -2411,20 +1703,18 @@ http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000193/ind
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",海南卫视
 http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/00000001000000060000000000000262/index.m3u8?IAS
+#EXTINF:-1 group-title="卫视,#genre#",海南卫视
+http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+#EXTINF:-1 group-title="卫视,#genre#",海南卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
+#EXTINF:-1 group-title="卫视,#genre#",三沙卫视
+http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 #EXTINF:-1 group-title="卫视,#genre#",三沙卫视
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
 #EXTINF:-1 group-title="卫视,#genre#",三沙卫视
-http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000117/1.m3u8
-#EXTINF:-1 group-title="卫视,#genre#",三沙卫视
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000319/index.m3u8?IAS
-#EXTINF:-1 group-title="卫视,#genre#",广西卫视
-http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031118
-#EXTINF:-1 group-title="卫视,#genre#",广西卫视
-http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226380/index.m3u8
-#EXTINF:-1 group-title="卫视,#genre#",广西卫视
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",河北卫视
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226406/index.m3u8
 #EXTINF:-1 group-title="卫视,#genre#",河北卫视
@@ -2581,6 +1871,8 @@ http://glive.grtn.cn/live/life.m3u8
 http://php.jdshipin.com:8880/chudian.php?id=gdyd
 #EXTINF:-1 group-title="地方台,#genre#",广东珠江
 http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011655
+#EXTINF:-1 group-title="地方台,#genre#",广东珠江
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/index.m3u8$LR•IPV6『线路1』
 #EXTINF:-1 group-title="地方台,#genre#",广州综合
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=gzzh
 #EXTINF:-1 group-title="地方台,#genre#",广州南国都市
@@ -2670,9 +1962,9 @@ https://epg.pw/stream/1feb00c8dfa4f135e1f00a93533eeaca5650c3b96c647d96e729008e13
 #EXTINF:-1 group-title="国际频道,#genre#",Nat Geo
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
 #EXTINF:-1 group-title="国际频道,#genre#",亚洲新闻
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 #EXTINF:-1 group-title="国际频道,#genre#",亚洲新闻
-http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 group-title="国际频道,#genre#",VOA美国之音
 https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 #EXTINF:-1 group-title="国际频道,#genre#",半岛电视
@@ -2747,6 +2039,8 @@ http://185.57.68.33:8091/232/playlist.m3u8
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000005000031974/index.m3u8?channel-id=bestzb&Contentid=5000000005000031974&livemode=1&stbId=3
 #EXTINF:-1 group-title="景区,#genre#",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区,#genre#",直播中国
+https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
 #EXTINF:-1 group-title="景区,#genre#",乘着火车看中国
 http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/2b0f397ed9d948eb9fac38d73cde241b/4000.m3u8
 #EXTINF:-1 group-title="景区,#genre#",航拍中国第一季
@@ -2757,6 +2051,150 @@ http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f
 http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/1200.m3u8
 #EXTINF:-1 group-title="景区,#genre#",梵净山
 http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/b9571df1181c4422a83901e827519fe6/4000.m3u8
+#EXTINF:-1 group-title="景区,#genre#",信阳-何家寨露营基地
+https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",信阳-鸡公山报晓峰
+https://gctxyc.liveplay.myqcloud.com/gc/nxspthhpl_1_md.m3u8
+#EXTINF:-1 group-title="景区,#genre#",南阳-方城德云山
+https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",渭南-韩城党家村
+https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",渭南-蒲城县中心广场
+https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",鹤壁-浚县古城北城门
+https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",商丘-日月湖
+https://gctxyc.liveplay.myqcloud.com/gc/hgsspzxdpb_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",大理无量村古树茶园
+https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",重庆巫山长江
+https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",沈阳浑河桥
+https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",丽江古城万古楼遥望玉龙雪山
+https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",黑龙江-萝北县自然保护区
+https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",哈尔滨-霁虹桥
+https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",海南七仙岭温泉国家森林公园
+https://gctxyc.liveplay.myqcloud.com/gc/cntv549-zbzg_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",乐山大佛全景
+https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",长江
+https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",西安大雁塔
+https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",西安钟楼
+https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",呼和浩特-花海之约
+https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",林芝-米林彩门民宿
+https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",林芝-错高民宿
+https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",林芝-南迦巴瓦
+https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",云南保山-板桥镇青龙街
+https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",云南保山-隆阳拦河坝水库
+https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",云南保山-比顿咖啡产业园
+https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",普洱无量山羊山瀑布
+https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",普洱景迈山
+https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",大理茶马古道
+https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",大理无量村古树茶园
+https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",北京密云-古北水镇
+https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",北京门头沟-黄安坨村
+https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",河北承德-金山岭长城
+https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",河北承德-避暑山庄
+https://mlivewbndbd.a.bdydns.com/mlivewbnd/mlive_sls02_2/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",湖南邵阳-崀山骆驼峰
+https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",湖南邵阳-崀山八角寨
+https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",云南红河-建水双龙桥
+https://gcalic.v.myalicdn.com/gc/pshdxg01_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",云南红河-月亮小镇
+https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",陕西渭南-东山景区
+https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",陕西渭南-大荔县南湖景区
+https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",南京-玄武湖公园
+https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",山西大同-鼓楼
+https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",浙江舟山-嵊泗县渔港
+https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",浙江舟山-东极岛
+https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",四川成都-安顺廊桥
+https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",江苏宿迁-骆马湖罗曼园
+https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",安徽黟县半山亭
+https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",安徽黟县卢村
+https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",安徽黟县西递牌坊
+https://gctxyc.liveplay.myqcloud.com/gc/yxxdpf_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",安徽黄山卧云峰
+https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",安徽黄山飞来石
+https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",青岛-艾山天文台
+https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",广东汕头市小公园
+https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",济南趵突泉
+https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",西安-长安三河水库
+https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",焦作红石峡
+https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",云南德宏-勐焕大金塔
+https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",西安-阎良石川河风景区
+https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",遵义-赤水大瀑布
+https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",江苏-徐州之夜
+https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",西藏山南-鲁日拉观景台
+https://gctxyc.liveplay.myqcloud.com/gc/hkts07_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",西双版纳-千年古寨曼丢
+https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",安徽-宣城溪桃大桥
+https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",广东韶关-车八岭自然保护区
+https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",甘肃鸣沙山月牙泉
+https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",甘肃敦煌山门
+https://gcalic.v.myalicdn.com/gc/bsszbcs_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",福建武夷山玉女峰
+https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",陕西凤堰古梯田
+https://gcalic.v.myalicdn.com/gc/cntv407-zbzg_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",山西晋城-釜山泫水湖
+https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",陕西西安樊川
+https://gctxyc.liveplay.myqcloud.com/gc/cntv506-zbzg_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",陕西西安蓝田县白鹿原
+https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",昆明寻甸县城区
+https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",贵州-黔东南加榜梯田
+https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
 #EXTINF:-1 group-title="景区,#genre#",广州塔和海心
 https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="景区,#genre#",张家界云天渡
@@ -2766,7 +2204,7 @@ https://gcalic.v.myalicdn.com/gc/szgk01_1/index.m3u8
 #EXTINF:-1 group-title="景区,#genre#",矮寨大桥-湘西
 https://gcalic.v.myalicdn.com/gc/jshhd01_1/index.m3u8
 #EXTINF:-1 group-title="景区,#genre#",巫山长江大桥
-https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
+https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
 #EXTINF:-1 group-title="景区,#genre#",泰山玉皇顶
 https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="景区,#genre#",西安大唐不夜城
@@ -2779,8 +2217,12 @@ https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8?contentid=2820180516
 https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="景区,#genre#",司马台长城
 http://gcalic.v.myalicdn.com/gc/jyg02_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",黄花城水长城
+#EXTINF:-1 group-title="景区,#genre#",黄花城水长城1
 https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 group-title="景区,#genre#",黄花城水长城2
+https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",黄花城水长城3
+https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
 #EXTINF:-1 group-title="景区,#genre#",武汉黄鹤楼
 http://gctxyc.liveplay.myqcloud.com/gc/djyqyl1_1_md.m3u8
 #EXTINF:-1 group-title="景区,#genre#",嘉峡关关城
@@ -2821,10 +2263,18 @@ http://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
 http://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
 #EXTINF:-1 group-title="景区,#genre#",乌镇全景
 http://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",乌镇蓝印花布
+https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",乌镇龙形田
+https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
 #EXTINF:-1 group-title="景区,#genre#",青海达坂山
 http://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
 #EXTINF:-1 group-title="景区,#genre#",天山天池
 http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1_md.m3u8
+#EXTINF:-1 group-title="景区,#genre#",天山天池马牙山
+https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
+#EXTINF:-1 group-title="景区,#genre#",天山天池海西平台
+https://gctxyc.liveplay.myqcloud.com/gc/drs01_1/index.m3u8
 #EXTINF:-1 group-title="景区,#genre#",湖南天门山
 http://gcalic.v.myalicdn.com/gc/tmstmd01_1/index.m3u8
 #EXTINF:-1 group-title="景区,#genre#",四川凉山邛海景区
@@ -2873,10 +2323,18 @@ http://gcalic.v.myalicdn.com/gc/xiongmao02_1/index.m3u8
 http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
 #EXTINF:-1 group-title="大熊猫,#genre#",iPanda怡然2
 http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
+#EXTINF:-1 group-title="轮播,#genre#",成龙
+http://zby.xjqxz.top/cldy/live.m3u8
+#EXTINF:-1 group-title="轮播,#genre#",周星驰
+http://zby.xjqxz.top/live12/live.m3u8
+#EXTINF:-1 group-title="轮播,#genre#",李连杰
+http://zby.xjqxz.top/lljdy/live.m3u8
 #EXTINF:-1 group-title="轮播,#genre#",好先生
 http://[2409:8c50:da00:10:5800::c]/live/9650792r4Uadz5Us_2000.flv?302_type=cold_aggr&_session_id=2767138517.n.cn-throax.gm7i_8092&cac=1&cb_retry=0&did=10000000000000000000000000001501&domain=open-tct.douyucdn2.cn&expire=0&fp_user_url=http%3A%2F%2Fopen-tct.douyucdn2.cn%2Fdyliveflv3%2F9650792r4Uadz5Us_2000.flv%3FwsAuth%3D4aad3e876d82b42570ba963d19efeb45%26token%3Dcpn-androidmpro-0-9650792-6b36c3415a9427b779b203a70632164d8cea7f1e393e89d4%26logo%3D0%26expire%3D0%26did%3D10000000000000000000000000001501%26origin%3Dtct%26vhost%3Dplay3%26sid%3D397286611&logo=0&manage_ip=&mir=true&node_id=&origin=tct&pro_type=http&redirect_from=pod.cn-throax.gm7i.nss&redirect_from_ip=2409%3A8c54%3A810%3Aa36%3A8000%3A0%3Ab00%3A26&redirect_to=fr.cn-x12pj9&redirect_to_ip=2409%3A8c50%3Ada00%3A10%3A5800%3A0%3A0%3Ac&sid=397286611&token=cpn-androidmpro-0-9650792-6b36c3415a9427b779b203a70632164d8cea7f1e393e89d4&vhost=tc-tct.douyucdn2.cn&wsAuth=4aad3e876d82b42570ba963d19efeb45
 #EXTINF:-1 group-title="轮播,#genre#",好先生
 http://maomao.kandiantv.cn/douyu1.php?id=9650792
+#EXTINF:-1 group-title="轮播,#genre#",好先生
+http://159.75.85.63:35455/douyu/9650792
 #EXTINF:-1 group-title="轮播,#genre#",喜剧电影
 http://159.75.85.63:35455/douyu/9292492
 #EXTINF:-1 group-title="轮播,#genre#",译制国语
@@ -2895,24 +2353,68 @@ http://159.75.85.63:35455/douyu/96577
 http://159.75.85.63:35455/douyu/8814650
 #EXTINF:-1 group-title="轮播,#genre#",電影劇場
 http://159.75.85.63:35455/douyu/7575350
+#EXTINF:-1 group-title="轮播,#genre#",国产剧集
+http://159.75.85.63:35455/douyu/8157860
 #EXTINF:-1 group-title="轮播,#genre#",康熙微服私访记
 http://live.iill.top/yy.php?id=1352811698
+#EXTINF:-1 group-title="轮播,#genre#",新三国
+http://159.75.85.63:35455/douyu/5908256
+#EXTINF:-1 group-title="轮播,#genre#",新三国
+http://159.75.85.63:35455/douyu/2838296
+#EXTINF:-1 group-title="轮播,#genre#",新三国
+http://cfss.cc/cdn/hy/11352944.flv
+#EXTINF:-1 group-title="轮播,#genre#",大秦帝国
+http://159.75.85.63:35455/huya/11352881
+#EXTINF:-1 group-title="轮播,#genre#",新水浒
+http://159.75.85.63:35455/huya/11342384
+#EXTINF:-1 group-title="轮播,#genre#",新水浒
+http://cfss.cc/cdn/hy/11342384.flv
+#EXTINF:-1 group-title="轮播,#genre#",庆余年
+http://159.75.85.63:35455/huya/11352960
+#EXTINF:-1 group-title="轮播,#genre#",庆余年
+http://cfss.cc/cdn/hy/11352960.flv
+#EXTINF:-1 group-title="轮播,#genre#",伪装者
+https://lunbo.freetv.top/yy/1354936244
 #EXTINF:-1 group-title="轮播,#genre#",神医喜来乐
 http://live.iill.top/yy.php?id=1382714119
 #EXTINF:-1 group-title="轮播,#genre#",狂飙
 http://live.iill.top/yy.php?id=1355142167
+#EXTINF:-1 group-title="轮播,#genre#",狂飙
+https://lunbo.freetv.top/yy/1382754187
+#EXTINF:-1 group-title="轮播,#genre#",天道-9.2高分好剧
+https://lunbo.freetv.top/yy/1382735574
 #EXTINF:-1 group-title="轮播,#genre#",雪中悍刀行
 https://lunbo.freetv.top/yy/1462996362
+#EXTINF:-1 group-title="轮播,#genre#",雪中悍刀行
+https://lunbo.freetv.top/yy/1382660835
 #EXTINF:-1 group-title="轮播,#genre#",知否知否应是绿肥红瘦
 http://live.iill.top/yy.php?id=21881901
 #EXTINF:-1 group-title="轮播,#genre#",神探狄仁杰
 http://maomao.kandiantv.cn/douyu1.php?id=3395113
+#EXTINF:-1 group-title="轮播,#genre#",神探狄仁杰轮播
+http://live.iill.top/douyu.php?id=3395113
+#EXTINF:-1 group-title="轮播,#genre#",神探狄仁杰1—5部全集
+https://lunbo.freetv.top/yy/1382705592
 #EXTINF:-1 group-title="轮播,#genre#",新白娘子传奇-修复版
 http://live.iill.top/yy.php?id=1354930969
+#EXTINF:-1 group-title="轮播,#genre#",科幻惊悚片-异形
+https://lunbo.freetv.top/yy/1382735543
+#EXTINF:-1 group-title="轮播,#genre#",007系列动作大片
+https://lunbo.freetv.top/yy/1382736897
+#EXTINF:-1 group-title="轮播,#genre#",第一滴血全集
+https://lunbo.freetv.top/yy/1354932355
 #EXTINF:-1 group-title="轮播,#genre#",喜剧电影
 http://43.138.170.29:35455/douyu/9292492
+#EXTINF:-1 group-title="轮播,#genre#",憨豆先生
+https://lunbo.freetv.top/yy/1354930189
+#EXTINF:-1 group-title="轮播,#genre#",白鹿原-国内经典战争片
+https://lunbo.freetv.top/yy/1354931488
 #EXTINF:-1 group-title="轮播,#genre#",豆瓣高分
 http://zzy789.xyz/douyu1.php?id=8770422
+#EXTINF:-1 group-title="轮播,#genre#",斗鱼02
+http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000p.flv?wsAuth=f149db0a268e17b462c4032f715fc551&token=cpn-androidmpro-0-85894-a3575d938a4aa30976aaee9c53a07043e9aa8ec98785781a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 group-title="轮播,#genre#",斗鱼19
+http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 #EXTINF:-1 group-title="轮播,#genre#",斗鱼-古装剧
 http://maomao.kandiantv.cn/douyu1.php?id=338759
 #EXTINF:-1 group-title="轮播,#genre#",斗鱼-恐怖1
