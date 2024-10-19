@@ -46,18 +46,12 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 1905国内电影,http://ygbh.live/1905.php?id=1905a
 1905国外电影,http://php.jdshipin.com:8880/1905.php?id=1905dy2
 1905国外电影,http://ygbh.live/1905.php?id=1905b
-斗鱼19,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
-斗鱼02,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000p.flv?wsAuth=f149db0a268e17b462c4032f715fc551&token=cpn-androidmpro-0-85894-a3575d938a4aa30976aaee9c53a07043e9aa8ec98785781a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+
 AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 AMC电影台,http://mywlkj.ddns.net:754/tv/tw3.php?id=7
-美亚电影台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
 
-点掌财经,https://wsvideo.aniu.tv/live/aniu/playlist.m3u8
-成龙,http://zby.xjqxz.top/cldy/live.m3u8
-周星驰,http://zby.xjqxz.top/live12/live.m3u8
-李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
 
-临时频道10-14,#genre#
+临时频道,#genre#
 
 CCTV-1综合,http://php.iptviptv.site/iptv.php?id=cctv01
 CCTV-2财经,http://php.iptviptv.site/iptv.php?id=cctv2
@@ -230,6 +224,7 @@ TVB PLUS,http://php.iptviptv.site/iptv.php?id=tvbsulp
 无线新闻台,http://php.iptviptv.site/iptv.php?id=wuxianxwfeiwu
 天映經典頻道,http://php.iptviptv.site/iptv.php?id=tianying
 黃金翡翠台,http://php.iptviptv.site/iptv.php?id=hjfct
+
 凤凰香港,http://php.iptviptv.site/iptv.php?id=fhxgwe
 凤凰中文,http://php.iptviptv.site/iptv.php?id=fhzwwe
 凤凰资询,http://php.iptviptv.site/iptv.php?id=fhzx
@@ -246,6 +241,7 @@ TVB PLUS,http://php.iptviptv.site/iptv.php?id=tvbsulp
 创世电视,http://php.iptviptv.site/iptv.php?id=csds
 亚洲新闻台,http://php.iptviptv.site/iptv.php?id=yzxwt
 亚洲剧台,http://php.iptviptv.site/iptv.php?id=yzjt
+
 ZooMoo,http://php.iptviptv.site/iptv.php?id=zoomoosb
 tvN,http://php.iptviptv.site/iptv.php?id=tvnbs
 Thrill,http://php.iptviptv.site/iptv.php?id=thrillbs1
@@ -307,7 +303,7 @@ loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 北京纪实8K,http://49.7.69.235/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 
 港澳台,#genre#
-凤凰卫视中文台,http://61.130.232.196:8881/udp/233.50.200.42:5140$LR•IPV4『线路13』
+
 凤凰卫视中文台,http://58.144.154.93/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰卫视中文台,http://122.224.232.218:8888/rtp/233.50.200.191:5140$LR•IPV4『线路9』
 凤凰卫视中文台,http://122.224.232.218:8888/rtp/233.50.200.191:5140$LR•IPV4『线路17』
@@ -318,7 +314,6 @@ loupe 4K,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 凤凰卫视中文台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 凤凰卫视中文台,http://ayolee.com:5253/udp/239.93.0.162:2192$LR•IPV4『线路20』
 
-凤凰卫视资讯台,http://61.130.232.37:8889/udp/233.50.200.192:5140$LR•IPV4『线路16』
 凤凰卫视资讯台,http://58.144.154.93/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰卫视资讯台,http://115.215.52.219:9999/udp/233.50.200.192:5140$LR•IPV4『线路15』
 凤凰卫视资讯台,http://183.234.238.18:8926/live1128.m3u8
@@ -1311,6 +1306,9 @@ iPanda基地母子园1,http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
 iPanda怡然2,http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
 
 轮播,#genre#
+成龙,http://zby.xjqxz.top/cldy/live.m3u8
+周星驰,http://zby.xjqxz.top/live12/live.m3u8
+李连杰,http://zby.xjqxz.top/lljdy/live.m3u8
 好先生,http://[2409:8c50:da00:10:5800::c]/live/9650792r4Uadz5Us_2000.flv?302_type=cold_aggr&_session_id=2767138517.n.cn-throax.gm7i_8092&cac=1&cb_retry=0&did=10000000000000000000000000001501&domain=open-tct.douyucdn2.cn&expire=0&fp_user_url=http%3A%2F%2Fopen-tct.douyucdn2.cn%2Fdyliveflv3%2F9650792r4Uadz5Us_2000.flv%3FwsAuth%3D4aad3e876d82b42570ba963d19efeb45%26token%3Dcpn-androidmpro-0-9650792-6b36c3415a9427b779b203a70632164d8cea7f1e393e89d4%26logo%3D0%26expire%3D0%26did%3D10000000000000000000000000001501%26origin%3Dtct%26vhost%3Dplay3%26sid%3D397286611&logo=0&manage_ip=&mir=true&node_id=&origin=tct&pro_type=http&redirect_from=pod.cn-throax.gm7i.nss&redirect_from_ip=2409%3A8c54%3A810%3Aa36%3A8000%3A0%3Ab00%3A26&redirect_to=fr.cn-x12pj9&redirect_to_ip=2409%3A8c50%3Ada00%3A10%3A5800%3A0%3A0%3Ac&sid=397286611&token=cpn-androidmpro-0-9650792-6b36c3415a9427b779b203a70632164d8cea7f1e393e89d4&vhost=tc-tct.douyucdn2.cn&wsAuth=4aad3e876d82b42570ba963d19efeb45
 好先生,http://maomao.kandiantv.cn/douyu1.php?id=9650792
 好先生,http://159.75.85.63:35455/douyu/9650792
@@ -1352,6 +1350,8 @@ iPanda怡然2,http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
 憨豆先生,https://lunbo.freetv.top/yy/1354930189
 白鹿原-国内经典战争片,https://lunbo.freetv.top/yy/1354931488
 豆瓣高分,http://zzy789.xyz/douyu1.php?id=8770422
+斗鱼02,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000p.flv?wsAuth=f149db0a268e17b462c4032f715fc551&token=cpn-androidmpro-0-85894-a3575d938a4aa30976aaee9c53a07043e9aa8ec98785781a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+斗鱼19,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=c357f68d7199827c89663777da40c4ee&token=cpn-androidmpro-0-20415-b6774b3b3249db1798811cfe5c393414bcc73f076e3a65fa&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 斗鱼-古装剧,http://maomao.kandiantv.cn/douyu1.php?id=338759
 斗鱼-恐怖1,http://159.75.85.63:35455/douyu/2935323
 斗鱼-恐怖2,http://159.75.85.63:35455/douyu/1165374
