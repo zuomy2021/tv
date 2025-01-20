@@ -25,9 +25,10 @@ AMC电影台,http://61.221.215.25:8800/hls/43/index.m3u8
 重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
 
 央视频道,#genre#
-CCTV-1 综合,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=1587240374177179388$订阅源-1920x1080
-CCTV-1 综合,http://219.139.42.24:8001/hls/1/index.m3u8$订阅源-1920x1080
-CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1$订阅源-1920x1080
+
+CCTV-1 综合,http://219.139.42.24:8001/hls/1/index.m3u8
+CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
+CCTV-1 综合,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=1587240374177179388
 CCTV-1 综合,http://112.123.206.32:808/hls/1/index.m3u8$订阅源-1920x1080
 CCTV-1 综合,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 CCTV-1 综合,http://116.128.242.83:9901/tsfile/live/0001_1.m3u8$订阅源-1920x1080
@@ -36,9 +37,10 @@ CCTV-1 综合,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cab
 CCTV-1 综合,http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-1 综合,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010011/1.m3u8$订阅源-IPv6-1920x1080
 CCTV-1 综合,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010011/index.m3u8$订阅源-IPv6-1920x1080
-CCTV-2 财经,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907$订阅源-1920x1080
-CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2$订阅源-1920x1080
+
+CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
 CCTV-2 财经,http://112.123.206.32:808/hls/2/index.m3u8$订阅源-1920x1080
+CCTV-2 财经,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907$订阅源-1920x1080
 CCTV-2 财经,http://116.128.242.83:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 CCTV-2 财经,http://116.128.242.83:9901/tsfile/live/0002_1.m3u8$订阅源-1920x1080
 CCTV-2 财经,http://121.33.239.242:9901/tsfile/live/0002_1.m3u8$订阅源-1920x1080
@@ -47,6 +49,7 @@ CCTV-2 财经,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cab
 CCTV-2 财经,http://[2409:8087:74d9:21::6]:80/270000001128/9900000502/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-2 财经,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010211/1.m3u8$订阅源-IPv6-1920x1080
 CCTV-2 财经,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225588/2.m3u8$订阅源-IPv6-1920x1080
+
 CCTV-3 综艺,http://z.b.bkpcp.top/m.php?id=cctv3$订阅源-1920x1080
 CCTV-3 综艺,http://116.128.242.83:9901/tsfile/live/0003_2.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 CCTV-3 综艺,http://116.128.242.83:9901/tsfile/live/0003_2.m3u8$订阅源-1920x1080
@@ -57,6 +60,7 @@ CCTV-3 综艺,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cab
 CCTV-3 综艺,http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-3 综艺,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010212/1.m3u8$订阅源-IPv6-1920x1080
 CCTV-3 综艺,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226021/2.m3u8$订阅源-IPv6-1920x1080
+
 CCTV-4 中文国际,http://z.b.bkpcp.top/m.php?id=cctv4$订阅源-1920x1080
 CCTV-4 中文国际,http://z.b.bkpcp.top/m.php?id=cctv4o$订阅源-1920x1080
 CCTV-4 中文国际,http://116.128.242.83:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
@@ -67,7 +71,8 @@ CCTV-4 中文国际,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shando
 CCTV-4 中文国际,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000350/index.m3u8?IASHttpSessionId=$订阅源-IPv6-1920x1080
 CCTV-4 中文国际,http://[2409:8087:74d9:21::6]:80/270000001128/9900000503/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-4 中文国际,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/1.m3u8$订阅源-IPv6-1920x1080
-CCTV-5 体育,http://z.b.bkpcp.top/m.php?id=cctv5$订阅源-1920x1080
+
+CCTV-5 体育,http://z.b.bkpcp.top/m.php?id=cctv5
 CCTV-5 体育,http://116.128.242.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 CCTV-5 体育,http://116.128.242.83:9901/tsfile/live/0006_1.m3u8$订阅源-1920x1080
 CCTV-5 体育,http://121.33.239.242:9901/tsfile/live/0005_1.m3u8$订阅源-1920x1080
@@ -77,6 +82,7 @@ CCTV-5 体育,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cab
 CCTV-5 体育,http://[2409:8087:74d9:21::6]:80/270000001128/9900000005/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-5 体育,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010139/1.m3u8$订阅源-IPv6-1920x1080
 CCTV-5 体育,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010145/index.m3u8$订阅源-IPv6-1920x1080
+
 CCTV-5+ 体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p$订阅源-1920x1080
 CCTV-5+ 体育赛事,http://116.128.242.83:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 CCTV-5+ 体育赛事,http://116.128.242.83:9901/tsfile/live/0005_1.m3u8$订阅源-1920x1080
@@ -87,7 +93,8 @@ CCTV-5+ 体育赛事,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shand
 CCTV-5+ 体育赛事,http://[2409:8087:74d9:21::6]:80/270000001128/9900000507/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-5+ 体育赛事,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010202/1.m3u8$订阅源-IPv6-1920x1080
 CCTV-5+ 体育赛事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225603/2.m3u8$订阅源-IPv6-1920x1080
-CCTV-6 电影,http://z.b.bkpcp.top/m.php?id=cctv6$订阅源-1920x1080
+
+CCTV-6 电影,http://z.b.bkpcp.top/m.php?id=cctv6
 CCTV-6 电影,http://116.128.242.83:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 CCTV-6 电影,http://116.128.242.83:9901/tsfile/live/0007_1.m3u8$订阅源-1920x1080
 CCTV-6 电影,http://121.33.239.242:9901/tsfile/live/0006_1.m3u8$订阅源-1920x1080
@@ -97,9 +104,10 @@ CCTV-6 电影,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cab
 CCTV-6 电影,http://[2409:8087:74d9:21::6]:80/270000001128/9900000006/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-6 电影,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010214/1.m3u8$订阅源-IPv6-1920x1080
 CCTV-6 电影,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226010/2.m3u8$订阅源-IPv6-1920x1080
-CCTV-7国防军事,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-7hd/2500.m3u8?innersid=14916759019483157794$订阅源-1920x1080
+
 CCTV-7国防军事,http://z.b.bkpcp.top/m.php?id=cctv7$订阅源-1920x1080
 CCTV-7国防军事,http://116.128.242.83:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
+CCTV-7国防军事,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-7hd/2500.m3u8?innersid=14916759019483157794$订阅源-1920x1080
 CCTV-7国防军事,http://116.128.242.83:9901/tsfile/live/0008_1.m3u8$订阅源-1920x1080
 CCTV-7国防军事,http://121.33.239.242:9901/tsfile/live/0007_1.m3u8$订阅源-1920x1080
 CCTV-7国防军事,http://219.128.121.202:59901/tsfile/live/0007_1.m3u8$订阅源-1920x1080
@@ -108,7 +116,8 @@ CCTV-7国防军事,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandon
 CCTV-7国防军事,http://[2409:8087:74d9:21::6]:80/270000001128/9900000504/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-7国防军事,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010215/1.m3u8$订阅源-IPv6-1920x1080
 CCTV-7国防军事,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225733/2.m3u8$订阅源-IPv6-1920x1080
-CCTV-8 电视剧,http://z.b.bkpcp.top/m.php?id=cctv8$订阅源-1920x1080
+
+CCTV-8 电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
 CCTV-8 电视剧,http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 CCTV-8 电视剧,http://121.33.239.242:9901/tsfile/live/0008_1.m3u8$订阅源-1920x1080
 CCTV-8 电视剧,http://219.128.121.202:59901/tsfile/live/0008_1.m3u8$订阅源-1920x1080
@@ -118,9 +127,10 @@ CCTV-8 电视剧,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_
 CCTV-8 电视剧,http://[2409:8087:74d9:21::6]:80/270000001128/9900000008/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-8 电视剧,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010216/1.m3u8$订阅源-IPv6-1920x1080
 CCTV-8 电视剧,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226008/2.m3u8$订阅源-IPv6-1920x1080
-CCTV-9 纪录,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-9hd/2500.m3u8?innersid=14916759019483157794$订阅源-1920x1080
+
 CCTV-9 纪录,http://z.b.bkpcp.top/m.php?id=cctv9$订阅源-1920x1080
 CCTV-9 纪录,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
+CCTV-9 纪录,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-9hd/2500.m3u8?innersid=14916759019483157794$订阅源-1920x1080
 CCTV-9 纪录,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8$订阅源-1920x1080
 CCTV-9 纪录,http://121.33.239.242:9901/tsfile/live/0009_1.m3u8$订阅源-1920x1080
 CCTV-9 纪录,http://219.128.121.202:59901/tsfile/live/0009_1.m3u8$订阅源-1920x1080
@@ -129,9 +139,10 @@ CCTV-9 纪录,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cab
 CCTV-9 纪录,http://[2409:8087:74d9:21::6]:80/270000001128/9900000505/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-9 纪录,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010052/1.m3u8$订阅源-IPv6-1920x1080
 CCTV-9 纪录,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225734/2.m3u8$订阅源-IPv6-1920x1080
-CCTV-10 科教,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-10hd/2500.m3u8?innersid=14916759019483157794$订阅源-1920x1080
+
 CCTV-10 科教,http://z.b.bkpcp.top/m.php?id=cctv10$订阅源-1920x1080
 CCTV-10 科教,http://116.128.242.83:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
+CCTV-10 科教,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-10hd/2500.m3u8?innersid=14916759019483157794$订阅源-1920x1080
 CCTV-10 科教,http://116.128.242.83:9901/tsfile/live/0011_1.m3u8$订阅源-1920x1080
 CCTV-10 科教,http://121.33.239.242:9901/tsfile/live/0010_1.m3u8$订阅源-1920x1080
 CCTV-10 科教,http://219.128.121.202:59901/tsfile/live/0010_1.m3u8$订阅源-1920x1080
@@ -140,6 +151,7 @@ CCTV-10 科教,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_ca
 CCTV-10 科教,http://[2409:8087:74d9:21::6]:80/270000001128/9900000506/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-10 科教,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010203/1.m3u8$订阅源-IPv6-1920x1080
 CCTV-10 科教,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225730/2.m3u8$订阅源-IPv6-1920x1080
+
 CCTV-11 戏曲,http://z.b.bkpcp.top/m.php?id=cctv11$订阅源-1920x1080
 CCTV-11 戏曲,http://116.128.242.83:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 CCTV-11 戏曲,http://116.128.242.83:9901/tsfile/live/0012_1.m3u8$订阅源-1920x1080
@@ -150,9 +162,10 @@ CCTV-11 戏曲,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_ca
 CCTV-11 戏曲,http://[2409:8087:74d9:21::6]:80/270000001128/9900000508/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-11 戏曲,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010092/1.m3u8$订阅源-IPv6-1920x1080
 CCTV-11 戏曲,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225597/2.m3u8$订阅源-IPv6-1920x1080
-CCTV-12 社会与法,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-12hd/2500.m3u8?innersid=14916759019483157794$订阅源-1920x1080
+
 CCTV-12 社会与法,http://z.b.bkpcp.top/m.php?id=cctv12$订阅源-1920x1080
 CCTV-12 社会与法,http://116.128.242.83:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
+CCTV-12 社会与法,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-12hd/2500.m3u8?innersid=14916759019483157794$订阅源-1920x1080
 CCTV-12 社会与法,http://116.128.242.83:9901/tsfile/live/0013_1.m3u8$订阅源-1920x1080
 CCTV-12 社会与法,http://121.33.239.242:9901/tsfile/live/0012_1.m3u8$订阅源-1920x1080
 CCTV-12 社会与法,http://219.128.121.202:59901/tsfile/live/0012_1.m3u8$订阅源-1920x1080
@@ -161,6 +174,7 @@ CCTV-12 社会与法,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shand
 CCTV-12 社会与法,http://[2409:8087:74d9:21::6]:80/270000001128/9900000509/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-12 社会与法,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010205/1.m3u8$订阅源-IPv6-1920x1080
 CCTV-12 社会与法,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225731/2.m3u8$订阅源-IPv6-1920x1080
+
 CCTV-13 新闻,http://z.b.bkpcp.top/m.php?id=cctv13$订阅源-1920x1080
 CCTV-13 新闻,http://116.128.242.83:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 CCTV-13 新闻,http://121.33.239.242:9901/tsfile/live/0013_1.m3u8$订阅源-1920x1080
@@ -171,9 +185,10 @@ CCTV-13 新闻,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_ca
 CCTV-13 新闻,http://[2409:8087:74d9:21::6]:80/270000001128/9900000510/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-13 新闻,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010093/1.m3u8$订阅源-IPv6-1920x1080
 CCTV-13 新闻,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226537/2.m3u8$订阅源-IPv6-1920x1080
-CCTV-14 少儿,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-14hd/2500.m3u8?innersid=14916759019483157794$订阅源-1920x1080
+
 CCTV-14 少儿,http://z.b.bkpcp.top/m.php?id=cctv14$订阅源-1920x1080
 CCTV-14 少儿,http://116.128.242.83:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
+CCTV-14 少儿,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-14hd/2500.m3u8?innersid=14916759019483157794$订阅源-1920x1080
 CCTV-14 少儿,http://116.128.242.83:9901/tsfile/live/0015_1.m3u8$订阅源-1920x1080
 CCTV-14 少儿,http://121.33.239.242:9901/tsfile/live/0014_1.m3u8$订阅源-1920x1080
 CCTV-14 少儿,http://219.128.121.202:59901/tsfile/live/0014_1.m3u8$订阅源-1920x1080
@@ -182,6 +197,7 @@ CCTV-14 少儿,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_ca
 CCTV-14 少儿,http://[2409:8087:74d9:21::6]:80/270000001128/9900000511/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-14 少儿,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010207/1.m3u8$订阅源-IPv6-1920x1080
 CCTV-14 少儿,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225732/2.m3u8$订阅源-IPv6-1920x1080
+
 CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15$订阅源-1920x1080
 CCTV-15 音乐,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 CCTV-15 音乐,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8$订阅源-1920x1080
@@ -192,8 +208,9 @@ CCTV-15 音乐,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_ca
 CCTV-15 音乐,http://[2409:8087:74d9:21::6]:80/270000001128/9900000512/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-15 音乐,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010094/1.m3u8$订阅源-IPv6-1920x1080
 CCTV-15 音乐,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225601/2.m3u8$订阅源-IPv6-1920x1080
-CCTV-16 奥林匹克,http://tv.kmhlzxs.top:35455/gaoma/cctv16.m3u8$订阅源-1920x1080
+
 CCTV-16 奥林匹克,http://tv.kmhlzxs.top:35455/itv/1000000006000233002.m3u8?cdn=ystenlive$订阅源-1920x1080
+CCTV-16 奥林匹克,http://tv.kmhlzxs.top:35455/gaoma/cctv16.m3u8$订阅源-1920x1080
 CCTV-16 奥林匹克,https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8$订阅源-1920x1080
 CCTV-16 奥林匹克,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226921/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-16 奥林匹克,http://[2409:8087:74d9:21::9]/270000001128/index.m3u8?cmcc_cid=9900000016$订阅源-IPv6-1920x1080
@@ -202,11 +219,12 @@ CCTV-16 奥林匹克,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898
 CCTV-16 奥林匹克,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-16 奥林匹克,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221226100/2.m3u8$订阅源-IPv6-1920x1080
 CCTV-16 奥林匹克,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$订阅源-IPv6-1920x1080
-CCTV-17 农业农村,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-17hd/2500.m3u8?innersid=14916759019483157794$订阅源-1920x1080
+
 CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源-1920x1080
 CCTV-17 农业农村,http://tv.kmhlzxs.top:35455/gaoma/cctv17.m3u8$订阅源-1920x1080
 CCTV-17 农业农村,http://tv.kmhlzxs.top:35455/itv/1000000005000265015.m3u8?cdn=ystenlive$订阅源-1920x1080
 CCTV-17 农业农村,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8$订阅源-1920x1080
+CCTV-17 农业农村,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-17hd/2500.m3u8?innersid=14916759019483157794$订阅源-1920x1080
 CCTV-17 农业农村,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226198/index.m3u8$订阅源-IPv6-1920x1080
 CCTV-17 农业农村,http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000303/index.m3u8?IASHttpSessionId=$订阅源-IPv6-1920x1080
 CCTV-17 农业农村,http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8$订阅源-IPv6-1920x1080
@@ -217,9 +235,10 @@ CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o$订阅源-1920x1080
 CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m$订阅源-1920x1080
 
 卫视频道,#genre#
-广东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=2310031483208039305$订阅源-1920x1080
+
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws$订阅源-1920x1080
 广东卫视,http://116.128.242.83:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
+广东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/gdws-hd/2500.m3u8?innersid=2310031483208039305$订阅源-1920x1080
 广东卫视,http://116.128.242.83:9901/tsfile/live/0124_1.m3u8$订阅源-1920x1080
 广东卫视,http://202.100.46.58:9901/tsfile/live/1023_1.m3u8$订阅源-1920x1080
 广东卫视,http://[2409:8087:5e00:24::20]:6610/000000001000/1/1000000005000265034/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265034&livemode=1&stbId=3$订阅源-IPv6-1920x1080
