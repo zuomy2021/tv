@@ -8,6 +8,8 @@
 斯诺克2,http://dns.yiandrive.com:15907/huya/880625
 
 北京IPTV 4K超清,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
+北京IPTV 淘电影,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
+北京IPTV 淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
 
 CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
@@ -18,46 +20,33 @@ CCTV-1 综合,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
 CCTV-1 综合,http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
 CCTV-1 综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226559
 CCTV-1 综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226016
-CCTV-1 综合,http://219.139.42.24:8001/hls/1/index.m3u8
 CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-1 综合,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=1587240374177179388
-CCTV-1 综合,http://112.123.206.32:808/hls/1/index.m3u8$订阅源-1920x1080
 
 CCTV-2 财经,http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
 CCTV-2 财经,http://39.134.65.175/PLTV/88888888/224/3221225599/1.m3u8
 CCTV-2 财经,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
 CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
-CCTV-2 财经,http://112.123.206.32:808/hls/2/index.m3u8$订阅源-1920x1080
-CCTV-2 财经,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-2hd/2500.m3u8?innersid=18203640774999492907$订阅源-1920x1080
-CCTV-2 财经,http://116.128.242.83:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
-CCTV-2 财经,http://116.128.242.83:9901/tsfile/live/0002_1.m3u8$订阅源-1920x1080
 
 CCTV-3 综艺,http://39.134.65.175/PLTV/88888888/224/3221225799/1.m3u8
 CCTV-3 综艺,http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
 CCTV-3 综艺,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
 CCTV-3 综艺,http://z.b.bkpcp.top/m.php?id=cctv3$订阅源-1920x1080
 CCTV-3 综艺,http://116.128.242.83:9901/tsfile/live/0003_2.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
-CCTV-3 综艺,http://116.128.242.83:9901/tsfile/live/0003_2.m3u8$订阅源-1920x1080
-CCTV-3 综艺,http://121.33.239.242:9901/tsfile/live/0003_1.m3u8$订阅源-1920x1080
-CCTV-3 综艺,http://219.128.121.202:59901/tsfile/live/0003_1.m3u8$订阅源-1920x1080
+
 
 CCTV-4 中文国际,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0wP1dRMt9qCzHdvA65wh1w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMcuN2HH7RLPyPHWOUWhSMk%2CEND
 CCTV-4 中文国际,http://39.134.65.175/PLTV/88888888/224/3221225797/1.m3u8
 CCTV-4 中文国际,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
 CCTV-4 中文国际,http://z.b.bkpcp.top/m.php?id=cctv4$订阅源-1920x1080
-CCTV-4 中文国际,http://z.b.bkpcp.top/m.php?id=cctv4o$订阅源-1920x1080
 CCTV-4 中文国际,http://116.128.242.83:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
-CCTV-4 中文国际,http://116.128.242.83:9901/tsfile/live/0004_1.m3u8$订阅源-1920x1080
-CCTV-4 中文国际,http://121.33.239.242:9901/tsfile/live/0004_1.m3u8$订阅源-1920x1080
+
 
 CCTV-5 体育,http://39.134.65.175/PLTV/88888888/224/3221225818/1.m3u8
 CCTV-5 体育,http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
 CCTV-5 体育,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
 CCTV-5 体育,http://z.b.bkpcp.top/m.php?id=cctv5
 CCTV-5 体育,http://116.128.242.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
-CCTV-5 体育,http://116.128.242.83:9901/tsfile/live/0006_1.m3u8$订阅源-1920x1080
-CCTV-5 体育,http://121.33.239.242:9901/tsfile/live/0005_1.m3u8$订阅源-1920x1080
-CCTV-5 体育,http://219.128.121.202:59901/tsfile/live/1004_1.m3u8$订阅源-1920x1080
 
 CCTV-5+ 体育赛事,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Em70vyfVI_MkrcLYjHWnqOA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNlS0O1LA8iGydXPYujpRue%2CEND
 CCTV-5+ 体育赛事,http://39.134.65.175/PLTV/88888888/224/3221225507/1.m3u8
@@ -65,18 +54,12 @@ CCTV-5+ 体育赛事,http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
 CCTV-5+ 体育赛事,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 CCTV-5+ 体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p$订阅源-1920x1080
 CCTV-5+ 体育赛事,http://116.128.242.83:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
-CCTV-5+ 体育赛事,http://116.128.242.83:9901/tsfile/live/0005_1.m3u8$订阅源-1920x1080
-CCTV-5+ 体育赛事,http://219.128.121.202:59901/tsfile/live/1005_1.m3u8$订阅源-1920x1080
-CCTV-5+ 体育赛事,http://tv.kmhlzxs.top:35455/gaoma/cctv5p.m3u8$订阅源-1920x1080
 
 CCTV-6 电影,http://39.134.65.175/PLTV/88888888/224/3221225814/1.m3u8
 CCTV-6 电影,http://39.134.67.108/PLTV/88888888/224/3221225814/1.m3u8
 CCTV-6 电影,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
 CCTV-6 电影,http://z.b.bkpcp.top/m.php?id=cctv6
 CCTV-6 电影,http://116.128.242.83:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
-CCTV-6 电影,http://116.128.242.83:9901/tsfile/live/0007_1.m3u8$订阅源-1920x1080
-CCTV-6 电影,http://121.33.239.242:9901/tsfile/live/0006_1.m3u8$订阅源-1920x1080
-CCTV-6 电影,http://219.128.121.202:59901/tsfile/live/0006_1.m3u8$订阅源-1920x1080
 
 CCTV-7国防军事,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EutDC7HLJc_gC0YdIDr7oig%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPOHuulzlCcw92vP3vgYa4n%2CEND
 CCTV-7国防军事,http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8
@@ -84,29 +67,21 @@ CCTV-7国防军事,http://39.134.65.175/PLTV/88888888/224/3221225671/1.m3u8
 CCTV-7国防军事,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
 CCTV-7国防军事,http://z.b.bkpcp.top/m.php?id=cctv7$订阅源-1920x1080
 CCTV-7国防军事,http://116.128.242.83:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
-CCTV-7国防军事,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-7hd/2500.m3u8?innersid=14916759019483157794$订阅源-1920x1080
-CCTV-7国防军事,http://116.128.242.83:9901/tsfile/live/0008_1.m3u8$订阅源-1920x1080
-CCTV-7国防军事,http://121.33.239.242:9901/tsfile/live/0007_1.m3u8$订阅源-1920x1080
-CCTV-7国防军事,http://219.128.121.202:59901/tsfile/live/0007_1.m3u8$订阅源-1920x1080
+
 
 CCTV-8 电视剧,http://39.134.65.175/PLTV/88888888/224/3221225795/1.m3u8
 CCTV-8 电视剧,http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
 CCTV-8 电视剧,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
 CCTV-8 电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
 CCTV-8 电视剧,http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
-CCTV-8 电视剧,http://121.33.239.242:9901/tsfile/live/0008_1.m3u8$订阅源-1920x1080
-CCTV-8 电视剧,http://219.128.121.202:59901/tsfile/live/0008_1.m3u8$订阅源-1920x1080
-CCTV-8 电视剧,http://219.128.121.202:59901/tsfile/live/0008_1.m3u8?key=txiptv$订阅源-1920x1080
+
 
 CCTV-9 纪录,http://39.134.65.175/PLTV/88888888/224/3221225676/1.m3u8
 CCTV-9 纪录,http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8
 CCTV-9 纪录,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
 CCTV-9 纪录,http://z.b.bkpcp.top/m.php?id=cctv9$订阅源-1920x1080
 CCTV-9 纪录,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
-CCTV-9 纪录,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-9hd/2500.m3u8?innersid=14916759019483157794$订阅源-1920x1080
-CCTV-9 纪录,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8$订阅源-1920x1080
-CCTV-9 纪录,http://121.33.239.242:9901/tsfile/live/0009_1.m3u8$订阅源-1920x1080
-CCTV-9 纪录,http://219.128.121.202:59901/tsfile/live/0009_1.m3u8$订阅源-1920x1080
+
 
 CCTV-10 科教,http://39.134.65.175/PLTV/88888888/224/3221225677/1.m3u8
 CCTV-10 科教,http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8
@@ -114,10 +89,6 @@ CCTV-10 科教,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226473
 CCTV-10 科教,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225730
 CCTV-10 科教,http://z.b.bkpcp.top/m.php?id=cctv10$订阅源-1920x1080
 CCTV-10 科教,http://116.128.242.83:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
-CCTV-10 科教,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-10hd/2500.m3u8?innersid=14916759019483157794$订阅源-1920x1080
-CCTV-10 科教,http://116.128.242.83:9901/tsfile/live/0011_1.m3u8$订阅源-1920x1080
-CCTV-10 科教,http://121.33.239.242:9901/tsfile/live/0010_1.m3u8$订阅源-1920x1080
-CCTV-10 科教,http://219.128.121.202:59901/tsfile/live/0010_1.m3u8$订阅源-1920x1080
 
 CCTV-11 戏曲,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-11 戏曲,http://39.134.65.175/PLTV/88888888/224/3221225517/1.m3u8
@@ -125,9 +96,6 @@ CCTV-11 戏曲,http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8
 CCTV-11 戏曲,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565
 CCTV-11 戏曲,http://z.b.bkpcp.top/m.php?id=cctv11$订阅源-1920x1080
 CCTV-11 戏曲,http://116.128.242.83:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
-CCTV-11 戏曲,http://116.128.242.83:9901/tsfile/live/0012_1.m3u8$订阅源-1920x1080
-CCTV-11 戏曲,http://121.33.239.242:9901/tsfile/live/0011_1.m3u8$订阅源-1920x1080
-CCTV-11 戏曲,http://219.128.121.202:59901/tsfile/live/0011_1.m3u8$订阅源-1920x1080
 
 CCTV-12 社会与法,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2knJCFLHz_HqfBZXNGeA1A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMIlZ5z7o_ym15iMooogSvj%2CEND
 CCTV-12 社会与法,http://39.134.65.175/PLTV/88888888/224/3221225669/1.m3u8
@@ -136,10 +104,6 @@ CCTV-12 社会与法,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226568
 CCTV-12 社会与法,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731
 CCTV-12 社会与法,http://z.b.bkpcp.top/m.php?id=cctv12$订阅源-1920x1080
 CCTV-12 社会与法,http://116.128.242.83:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
-CCTV-12 社会与法,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-12hd/2500.m3u8?innersid=14916759019483157794$订阅源-1920x1080
-CCTV-12 社会与法,http://116.128.242.83:9901/tsfile/live/0013_1.m3u8$订阅源-1920x1080
-CCTV-12 社会与法,http://121.33.239.242:9901/tsfile/live/0012_1.m3u8$订阅源-1920x1080
-CCTV-12 社会与法,http://219.128.121.202:59901/tsfile/live/0012_1.m3u8$订阅源-1920x1080
 
 CCTV-13 新闻,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 CCTV-13 新闻,http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
@@ -149,9 +113,6 @@ CCTV-13 新闻,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226011
 CCTV-13 新闻,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226537
 CCTV-13 新闻,http://z.b.bkpcp.top/m.php?id=cctv13$订阅源-1920x1080
 CCTV-13 新闻,http://116.128.242.83:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
-CCTV-13 新闻,http://121.33.239.242:9901/tsfile/live/0013_1.m3u8$订阅源-1920x1080
-CCTV-13 新闻,http://219.128.121.202:59901/tsfile/live/0013_1.m3u8$订阅源-1920x1080
-CCTV-13 新闻,http://219.128.121.202:59901/tsfile/live/0013_1.m3u8?key=txiptv$订阅源-1920x1080
 
 CCTV-14 少儿,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226229/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ey_UgKg-_uoDiTW1MNHptPg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNLabf3bHEXv4444iiOs_Px%2CEND
 CCTV-14 少儿,http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8
@@ -160,36 +121,22 @@ CCTV-14 少儿,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226591
 CCTV-14 少儿,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
 CCTV-14 少儿,http://z.b.bkpcp.top/m.php?id=cctv14$订阅源-1920x1080
 CCTV-14 少儿,http://116.128.242.83:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
-CCTV-14 少儿,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-14hd/2500.m3u8?innersid=14916759019483157794$订阅源-1920x1080
-CCTV-14 少儿,http://116.128.242.83:9901/tsfile/live/0015_1.m3u8$订阅源-1920x1080
-CCTV-14 少儿,http://121.33.239.242:9901/tsfile/live/0014_1.m3u8$订阅源-1920x1080
-CCTV-14 少儿,http://219.128.121.202:59901/tsfile/live/0014_1.m3u8$订阅源-1920x1080
 
 CCTV-15 音乐,http://39.134.65.175/PLTV/88888888/224/3221225513/1.m3u8
 CCTV-15 音乐,http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
 CCTV-15 音乐,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
 CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15$订阅源-1920x1080
 CCTV-15 音乐,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
-CCTV-15 音乐,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8$订阅源-1920x1080
-CCTV-15 音乐,http://121.33.239.242:9901/tsfile/live/0015_1.m3u8$订阅源-1920x1080
-CCTV-15 音乐,http://219.128.121.202:59901/tsfile/live/0015_1.m3u8$订阅源-1920x1080
 
 CCTV-16 奥林匹克,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND
 CCTV-16 奥林匹克,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
 CCTV-16 奥林匹克,http://39.134.65.173/PLTV/88888888/224/3221225893/1.m3u8
 CCTV-16 奥林匹克,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
-CCTV-16 奥林匹克,http://tv.kmhlzxs.top:35455/itv/1000000006000233002.m3u8?cdn=ystenlive$订阅源-1920x1080
-CCTV-16 奥林匹克,http://tv.kmhlzxs.top:35455/gaoma/cctv16.m3u8$订阅源-1920x1080
-CCTV-16 奥林匹克,https://api.olelive.com/dis/live/CCTV16HD/hls.m3u8$订阅源-1920x1080
 
 CCTV-17 农业农村,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 CCTV-17 农业农村,http://39.134.67.175/PLTV/88888888/224/3221225708/1.m3u8
 CCTV-17 农业农村,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源-1920x1080
-CCTV-17 农业农村,http://tv.kmhlzxs.top:35455/gaoma/cctv17.m3u8$订阅源-1920x1080
-CCTV-17 农业农村,http://tv.kmhlzxs.top:35455/itv/1000000005000265015.m3u8?cdn=ystenlive$订阅源-1920x1080
-CCTV-17 农业农村,https://api.olelive.com/dis/live/CCTV17HD/hls.m3u8$订阅源-1920x1080
-CCTV-17 农业农村,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-17hd/2500.m3u8?innersid=14916759019483157794$订阅源-1920x1080
 
 CCTV4欧洲,http://z.b.bkpcp.top/m.php?id=cctv4o$订阅源-1920x1080
 CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m$订阅源-1920x1080
@@ -481,8 +428,6 @@ CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m$订阅源-1920x1080
 广州影视,http://dns.yiandrive.com:15907/gztv/yingshi
 广州南国都市,http://dns.yiandrive.com:15907/gztv/shenghuo
 
-云浮综合,https://livestream.oeeee.com/slive/17806.m3u8
-云浮文旅,https://livestream.oeeee.com/slive/17807.m3u8
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8?zguangd
@@ -493,46 +438,28 @@ CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m$订阅源-1920x1080
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
 河源综合,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151?zguangd
 
-北京IPTV 淘电影,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
-北京IPTV 淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
+
 北京IPTV 淘娱乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 北京IPTV 淘BABY,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EN0sbBMpQv4sLsW5foy3YfA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 北京IPTV 萌宠TV,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_PpxWPtvSZRFtu_Ged_-vQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO0istnBuoA2R9ODSCqyIyS%2CEND
 
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 
-德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
-德阳文旅科教,http://scdytv.cn:1935/live/m_ggpd_livevideo/playlist.m3u8?zsicd
 
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8?zzhongqd
 荣昌综合,http://183.64.181.25:40023/rongchang01.m3u8$订阅源-720x404
 
 体育台,#genre#
-CCTV高尔夫网球,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000094/index.m3u8?
 
-劲爆体育,https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
-劲爆体育,http://z.b.bkpcp.top/m.php?id=jbty
+超级体育,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225715
+精品体育,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225674
 
-五星体育,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000002000000007/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000007&IASHttpSessionId=OTT19019320240419154124000281
-
-魅力足球,https://www.freetv.top/migu/796070308.m3u8?migutoken=aef1ffa947e5328dd4ec2bb318b58b674fe32113222c6c9eab78bcdc2a9f31cf142a1d60536ea5a5ee039d3753e6bd98bef238d0ba7e3af9153e765e8b77e2a8c28451355b4a426d11c5c304f8
-魅力足球,http://z.b.bkpcp.top/m.php?id=mlzq
-
-IHOT爱体育,http://php.jdshipin.com:8880/itv6s.php?cid=wasusyt&id=6000000006000290630
-
-newtv超级体育,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225715
-NewTV精品体育,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225674
-
-
-纬来体育,http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来体育,https://epg.pw/stream/b972b56855f08c1e06c90358613ad336cf197fddacbc2868b5abdd7294b4dc83.m3u8
-纬来体育,https://cloud.yumixiu768.com/tmp/123.m3u8
-纬来体育,https://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a898&t=1840341130
-纬来精彩,http://mywlkj.ddns.net:754/tv/tw3.php?id=9
+
 纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
 
-红牛运动,https://epg.pw/stream/de89ffbab9760cd5c7d797da58d7de3183265944cad0ba015730e13552d54b67.m3u8#http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+红牛运动,https://epg.pw/stream/de89ffbab9760cd5c7d797da58d7de3183265944cad0ba015730e13552d54b67.m3u8
+红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8$订阅源-1280x720
 
 迪拜体育2,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
@@ -541,6 +468,7 @@ NBA,http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
 
 
 咪咕直播,#genre#
+
 咪咕视频,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226398
 哒啵赛事,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225675
 晴彩广场舞「移动」,http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
@@ -676,20 +604,6 @@ NBA,http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
 
 探索频道,#genre#
 
-求索纪录,http://tv.kmhlzxs.top:35455/itv/6000000002000032052.m3u8?cdn=wasusyt$订阅源
-
-求索生活,http://tv.kmhlzxs.top:35455/itv/6000000002000003382.m3u8?cdn=wasusyt$订阅源
-
-
-求索科学,http://119.8.31.109:35455/itv/6000000002000032344.m3u8?cdn=wasusyt$订阅源-1920x1080
-求索科学,http://146.235.213.45:35455/itv/6000000002000032344.m3u8?cdn=wasusyt$订阅源-1920x1080
-求索科学,http://mg.20191209.xyz:58888/itv/6000000002000032344.m3u8?cdn=wasusyt$订阅源
-求索科学,http://www.terrykang.xyz:35455/itv/6000000002000032344.m3u8?cdn=wasusyt$订阅源
-
-求索动物,http://tv.kmhlzxs.top:35455/itv/6000000002000010046.m3u8?cdn=wasusyt$订阅源
-
-探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
-
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
@@ -705,23 +619,14 @@ Fashion 4K时尚,,http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k
 FashionBox HD,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/228/stream.m3u8
 FashionTV,https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
 
-欢笑剧场,http://111.29.9.34:6610/000000001000/1/1.m3u8?stbId=1&livemode=1&IASHttpSessionId=OTT760920241110011719006907&channel-id=bestzb&Contentid=5000000007000010001$订阅源-3840x2160
-欢笑剧场,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000007000010001/index.m3u8?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=YanG-1989
-欢笑剧场,http://php.jdshipin.com:8880/itv6s.php?cid=bestzb&id=5000000007000010001
-欢笑剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000009455
-欢笑剧场,http://php.jdshipin.com:8880/bst.php?id=hxjc4k/15000000
-欢笑剧场,http://php.jdshipin.com:8880/bst2.php?id=hxjc4k/15000000
-
 港澳台,#genre#
 
-凤凰卫视中文台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰卫视中文台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
-凤凰卫视中文台,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+凤凰卫视中文台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰卫视中文台,http://dns.yiandrive.com:15907/phenix/fhzw
 
-凤凰卫视资讯台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰卫视资讯台,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 凤凰卫视资讯台,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+凤凰卫视资讯台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰卫视资讯台,http://dns.yiandrive.com:15907/phenix/fhzx
 
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
@@ -730,59 +635,26 @@ FashionTV,https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 
-亚洲卫视,http://play-hsbj.vzan.com/slowlive/821481626725612417/live.m3u8
-
-
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+
 明珠台,http://bziyunshao.synology.me:8890/bysid/2
-明珠台,http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
+
 TVBJ2,http://bziyunshao.synology.me:8890/bysid/82
 
-千禧經典台http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-黄金翡翠台,http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
-娛樂新聞台(HK),http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-
-明珠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-翡翠剧集台(北美),http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-
-
-无线资讯台开码,https://ha.jmied.com/aa/aa.flv?auth_key=1661958232-0-0-3d9174957759709f8b53448167c0b6f6
-无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
-无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
-无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-无线财经,http://live.cooltv.top/tv/tvb.php?id=2
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/playlist.m3u8
 耀才财经,https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
 
-翡翠综合台(北美),http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-
-J2,http://php.jdshipin.com:8880/smt.php?id=j2_twn
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-星空卫视,http://ali.hlspull.yximgs.com/live/facf94ac3441dc4e5f8e48d1eeb18045.flv
 星空卫视,http://wouu.net:9977/rtp/239.93.1.10:2193
 TVB星河,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
-TVB星河,http://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
-TVB星河,https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
-TVB 亚洲武侠,http://v2h.jdshipin.com/asia_action/asia_action.stream/chunklist.m3u8
-TVB 亚洲武侠,https://edge6a.v2h-cdn.com/asia_action/asia_action.stream/chunklist.m3u8
-星光视界,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-经典电影台,https://ali.hlspull.yximgs.com/live/asdfg32522.flv
-经典影视台,https://ali.hlspull.yximgs.com/live/asdfg32516.flv
-
 
 东森超视,rtmp://f13h.mine.nu/sat/tv331
-八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
-八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
-三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
 
 人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
@@ -793,192 +665,58 @@ DaAi2 (大愛2) ,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
 
-Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-
 民視,rtmp://f13h.mine.nu/sat/tv051
 中視,rtmp://f13h.mine.nu/sat/tv091
 台視,rtmp://f13h.mine.nu/sat/tv071
 华視,rtmp://f13h.mine.nu/sat/tv111
-公視,http://livetv.skycf.eu.org/live.m3u8?c=8
 
 非凡新闻,rtmp://f13h.mine.nu/sat/tv581
-台視新闻,http://livetv.skycf.eu.org/live.m3u8?c=4
-民視新闻,http://livetv.skycf.eu.org/live.m3u8?c=11
-中視新闻,http://livetv.skycf.eu.org/live.m3u8?c=6
-中天新闻,http://livetv.skycf.eu.org/live.m3u8?c=7
-tbvs新闻,http://61.221.215.25:8800/hls/9/index.m3u8
-tbvs新闻,http://livetv.skycf.eu.org/live.m3u8?c=5
-tbvs新闻,http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-
-三立新闻,http://livetv.skycf.eu.org/live.m3u8?c=12
-华視新闻,http://livetv.skycf.eu.org/live.m3u8?c=13
-
-東森新聞,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
-东森财经新闻,http://livetv.skycf.eu.org/live.m3u8?c=14
-中天亚洲台,http://livetv.skycf.eu.org/live.m3u8?c=3
-镜新闻,http://livetv.skycf.eu.org/live.m3u8?c=10
-中天娱乐,http://61.221.215.25:8800/hls/47/index.m3u8
-AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
 
 国内影视,#genre#
 
 一号影厅,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 三号影厅,http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 
-淘电影,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND&GuardEncType=2
-淘电影,http://39.134.135.80/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-淘剧场,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7EQ8NsqL2Ii48SUgC4QMl6hh6MtnXuZ2CwNhT-dTFoMLL2G3Q2BYmATYXRv1nKmDi5C1jJAt50zoNF4cIM-01_7rCa0ZemjVk37nsYr4Zr0bk%7EExtInfo9bj61dxzlMXrsixrqcFYPg%2CEND&GuardEncType=2
 
-黑莓电影,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225743
+淘电影,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
 
-陕西影视,http://nas.jdshipin.com:8801/qly.php?id=6329
-湖南电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
-湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy
+淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
 
-西部电影,http://php.jdshipin.com:8880/qly.php?id=6332
-
-
-重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8$订阅源-1920x1080
-重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 
-漫威电影,http://zzy789.xyz/douyu1.php?id=6140589
 
-豆瓣电影,http://zzy789.xyz/douyu1.php?id=8770422$订阅源-1920x1080
+数字频道,#genre#
 
-新视觉HD,http://117.161.12.124/live/program/live/xsjhd8m/8000000/mnf.m3u8
-
-
-
-NewTV,#genre#
-
-上海纪实人文 4M1080,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225738
-北京纪实科教 4M1080,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225729
-
-NewTV东北热剧,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225741
-NewTV军事评论,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225668
-NewTV军旅剧场,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225676
-NewTV农业致富,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225683
-NewTV古装剧场,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225663
-NewTV家庭剧场,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225677
-NewTV怡伴健康,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225673
-NewTV惊悚悬疑,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225665
-NewTV明星大片,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225664
-NewTV欢乐剧场,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225742
-NewTV武搏世界,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225680
-NewTV海外剧场,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225671
-NewTV潮妈辣婆,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225685
-NewTV炫舞未来,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225719
-NewTV爱情喜剧,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225669
-NewTV精品体育,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225674
-NewTV精品大剧,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225670
-NewTV精品纪录,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225672
-NewTV精品萌宠,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226505
 超级体育,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg-EQHTrpbCOxNSgnFRbr4w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMNhcQPODGVtsSVKlB7CbAh%2CEND
 超级电影,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPRR4mbRWhkCFuUCVm9THg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM4kysjLk_woYMRnu35KtBV%2CEND
 NewTV超级电视剧,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225716
 超级综艺,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ejm-KqHfTZezbm9C-325YiA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNnfpAUC20DSCXUyGpDggnK%2CEND
 金牌综艺,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkcfszuSJNo6WZ8h7xrIswA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWi_zfgUXV5YnB6haFF-C2%2CEND
 
-SITV频道,#genre#
-
-SITV都市剧场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031111
-SITV都市剧场,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226176/index.m3u8
-
-SITV欢笑剧场,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226203/index.m3u8
-SITV动漫秀场,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031113
-SITV法治天地,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=9001547084732463424
-SITV金色学堂,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000026105
-SITV乐游,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031112
-SITV游戏风云,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031114
-SITV七彩戏剧,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031116
-SITV生活时尚,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000002000019634
-
-
-IHOT,#genre#
-
-iHOT 爱喜剧,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000004000000032
-iHOT 爱科幻,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000004000000033
-iHOT 爱院线,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=2000000004000000034
-
-BesTV,#genre#
-热门剧场,http://php.jdshipin.com:8880/bst.php?id=rmjc8m/8000000
-热播精选,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225671/index.m3u8$4.0M_1080
-谍战剧场,http://php.jdshipin.com:8880/bst.php?id=dzjc8m/8000000
-精品萌宠,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226505/index.m3u8
-武术世界,http://php.jdshipin.com:8880/hntv.php?id=wspd
-武术世界,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0MVaBO3fffRWKM%2FzNpNYjRBAiSJylXYBAiox0V94ejMfwEtXXuH8b8M%2F%2FDznZB61s
-青春动漫,http://php.jdshipin.com:8880/bst.php?id=qcdm8m/8000000
-热门综艺,http://php.jdshipin.com:8880/bst.php?id=rmzy8m/8000000
-健康养生,http://php.jdshipin.com:8880/bst.php?id=jkys8m/8000000
-百变课堂,http://php.jdshipin.com:8880/bst.php?id=bbkt8m/8000000
-哒啵赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-哒啵赛事,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225675/index.m3u8$4.0M_1080
-哒啵电竞,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000006000032327
-哒啵电竞,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000066/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000066&IASHttpSessionId=OTT19019320240419154124000281
-哒啵电竞,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/index.m3u8
-
-电子竞技,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000015
-高清娱乐,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000013
-漫游世界,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000004000000017
-
-
 少儿,#genre#
-
-黑莓动画,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225662
-卡酷少儿,http://[2409:8087:74d9:21::6]:80/270000001128/9900000040/index.m3u8
-金鹰卡通,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000006000040024/1.m3u8
-优漫卡通,http://[2409:8087:74d9:21::6]:80/270000001128/9900000070/index.m3u8
 
 嘉佳卡通,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226539/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQDRyt1jaDU7f52NwPN526A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOLcRNi6C1PMX5tGrYl_SiR%2CEND
 
-哈哈炫动,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031123
-哈哈炫动,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031123/1.m3u8
-
-动漫秀场,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031113/1.m3u8
-
-iHOT爱动漫,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000004000000059/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000059&IASHttpSessionId=OTT19019320240419154124000281
-
 浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-河北少儿,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
-海南少儿,http://[2409:8087:5e00:24::1e]:6060/000000001000/4600001000000000112/1.m3u8
-七龙珠,http://cfss.cc/cdn/hy/11601966.flv
-灌篮高手,http://cfss.cc/cdn/yy/1382735626.m3u8
-国漫热播,http://cfss.cc/cdn/yy/1353937086.m3u8
 
+哆啦A梦「动漫」,http://dns.yiandrive.com:15907/huya/11601963
+航海王「动漫」,http://dns.yiandrive.com:15907/huya/16913382
+七龙珠「动漫」,http://dns.yiandrive.com:15907/huya/11601966
+猫和老鼠「动漫」,http://dns.yiandrive.com:15907/huya/11352879
+中华小当家「动漫」,http://dns.yiandrive.com:15907/huya/11342413
 
 其他,#genre#
 
-中华美食,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000003000000052
-家庭理财,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000064
-财富天下,http://php.jdshipin.com:8880/PLTV/hnyd.php?id=00000001000000060000000000000163
-证券服务,http://php.jdshipin.com:8880/cqyx.php?id=jiazheng
-环球旅游,http://php.jdshipin.com:8880/cqyx.php?id=huanqiulvyou
-摄影,http://php.jdshipin.com:8880/cqyx.php?id=sheying
-
-天元围棋,http://php.jdshipin.com:8880/cqyx.php?id=weiqi
-书画,http://php.jdshipin.com:8880/cqyx.php?id=shuhua
-先锋乒羽,http://php.jdshipin.com:8880/itv6s.php?cid=hnbblive&id=4886720949268374180
-车迷频道,http://php.jdshipin.com:8880/cqyx.php?id=doxtv
-游戏风云,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031114
-
 茶频道,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226548/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ec1XXmbKOEhI6pFYCxtVG9A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD3hCDGl7mDB_HDsnRfhB2%2CEND
-茶频道,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=2000000002000000070
+
 快乐垂钓,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226549/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~RHz0NOpqUZZN1Iz6lVLkkg~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNSiF8rKF1Pn2LepKMJ2cEG%2CEND
 
-百姓健康,https://liveplay.xiaoeknow.com/live/5060_pyBeyjJ4RjcfhK7T.m3u8
-
-生态环境,http://php.jdshipin.com:8880/cqyx.php?id=shengtai
-收藏天下,http://php.jdshipin.com:8880/cqyx.php?id=soucang
-梨园频道,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQI5%2BK6T7j%2FlRm%2BvbM9VO7bA0q1S1k1f36SqqriM0FZoFSAJRfCt8SS7X6sTRmXb81a8O4H%2FdroDKjLoDeaMQdyJQ
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 
 
 国际频道,#genre#
-AXN,http://aktv.top/AKTV/live/aktv2/axn/AKTV.m3u8
+
 AMC Music,https://amchls.wns.live/hls/stream.m3u8
 CNN,https://epg.pw/stream/bf9c7383dcea9ef705a2779742a6a1b2aae2ff582e0103bd2a7ecfba56f12c5d.m3u8
 FOX, News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -991,10 +729,7 @@ FIFA+,https://i.mjh.nz/SamsungTVPlus/USBD12000255B.m3u8
 Trace Sports,https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 ESPN,https://epg.pw/stream/1feb00c8dfa4f135e1f00a93533eeaca5650c3b96c647d96e729008e13833d5e.ctv
 Nat Geo,http://streamsy.online:2999/coachj88/N93DPKS9pJ/141
-Animax(HK),http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 
-
-CNA亚洲新闻,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
@@ -1005,28 +740,16 @@ VOA美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlis
 半岛电视,https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛电视,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 泰国ASTV,http://news1.live14.com/stream/news1_hi.m3u8
-StarHD,http://livestar.siliconweb.com/media/star1/star1.m3u8#https://epg.pw/stream/f24adf3ae738b4720ff1599714fc3ba70607c0f3ceea78303f37d5b4aa1dcf0d.m3u8
-EZTV1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
-EZTV2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
-EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
-俄罗斯频道,https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
-nhkworld,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 NTV24小时新闻台,https://n24-cdn-live.ntv.co.jp/ch01/index_high.m3u8
-NTV24小时新闻台,,https://n24-cdn-live.ntv.co.jp:443/ch01/high.m3u8
-FOX,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+NTV24小时新闻台,https://n24-cdn-live.ntv.co.jp:443/ch01/high.m3u8
 
 REDBULL,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 REDBULL,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 REDBULL,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-KBS,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8#https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/chunklist_b2500000.m3u8
+
 MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-阿里郎,http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
-KCTV,http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
-ABC,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8#https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 
 KBS 1,https://tv.iill.top/kbs/11&p=0
 KBS 2,https://tv.iill.top/kbs/12&p=0
@@ -1049,14 +772,10 @@ NBS,https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 Korea TV,https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
 TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 국방国防TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
-WWE,https://www.goodiptv.club/huya/20971519
 
 日テレNEWS24HD,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 纬来日本HD,rtmp://f13h.mine.nu/sat/tv771
-NASA,https://epg.pw/stream/250b7a722ad83104de36fb62e1092707a7156c4efa4d4bc752a57f57dbd52996.m3u8
-NASA,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-
 
 景区,#genre#
 
@@ -1084,11 +803,6 @@ NASA,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 黑龙江-萝北县自然保护区,https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8
 哈尔滨-霁虹桥,https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
 海南七仙岭温泉国家森林公园,https://gctxyc.liveplay.myqcloud.com/gc/cntv549-zbzg_1/index.m3u8
-
-
-
-
-
 
 乐山大佛全景,https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
 长江,https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
@@ -1153,10 +867,6 @@ NASA,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 陕西西安蓝田县白鹿原,https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8
 昆明寻甸县城区,https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
 贵州-黔东南加榜梯田,https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
-
-
-
-
 
 广州塔和海心,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
 张家界云天渡,https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8?contentid=2820180516001
@@ -1241,11 +951,6 @@ iPanda怡然2,http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
 荒野求生「其他」,http://dns.yiandrive.com:15907/huya/593667
 野行者「其他」,http://dns.yiandrive.com:15907/huya/20072663
 
-哆啦A梦「动漫」,http://dns.yiandrive.com:15907/huya/11601963
-航海王「动漫」,http://dns.yiandrive.com:15907/huya/16913382
-七龙珠「动漫」,http://dns.yiandrive.com:15907/huya/11601966
-猫和老鼠「动漫」,http://dns.yiandrive.com:15907/huya/11352879
-中华小当家「动漫」,http://dns.yiandrive.com:15907/huya/11342413
 
 电影迷小雅,http://dns.yiandrive.com:15907/douyu/9639225
 水浒解说,http://dns.yiandrive.com:15907/douyu/9487003
@@ -1257,22 +962,13 @@ iPanda怡然2,http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
 蔡老板家的长工,http://dns.yiandrive.com:15907/douyu/8869614
 
 
-
-
-
-
 轮播,#genre#
-成龙电影,http://zzy789.xyz/douyu1.php?id=3379942$订阅源-1920x1080
-林正英电影,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575543-1394575543-5989656348986441728-2789274542-10057-A-0-1.m3u8$订阅源-960x720
-周星驰电影,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8$订阅源-960x720
+
 周星驰,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402$订阅源-1920x1080
-周星星,http://182.40.120.171/test-txdwk.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8$订阅源-1920x1024
 刘德华,http://1.94.31.214:35455/huya/11342424
 古天乐,http://1.94.31.214:35455/huya/29982675
-李连杰,http://rihou.cc:555/huyad.php?id=11342390$订阅源-640x464
 李连杰,http://1.94.31.214:35455/huya/11342390
-成龙,http://zzy789.xyz/douyu1.php?id=3379942
-洪金宝,http://rihou.cc:555/huyad.php?id=11279251$订阅源-640x464
+
 狄仁杰系列电影,http://1.94.31.214:35455/huya/30080229
 沈腾电影,http://1.94.31.214:35455/huya/11601968
 黄渤电影,http://1.94.31.214:35455/huya/11352876
@@ -1281,33 +977,21 @@ iPanda怡然2,http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
 王晶电影,http://1.94.31.214:35455/huya/11602058
 贺岁电影,http://1.94.31.214:35455/huya/11601986
 
-X战警电影,http://zzy789.xyz/douyu1.php?id=9651304
-
-欧美大片,http://zzy789.xyz/douyu1.php?id=2793084
 可乐影院,http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 神乐影剧,http://tc-tct.douyucdn2.cn/dyliveflv1/122402rK7MO9bXSq_2000.flv?wsAuth=8cea39337984fd3341cc9ec569502e4f&token=cpn-androidmpro-0-122402-0fcea45d2300cfa0ac75fafd8679bb53af10de8c33ae99d9&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=p
 
-灾难片,http://rihou.cc:555/huyad.php?id=11602075$订阅源-640x464
-
-延禧攻略,http://223.85.105.11/test-txdwk.flv.huya.com/src/1099531840940-1099531840940-86814878328684544-2199063805336-10057-A-0-1.m3u8
-琅琊榜,http://zby.xjqxz.top/lyb/live.m3u8
-新三国,http://223.85.105.11/test-txdwk.flv.huya.com/src/1423787831-1423787831-6115122170587774976-2847699118-10057-A-0-1.m3u8
-新水浒传,http://223.85.105.11/test-txdwk.flv.huya.com/src/1394565188-1394565188-5989611874600091648-2789253832-10057-A-0-1.m3u8
 
 庆余年,http://dns.yiandrive.com:15907/douyu/7812810
+庆余年,http://1.94.31.214:35455/huya/11352960
 神探狄仁杰1-4部,http://dns.yiandrive.com:15907/douyu/6027991
 
-陈情令,http://182.40.120.195/test-txdwk.flv.huya.com/src/1239543150218-1239543150218-11134998938774405120-2479086423892-10057-A-0-1.m3u8
-庆余年,http://1.94.31.214:35455/huya/11352960
 鬼吹灯之精绝古城,http://1.94.31.214:35455/huya/11352871
 鬼吹灯之怒晴湘西,http://1.94.31.214:35455/huya/11602075
 鬼吹灯之龙岭迷窟,http://1.94.31.214:35455/huya/29465863
 鬼吹灯之云南虫谷,http://1.94.31.214:35455/huya/11352898
-伪装者,http://jiaojirentv.top/2020/yy.php?id=1354936244
 
-狂飙,http://jiaojirentv.top/2020/yy.php?id=1355142167
 西游记,http://1.94.31.214:35455/huya/26355861
-新白娘子传奇,http://jiaojirentv.top/2020/yy.php?id=1354490667
+
 乌龙闯情关,http://1.94.31.214:35455/huya/26355767
 永夜星河,http://1.94.31.214:35455/huya/23734169
 柳舟计,http://1.94.31.214:35455/huya/23860039
@@ -1316,7 +1000,6 @@ X战警电影,http://zzy789.xyz/douyu1.php?id=9651304
 玫瑰的故事,http://1.94.31.214:35455/huya/23865142
 梦中的那片海,http://1.94.31.214:35455/huya/26355765
 
-
 大江大河2,http://1.94.31.214:35455/huya/23728660
 笑傲江湖,http://1.94.31.214:35455/huya/23865142
 大唐双龙传,http://1.94.31.214:35455/huya/23728674
@@ -1324,6 +1007,7 @@ X战警电影,http://zzy789.xyz/douyu1.php?id=9651304
 法政先锋,http://1.94.31.214:35455/huya/23863804
 洗冤录,http://1.94.31.214:35455/huya/29465851
 陀枪师姐,http://1.94.31.214:35455/huya/29465857
+陀枪师姐,http://rihou.cc:555/huyad.php?id=23860039$订阅源-640x464
 使徒行者,http://1.94.31.214:35455/huya/23734256
 鉴证实录,http://1.94.31.214:35455/huya/23903183
 金枝欲孽,http://1.94.31.214:35455/huya/23865036
@@ -1344,22 +1028,7 @@ X战警电影,http://zzy789.xyz/douyu1.php?id=9651304
 寒战,https://vip.ffzy-play6.com/20221019/157_bf0740ee/index.m3u8
 我不是药神,https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
 
-雪中悍刀行,http://rihou.cc:555/huyad.php?id=11336592$订阅源-640x464
-陀枪师姐,http://rihou.cc:555/huyad.php?id=23860039$订阅源-640x464
-
-贝爷欧美①厅,http://zzy789.xyz/douyu1.php?id=252802#http://159.75.85.63:35455/douyu/252802$订阅源-1920x1080
-贝爷欧美IMAX厅,http://zzy789.xyz/douyu1.php?id=4332#http://159.75.85.63:35455/douyu/4332$订阅源-1920x1080
-哈利波特全集,http://www.douzhicloud.site:35455/yy/1382745105$订阅源-1920x1080
-
-
-科幻惊悚片-异形,https://lunbo.freetv.top/yy/1382735543
-007系列动作大片,https://lunbo.freetv.top/yy/1382736897
-第一滴血全集,https://lunbo.freetv.top/yy/1354932355
-喜剧电影,http://43.138.170.29:35455/douyu/9292492
-憨豆先生,https://lunbo.freetv.top/yy/1354930189
-白鹿原-国内经典战争片,https://lunbo.freetv.top/yy/1354931488
-豆瓣高分,http://zzy789.xyz/douyu1.php?id=8770422
-
+贝爷欧美IMAX厅,http://zzy789.xyz/douyu1.php?id=4332
 
 中国之声,#genre#
 
