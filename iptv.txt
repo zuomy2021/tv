@@ -10,11 +10,10 @@ CHC家庭影院,http://tv.iill.top/migu/jtyy
 虎牙斯诺克2,http://dns.yiandrive.com:15907/huya/880625
 老范说台球,http://dns.yiandrive.com:15907/huya/28258706
 老唐-斯诺克,http://dns.yiandrive.com:15907/huya/27599671
-test1,http://dns.yiandrive.com:15907/huya/564185
-test2,http://dns.yiandrive.com:15907/huya/10147
+
 斯诺克1号桌,http://dns.yiandrive.com:15907/huya/20072620
 虎牙斯诺克3号桌,http://dns.yiandrive.com:15907/huya/18501408
-我有两颗小虎牙,http://dns.yiandrive.com:15907/huya/23835684
+
 
 北京IPTV 4K超清,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
 北京IPTV 淘电影,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
@@ -30,130 +29,131 @@ CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
 
 央视频道,#genre#
 
-CCTV-1 综合,http://tv.iill.top/migu/cctv1
 CCTV-1 综合,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
 CCTV-1 综合,http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
+CCTV-1 综合,http://xiaoya.crccxw.top:35455/gaoma/cctv1.m3u8
 CCTV-1 综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226559
 CCTV-1 综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226016
 CCTV-1 综合,http://z.b.bkpcp.top/m.php?id=cctv1
 CCTV-1 综合,http://cc-ynbit-wszhibo.ifengli.com:2000/live/cctv-1hd/2500.m3u8?innersid=1587240374177179388
 
-CCTV-2 财经,http://tv.iill.top/migu/cctv2
 CCTV-2 财经,http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8
 CCTV-2 财经,http://39.134.65.175/PLTV/88888888/224/3221225599/1.m3u8
+CCTV-2 财经,http://xiaoya.crccxw.top:35455/gaoma/cctv2.m3u8
 CCTV-2 财经,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
 CCTV-2 财经,http://z.b.bkpcp.top/m.php?id=cctv2
 
-CCTV-3 综艺,http://tv.iill.top/migu/cctv3
 CCTV-3 综艺,http://39.134.65.175/PLTV/88888888/224/3221225799/1.m3u8
 CCTV-3 综艺,http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
+CCTV-3 综艺,http://xiaoya.crccxw.top:35455/gaoma/cctv3.m3u8
 CCTV-3 综艺,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
 CCTV-3 综艺,http://z.b.bkpcp.top/m.php?id=cctv3$订阅源-1920x1080
 CCTV-3 综艺,http://116.128.242.83:9901/tsfile/live/0003_2.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 
-CCTV-4 中文国际,http://tv.iill.top/migu/cctv4
 CCTV-4 中文国际,http://39.134.65.175/PLTV/88888888/224/3221225797/1.m3u8
 CCTV-4 中文国际,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226428
+CCTV-4 中文国际,http://xiaoya.crccxw.top:35455/gaoma/cctv4.m3u8
 CCTV-4 中文国际,http://z.b.bkpcp.top/m.php?id=cctv4$订阅源-1920x1080
 CCTV-4 中文国际,http://116.128.242.83:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 
-CCTV-5 体育,http://tv.iill.top/migu/cctv5
 CCTV-5 体育,http://39.134.65.175/PLTV/88888888/224/3221225818/1.m3u8
 CCTV-5 体育,http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
+CCTV-5 体育,http://xiaoya.crccxw.top:35455/gaoma/cctv5.m3u8
 CCTV-5 体育,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
 CCTV-5 体育,http://z.b.bkpcp.top/m.php?id=cctv5
 CCTV-5 体育,http://116.128.242.83:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 
-CCTV-5+ 体育赛事,http://tv.iill.top/migu/cctv5p
 CCTV-5+ 体育赛事,http://39.134.65.175/PLTV/88888888/224/3221225507/1.m3u8
 CCTV-5+ 体育赛事,http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
+CCTV-5+ 体育赛事,http://xiaoya.crccxw.top:35455/gaoma/cctv5p.m3u8
 CCTV-5+ 体育赛事,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 CCTV-5+ 体育赛事,http://z.b.bkpcp.top/m.php?id=cctv5p$订阅源-1920x1080
 CCTV-5+ 体育赛事,http://116.128.242.83:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 
-CCTV-6 电影,http://tv.iill.top/migu/cctv6
 CCTV-6 电影,http://39.134.65.175/PLTV/88888888/224/3221225814/1.m3u8
 CCTV-6 电影,http://39.134.67.108/PLTV/88888888/224/3221225814/1.m3u8
+CCTV-6 电影,http://113.140.12.230:8888/newlive/live/hls/7/live.m3u8
 CCTV-6 电影,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
 CCTV-6 电影,http://z.b.bkpcp.top/m.php?id=cctv6
 CCTV-6 电影,http://116.128.242.83:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 
-CCTV-7国防军事,http://tv.iill.top/migu/cctv7
 CCTV-7国防军事,http://39.134.67.108/PLTV/88888888/224/3221225671/1.m3u8
 CCTV-7国防军事,http://39.134.65.175/PLTV/88888888/224/3221225671/1.m3u8
+CCTV-7国防军事,http://xiaoya.crccxw.top:35455/gaoma/cctv7.m3u8
 CCTV-7国防军事,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
 CCTV-7国防军事,http://z.b.bkpcp.top/m.php?id=cctv7$订阅源-1920x1080
 CCTV-7国防军事,http://116.128.242.83:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 
-CCTV-8 电视剧,http://tv.iill.top/migu/cctv8
 CCTV-8 电视剧,http://39.134.65.175/PLTV/88888888/224/3221225795/1.m3u8
 CCTV-8 电视剧,http://39.134.67.108/PLTV/88888888/224/3221225795/1.m3u8
+CCTV-8 电视剧,http://xiaoya.crccxw.top:35455/gaoma/cctv8.m3u8
 CCTV-8 电视剧,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
 CCTV-8 电视剧,http://z.b.bkpcp.top/m.php?id=cctv8
 CCTV-8 电视剧,http://116.128.242.83:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 
-CCTV-9 纪录,http://tv.iill.top/migu/cctv9
 CCTV-9 纪录,http://39.134.65.175/PLTV/88888888/224/3221225676/1.m3u8
 CCTV-9 纪录,http://39.134.67.108/PLTV/88888888/224/3221225676/1.m3u8
+CCTV-9 纪录,http://xiaoya.crccxw.top:35455/gaoma/cctv9.m3u8
 CCTV-9 纪录,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
 CCTV-9 纪录,http://z.b.bkpcp.top/m.php?id=cctv9$订阅源-1920x1080
 CCTV-9 纪录,http://116.128.242.83:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 
-CCTV-10 科教,http://tv.iill.top/migu/cctv10
 CCTV-10 科教,http://39.134.65.175/PLTV/88888888/224/3221225677/1.m3u8
 CCTV-10 科教,http://39.134.67.108/PLTV/88888888/224/3221225677/1.m3u8
+CCTV-10 科教,http://xiaoya.crccxw.top:35455/gaoma/cctv10.m3u8
 CCTV-10 科教,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226473
 CCTV-10 科教,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225730
 CCTV-10 科教,http://z.b.bkpcp.top/m.php?id=cctv10$订阅源-1920x1080
 CCTV-10 科教,http://116.128.242.83:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 
-CCTV-11 戏曲,http://tv.iill.top/migu/cctv11
 CCTV-11 戏曲,http://39.134.65.175/PLTV/88888888/224/3221225517/1.m3u8
 CCTV-11 戏曲,http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8
+CCTV-11 戏曲,http://xiaoya.crccxw.top:35455/gaoma/cctv11.m3u8
 CCTV-11 戏曲,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565
 CCTV-11 戏曲,http://z.b.bkpcp.top/m.php?id=cctv11$订阅源-1920x1080
 CCTV-11 戏曲,http://116.128.242.83:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 
-CCTV-12 社会与法,http://tv.iill.top/migu/cctv12
 CCTV-12 社会与法,http://39.134.65.175/PLTV/88888888/224/3221225669/1.m3u8
 CCTV-12 社会与法,http://39.134.67.108/PLTV/88888888/224/3221225669/1.m3u8
+CCTV-12 社会与法,http://xiaoya.crccxw.top:35455/gaoma/cctv12.m3u8
 CCTV-12 社会与法,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226568
 CCTV-12 社会与法,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731
 CCTV-12 社会与法,http://z.b.bkpcp.top/m.php?id=cctv12$订阅源-1920x1080
 CCTV-12 社会与法,http://116.128.242.83:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 
-CCTV-13 新闻,http://tv.iill.top/migu/cctv13
 CCTV-13 新闻,http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
 CCTV-13 新闻,http://39.134.65.175/PLTV/88888888/224/3221225812/1.m3u8
+CCTV-13 新闻,http://xiaoya.crccxw.top:35455/gaoma/cctv13.m3u8
 CCTV-13 新闻,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226571
 CCTV-13 新闻,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226011
 CCTV-13 新闻,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226537
 CCTV-13 新闻,http://z.b.bkpcp.top/m.php?id=cctv13$订阅源-1920x1080
 CCTV-13 新闻,http://116.128.242.83:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 
-CCTV-14 少儿,http://tv.iill.top/migu/cctv14
 CCTV-14 少儿,http://39.134.67.108/PLTV/88888888/224/3221225674/1.m3u8
 CCTV-14 少儿,http://39.134.65.175/PLTV/88888888/224/3221225674/1.m3u8
+CCTV-14 少儿,http://xiaoya.crccxw.top:35455/gaoma/cctv14.m3u8
 CCTV-14 少儿,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226591
 CCTV-14 少儿,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
 CCTV-14 少儿,http://z.b.bkpcp.top/m.php?id=cctv14$订阅源-1920x1080
 CCTV-14 少儿,http://116.128.242.83:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 
-CCTV-15 音乐,http://tv.iill.top/migu/cctv15
 CCTV-15 音乐,http://39.134.65.175/PLTV/88888888/224/3221225513/1.m3u8
 CCTV-15 音乐,http://39.134.67.108/PLTV/88888888/224/3221225513/1.m3u8
+CCTV-15 音乐,http://xiaoya.crccxw.top:35455/gaoma/cctv15.m3u8
 CCTV-15 音乐,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
 CCTV-15 音乐,http://z.b.bkpcp.top/m.php?id=cctv15$订阅源-1920x1080
 CCTV-15 音乐,http://116.128.242.83:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 
 CCTV-16 奥林匹克,http://39.135.133.139/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV-16 奥林匹克,http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
+CCTV-16 奥林匹克,http://xiaoya.crccxw.top:35455/gaoma/cctv16.m3u8
 CCTV-16 奥林匹克,http://39.134.65.173/PLTV/88888888/224/3221225893/1.m3u8
 CCTV-16 奥林匹克,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 
-CCTV-17 农业农村,http://tv.iill.top/migu/cctv17
 CCTV-17 农业农村,http://39.134.67.108/PLTV/88888888/224/3221225708/1.m3u8
 CCTV-17 农业农村,http://39.134.67.175/PLTV/88888888/224/3221225708/1.m3u8
+CCTV-17 农业农村,http://xiaoya.crccxw.top:35455/gaoma/cctv17.m3u8
 CCTV-17 农业农村,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 CCTV-17 农业农村,http://z.b.bkpcp.top/m.php?id=cctv17$订阅源-1920x1080
 
@@ -163,6 +163,27 @@ CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m$订阅源-1920x1080
 中国教育1台,http://tv.iill.top/migu/cetv1
 中国教育2台,http://tv.iill.top/migu/cetv2
 中国教育4台,http://tv.iill.top/migu/cetv4
+cctv4k,http://3501776.xyz:35455/gaoma/cctv4k.m3u8
+cctv8k,http://3501776.xyz:35455/gaoma/cctv8k_36m.m3u8
+兵器科技,http://www.lizhinas.top:1009/rtp/239.252.219.98:5140
+世界地理,http://www.lizhinas.top:1009/rtp/239.252.219.93:5140
+风云足球,http://www.lizhinas.top:1009/rtp/239.252.219.96:5140
+风云音乐,http://www.lizhinas.top:1009/rtp/239.252.219.87:5140
+风云剧场,http://www.lizhinas.top:1009/rtp/239.252.219.89:5140
+第一剧场,http://www.lizhinas.top:1009/rtp/239.252.219.86:5140
+怀旧剧场,http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
+文化精品,http://www.lizhinas.top:1009/rtp/239.252.219.81:5140
+女性时尚,http://www.lizhinas.top:1009/rtp/239.252.219.94:5140
+央视台球,http://www.lizhinas.top:1009/rtp/239.252.219.80:5140
+高尔夫网球,http://www.lizhinas.top:1009/rtp/239.252.219.95:5140
+电视指南,http://www.lizhinas.top:1009/rtp/239.252.219.97:5140
+
+CGTN,https://0472.org/hls/cgtn.m3u8
+CGTN纪录,https://0472.org/hls/cgtnd.m3u8
+CGTN俄语,https://0472.org/hls/cgtne.m3u8
+CGTN法语,https://0472.org/hls/cgtnf.m3u8
+CGTN西语,https://0472.org/hls/cgtnx.m3u8
+CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 卫视频道,#genre#
 
@@ -251,7 +272,6 @@ CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m$订阅源-1920x1080
 重庆卫视,http://116.128.242.83:9901/tsfile/live/1011_1.m3u8$订阅源-1920x1080
 重庆卫视,http://121.33.239.242:9901/tsfile/live/0142_1.m3u8$订阅源-1920x1080
 
-东方卫视,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226237/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EuOKqNaOUqqiJjXIfPoRPMQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNeqgYr1eA9ESriCOsl_DTz%2CEND
 东方卫视,http://39.134.65.173/PLTV/88888888/224/3221225942/1.m3u8
 东方卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226345
 东方卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225735
@@ -261,7 +281,6 @@ CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m$订阅源-1920x1080
 东方卫视,http://116.128.242.83:9901/tsfile/live/0118_1.m3u8$订阅源-1920x1080
 东方卫视,http://121.33.239.242:9901/tsfile/live/0107_1.m3u8$订阅源-1920x1080
 
-东南卫视,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkZUfG47p98m2PZiCsgkhyQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM5EcQIH6BiwZavlhPLb4oJ%2CEND
 东南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226341
 东南卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/fjws-hd/2500.m3u8?innersid=10943554111088989087$订阅源-1920x1080
 东南卫视,http://116.128.242.83:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
@@ -318,7 +337,6 @@ CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m$订阅源-1920x1080
 吉林卫视,http://61.173.144.157:9901/tsfile/live/0116_1.m3u8$订阅源-1920x1080
 吉林卫视,http://61.173.144.157:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 
-江苏卫视,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EJT6eqtJpcKnNhyUS90EOgw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN1SxXwCt0S69Lq27ZMJpfR%2CEND
 江苏卫视,http://39.134.65.177/PLTV/88888888/224/3221225938/1.m3u8
 江苏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226310
 江苏卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225613
@@ -328,7 +346,6 @@ CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m$订阅源-1920x1080
 江苏卫视,http://116.128.242.83:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 江苏卫视,http://116.128.242.83:9901/tsfile/live/0113_1.m3u8$订阅源-1920x1080
 
-江西卫视,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPpe3gkzCutYMoqOQQZNzA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMVuW7agCgULnvgy9rhLyCH%2CEND
 江西卫视,http://39.134.67.108/PLTV/88888888/224/3221225935/1.m3u8
 江西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226344
 江西卫视,http://z.b.bkpcp.top/m.php?id=jxws$订阅源-1920x1080
@@ -362,7 +379,6 @@ CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m$订阅源-1920x1080
 青海卫视,http://202.100.46.58:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 青海卫视,http://111.61.236.247:9081/hls/49/index.m3u8$订阅源-1920x1080
 
-山东卫视,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226244/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EycMz-PML_dQW8iLcNBkw7g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMYCYLC04QAM6EBli1wTuET%2CEND
 山东卫视,http://39.134.67.108/PLTV/88888888/224/3221225952/1.m3u8
 山东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226456
 山东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/sdws-hd/2500.m3u8?innersid=3721212644869031100$订阅源-1920x1080
@@ -472,6 +488,7 @@ CCTV4美洲,http://z.b.bkpcp.top/m.php?id=cctv4m$订阅源-1920x1080
 
 超级体育,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225715
 精品体育,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225674
+劲爆体育,http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
 
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 
@@ -705,7 +722,14 @@ DaAi2 (大愛2) ,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 
 重温经典,http://mtw.so/5NPX0U
 重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+冰冰影剧,http://www.douzhicloud.site:35455/douyu/74374
 
+南宁影视娱乐,http://hls.nntv.cn/nnlive/YSYL_244.m3u8
+
+好莱坞电影,http://50.7.234.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MA8A4005638840056388&ct=18392&tsum=a1f1517d4ea64fd01267905f21d83859
+HBO家庭,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
+HBO,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
+东森幼幼,http://122.117.71.103:8515/http/61.222.53.250:8081/hls/63/805/ch09.m3u8
 
 数字频道,#genre#
 
@@ -763,6 +787,7 @@ CHC家庭影院,http://www.lizhinas.top:1009/rtp/239.252.219.84:5140
 
 环球电视,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 天元围棋,http://wouu.net:9977/udp/239.93.42.55:5140
+天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
 
 
 国际频道,#genre#
@@ -831,6 +856,7 @@ TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 直播中国,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
+
 乘着火车看中国,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/2b0f397ed9d948eb9fac38d73cde241b/4000.m3u8
 航拍中国第一季,http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
 航拍中国第二季,http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
