@@ -4,28 +4,9 @@
 深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226313
 深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225739
 
-CHC家庭影院,http://tv.iill.top/migu/jtyy
-
-虎牙斯诺克1,http://dns.yiandrive.com:15907/huya/880214
-虎牙斯诺克2,http://dns.yiandrive.com:15907/huya/880625
-老范说台球,http://dns.yiandrive.com:15907/huya/28258706
-老唐-斯诺克,http://dns.yiandrive.com:15907/huya/27599671
-
-斯诺克1号桌,http://dns.yiandrive.com:15907/huya/20072620
-虎牙斯诺克3号桌,http://dns.yiandrive.com:15907/huya/18501408
-
-
-北京IPTV 4K超清,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226550/1.m3u8?GuardEncType=2&accountinfo=~~V2.0~e2qS8h6u-xp3gd50vNr1sw~_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPPFD3HVWEytEVyliOxehfe%2CEND
-北京IPTV 淘电影,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226552/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EXOsrWMA-UCdUl1hQSR9EKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
-北京IPTV 淘剧场,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226553/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQaJ92NID2SpQlY6_VJVogg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOuQYJeiYEeFWTkFfE86Vq-%2CEND
-
-
 CHC华诚影视,http://120.76.248.139/live/bfgd/4200000289.m3u8
-东方影视,http://tv.iill.top/migu/shys
-金色剧场,http://tv.iill.top/migu/jsjc
 
-红色轮播台,http://tv.iill.top/migu/hslb
-国际空间站,http://dns.yiandrive.com:15907/bilibili/9196015
+
 
 央视频道,#genre#
 
@@ -456,12 +437,15 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 广东珠江,http://218.13.14.6:60050/tsfile/live/1018_1.m3u8
 广州综合,http://php.jdshipin.com:8880/PLTV/iptv.php?id=gzzh
 广州综合,http://dns.yiandrive.com:15907/gztv/zhonghe
+广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 广州新闻,http://dns.yiandrive.com:15907/gztv/xinwen
 广州法治,http://dns.yiandrive.com:15907/gztv/fazhi
+广州法治,http://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=3e84cd8eba844b5dc2150612295c7a52&txTime=18d578f4493
 广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
 广州影视,http://dns.yiandrive.com:15907/gztv/yingshi
 广州南国都市,http://dns.yiandrive.com:15907/gztv/shenghuo
+广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
 河源综合,http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8
 河源公共,http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8
@@ -473,10 +457,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 河源综合,https://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8?_upt=f767206b1671099007
 河源综合,http://tmpstream.hyrtv.cn/xwzh/playlist.m3u8?_upt=407e01941606112151?zguangd
 
-
-北京IPTV 淘娱乐,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226551/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex0efg9fpenP8E8lWJUb5Lg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
-北京IPTV 淘BABY,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226554/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EN0sbBMpQv4sLsW5foy3YfA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNg3bzRax0E9tLmO9xgXVx8%2CEND
-北京IPTV 萌宠TV,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226555/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_PpxWPtvSZRFtu_Ged_-vQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO0istnBuoA2R9ODSCqyIyS%2CEND
+德阳新闻综合,http://scdytv.cn:1935/live/m_xwpd_livevideo/playlist.m3u8
 
 浙江教科影视,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
 
@@ -489,6 +470,7 @@ CGTN阿语,https://0472.org/hls/cgtna.m3u8
 超级体育,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225715
 精品体育,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225674
 劲爆体育,http://120.238.94.82:9901/tsfile/live/1086_1.m3u8
+
 
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
 
@@ -639,6 +621,8 @@ NBA,http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
 
 
 探索频道,#genre#
+求索动物,http://39.134.65.106/PLTV/88888888/224/3221225730/1.m3u8?
+求索科学,http://39.134.65.106/PLTV/88888888/224/3221225728/1.m3u8?
 
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 纬来日本,rtmp://f13h.mine.nu/sat/tv771
@@ -738,20 +722,26 @@ HBO,http://122.117.71.103:8556/http/61.222.53.250:8081/hls/71/813/ch41.m3u8
 古装剧场,http://39.134.65.73/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8
 军旅剧场,http://39.134.65.76/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8
 超级电视剧,http://39.135.133.156/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8
+超级电视剧,http://39.134.64.87:6610/PLTV/88888888/224/3221225716/index.m3u8?IASHttpSessionId=
 超级电视剧,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225716
 
 超级体育,http://39.134.65.66/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+超级体育,http://39.134.64.87:6610/PLTV/88888888/224/3221225715/index.m3u8?IASHttpSessionId=
 超级体育,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eg-EQHTrpbCOxNSgnFRbr4w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMNhcQPODGVtsSVKlB7CbAh%2CEND
 超级电影,http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+超级电影,http://39.135.133.154:80/PLTV/88888888/224/3221225644/1.m3u8
 超级电影,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EfPRR4mbRWhkCFuUCVm9THg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNM4kysjLk_woYMRnu35KtBV%2CEND
 超级综艺,http://39.134.65.4/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+超级综艺,http://39.134.64.87:6610/PLTV/88888888/224/3221225714/index.m3u8?IASHttpSessionId=
 超级综艺,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ejm-KqHfTZezbm9C-325YiA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNnfpAUC20DSCXUyGpDggnK%2CEND
 金牌综艺,http://39.135.135.24/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8
 金牌综艺,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227004/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkcfszuSJNo6WZ8h7xrIswA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMWi_zfgUXV5YnB6haFF-C2%2CEND
 爱情喜剧,http://39.134.65.82/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
 惊悚悬疑,http://39.134.65.89/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
 东北热剧,http://39.134.65.74/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8
+东北热剧,http://39.134.65.175/PLTV/88888888/224/3221225679/1.m3u8
 欢乐剧场,http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8
+欢乐剧场,http://39.134.65.175/PLTV/88888888/224/3221225682/1.m3u8
 潮妈辣婆,http://39.134.65.70/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8
 武博世界,http://39.134.65.64/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
 中国功夫,http://39.134.65.62/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8
