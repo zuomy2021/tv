@@ -1,5 +1,6 @@
 本地常用,#genre#
 
+深圳卫视,http://go.bkpcp.top/mg/szws
 深圳卫视,http://fjcm-2117.live.iptv.darwinchow.com/PLTV/88888888/224/3221227489/index.m3u8
 深圳卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225848/index.m3u8
 深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226313
@@ -187,6 +188,7 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 广东卫视,http://116.128.242.83:9901/tsfile/live/0124_1.m3u8$订阅源-1920x1080
 广东卫视,http://202.100.46.58:9901/tsfile/live/1023_1.m3u8$订阅源-1920x1080
 
+深圳卫视,http://go.bkpcp.top/mg/szws
 深圳卫视,http://fjcm-2118.live.iptv.darwinchow.com/PLTV/88888888/224/3221225848/index.m3u8
 深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226313
 深圳卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225739
@@ -199,15 +201,16 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 
 浙江卫视,http://go.bkpcp.top/mg/zjws
+浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225612
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226339
-浙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221225612
 浙江卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/zsws-hd/2500.m3u8?innersid=6252212644869032383$订阅源-1920x1080
 浙江卫视,http://116.128.242.83:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 浙江卫视,http://58.17.48.228:808/hls/32/index.m3u8$订阅源-1920x1080
 浙江卫视,http://121.33.239.242:9901/tsfile/live/0016_1.m3u8$订阅源-1920x1080
 浙江卫视,http://113.140.86.162:8009/hls/34/index.m3u8$订阅源-1920x1080
 
+湖北卫视,http://go.bkpcp.top/mg/hubws
 湖北卫视,http://39.134.65.70/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225627/index.m3u8
 湖北卫视,http://39.134.65.173/PLTV/88888888/224/3221225975/1.m3u8
 湖北卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226477
@@ -238,7 +241,7 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 北京卫视,http://116.128.242.83:9901/tsfile/live/0126_1.m3u8$订阅源-1920x1080
 北京卫视,http://221.0.78.198:1681/hls/10230/index.m3u8$订阅源-1920x1080
 
-
+黑龙江卫视,http://go.bkpcp.top/mg/hljws
 黑龙江卫视,http://39.135.133.173/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226327/index.m3u8
 黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226327
 黑龙江卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226585
@@ -317,6 +320,7 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 河北卫视,http://116.128.242.83:9901/tsfile/live/0142_1.m3u8$订阅源-1920x1080
 河北卫视,http://121.33.239.242:9901/tsfile/live/0117_1.m3u8$订阅源-1920x1080
 
+河南卫视,http://go.bkpcp.top/mg/hnws
 河南卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226480
 河南卫视,http://221.0.78.198:1681/hls/10259/index.m3u8$订阅源-1920x1080
 河南卫视,http://121.33.239.242:9901/tsfile/live/0139_1.m3u8$订阅源-1920x1080
@@ -340,6 +344,7 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 江苏卫视,http://116.128.242.83:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0$北京酒店源-1920x1080
 江苏卫视,http://116.128.242.83:9901/tsfile/live/0113_1.m3u8$订阅源-1920x1080
 
+江西卫视,http://go.bkpcp.top/mg/jxws
 江西卫视,http://39.134.67.108/PLTV/88888888/224/3221225935/1.m3u8
 江西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226344
 江西卫视,http://z.b.bkpcp.top/m.php?id=jxws$订阅源-1920x1080
@@ -373,6 +378,7 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 青海卫视,http://202.100.46.58:9901/tsfile/live/1038_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 青海卫视,http://111.61.236.247:9081/hls/49/index.m3u8$订阅源-1920x1080
 
+山东卫视,http://go.bkpcp.top/mg/sdws
 山东卫视,http://39.134.67.108/PLTV/88888888/224/3221225952/1.m3u8
 山东卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226456
 山东卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/sdws-hd/2500.m3u8?innersid=3721212644869031100$订阅源-1920x1080
@@ -387,13 +393,13 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 山西卫视,http://111.61.236.247:9081/hls/47/index.m3u8$订阅源-1920x1080
 山西卫视,http://110.7.130.44:8096/tsfile/live/0118_1.m3u8$订阅源-720x576
 
+陕西卫视,http://go.bkpcp.top/mg/sxws
 陕西卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/sxws-sd/1500.m3u8?innersid=2025$订阅源-1920x1080
 陕西卫视,http://z.b.bkpcp.top/m.php?id=sxws$订阅源-1920x1080
 陕西卫视,http://36.32.174.67:60080/newlive/live/hls/44/live.m3u8$订阅源-1920x1080
 陕西卫视,http://110.53.52.63:8888/newlive/live/hls/40/live.m3u8$订阅源-1920x1080
 陕西卫视,http://121.33.239.242:9901/tsfile/live/0136_1.m3u8$订阅源-1920x1080
 
-四川卫视,http://39.134.67.108/PLTV/88888888/224/3221225970/1.m3u8
 四川卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226338
 四川卫视,http://cc-ynbit-wszhibo.ifengli.com:2000/live/scws-hd/2500.m3u8?innersid=17534924581903335933$订阅源-1920x1080
 四川卫视,http://123.182.60.29:9002/hls/36/index.m3u8$订阅源-1920x1080
@@ -434,6 +440,7 @@ CGTN俄语,https://0472.org/hls/cgtne.m3u8
 云南卫视,http://202.100.46.58:9901/tsfile/live/1039_1.m3u8$订阅源-1920x1080
 云南卫视,http://202.100.46.58:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=1&authid=0$订阅源-1920x1080
 
+兵团卫视,http://go.bkpcp.top/mg/btws
 兵团卫视,http://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 安多卫视,http://stream.qhbtv.com/adws/playlist.m3u8?_upt=d60823ce1718441050
