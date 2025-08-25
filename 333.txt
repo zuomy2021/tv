@@ -53,6 +53,8 @@ CETV-04频高,http://m.061899.xyz/mg/cetv4
 广西卫视频高,http://m.061899.xyz/mg/gxws
 东南卫视频高,http://m.061899.xyz/mg/dnws
 海南卫视频高,http://m.061899.xyz/mg/hinws
+三沙卫视,http://43.159.77.196:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/sanshaSD/__op/default/__f/index.m3u8
+三沙卫视,https://stream.iptv-search.com/main.php?id=%E4%B8%89%E6%B2%99%E5%8D%AB%E8%A7%86&t=1755401429&token=7ddfc6d40f1c98da27c8b5e7c59836a3
 甘肃卫视频高,http://m.061899.xyz/mg/gsws
 青海卫视频高,http://m.061899.xyz/mg/qhws
 陕西卫视频高,http://m.061899.xyz/mg/sxws
@@ -1761,4 +1763,5 @@ FunkyCornerRadio(China),https://ais-sa2.cdnstream1.com/2447_192.mp3
 天籁之音-经典正流行,http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
 cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 湖南音乐之声·芒果音乐台,http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
+
 
