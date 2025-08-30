@@ -280,22 +280,34 @@ CCTV-17高码,http://k.061899.xyz/m.php?id=cctv17
 
 欣赏频道,#genre#
 
-粤语长片频道,http://t.061899.xyz/tl/js/api.php?id=yypt
-粤语长片频道,http://tl.061833.xyz/tl/null-10
-Plus综合频道,http://t.061899.xyz/tl/js/js.php?id=tvbplus
+Now英超1_粤,http://iptv.4666888.xyz/iptv.php?id=20092
+Now英超2_英,http://iptv.4666888.xyz/iptv.php?id=20093
+Now英超3_粤,http://iptv.4666888.xyz/iptv.php?id=20094
+Now爆谷频道,http://t.061899.xyz/tl/js/api.php?id=nowbgt
+Now爆谷频道,http://iptv.4666888.xyz/iptv.php?id=20087
+Now星影频道,http://t.061899.xyz/tl/js/api.php?id=nowbgxyt
+Now星影频道,http://iptv.4666888.xyz/iptv.php?id=20086
+pₒₚc电影频道,http://tl.061833.xyz/tl/popc
 pₒₚc电影频道,http://j.s.bkpcp.top/js/popc
-Now爆谷频道,http://usacdn.hscdn.live/hs.gif?port=8080&app=live&stream=f271374c0720686c7e339eb94f09c9eb
-Now星影频道,http://usacdn.hscdn.live/hs.gif?port=8080&app=live&stream=e0100ea1594f84d1effcc0dbca1983fe
-Now紫金频道,http://usacdn.hscdn.live/hs.gif?port=8080&app=live&stream=d0bc8768c621012741b85c6a7050fd10
+Plus综合频道,http://t.061899.xyz/tl/js/js.php?id=tvbplus
 中天新闻频道,http://t.061899.xyz/tl/js/api.php?id=ztxw
 中天新闻加道,http://t.061899.xyz/tl/js/api.php?id=2ctiztt
 有线新闻频道,http://t.061899.xyz/tl/js/api.php?id=78hoy
+有线新闻频道,http://api.mg.itv888.cn:8080/hls/5e12ccd9191/index.m3u8
 无线新闻频道,http://t.061899.xyz/tl/js/api.php?id=tvbwxxwt
+无线新闻频道,http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
 Now新闻频道,http://cdn.163189.xyz/163189/now
+Now新闻频道,http://iptv.4666888.xyz/iptv.php?id=20082
+Now财经频道,http://iptv.4666888.xyz/iptv.php?id=20085
+凤凰中文频高,http://api.mg.itv888.cn:8080/hls/2f80047f91e/index.m3u8
 凤凰中文频高,http://j.s.bkpcp.top/js/fhzw
+凤凰资讯频高,http://api.mg.itv888.cn:8080/hls/11ef1dc70d8/index.m3u8
 凤凰资讯频高,http://j.s.bkpcp.top/js/fhzx
+凤凰香港频高,http://api.mg.itv888.cn:8080/hls/e9660dce9a6/index.m3u8
 凤凰香港频高,http://j.s.bkpcp.top/js/fhxg
-无线翡翠频道,http://j.s.bkpcp.top/js/fct
+无线翡翠频高,http://api.mg.itv888.cn:8080/hls/4bb8922027c/index.m3u8
+无线翡翠频高,http://j.s.bkpcp.top/js/fct
+无线华丽频标,http://api.mg.itv888.cn:8080/hls/ac8b06eb0c8/index.m3u8
 无线生活频道,http://j.s.bkpcp.top/js/tvbsht
 无线星河国标,http://j.s.bkpcp.top/js/tvbxhpdg
 无线星河粤标,http://j.s.bkpcp.top/js/tvbxhpdy
@@ -321,7 +333,6 @@ HBO电影频道,http://j.s.bkpcp.top/jj/hbo
 亚太卫视频道,https://php.946985.xyz/4gtv.php?ch=4gtv-live050
 香港卫视频道,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港C+_-频道,http://ottproxy2.ist.ooo/livehls/MOB-U1-NO/03.m3u8
-私人影院频道,P2p://starvod.xyz:19806/74567d46c9a54cb8aab7bb35b7446cf2.ts
 私人影院频道,http://play-aliyun.zego.im/live/2225ce86b84a0eb4a24f4fbeb74a00ba.flv
 重温经典频道,http://m.061899.xyz/mg/cwjd
 重温经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
@@ -334,7 +345,6 @@ HUB都会频道,http://j.s.bkpcp.top/js/dht
 新加CH8频道,https://edge.163189.xyz/163189/ch8
 新视觉hd频道,http://120.76.248.139/live/bfgd/4200000249.m3u8
 北京卫视频4k,http://49.235.65.250:600/beijing/beijing.php?id=bjws4k
-深圳卫视频4k,http://push-rtmp-hs-spe-f5.douyincdn.com/live/xiangjiaogeszws4k.flv
 深圳卫视频4k,https://livepull-tcms.sztv.com.cn/live/sz4Kpgm.m3u8
 苏州4k频道超,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 河北4k频道超,https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -352,16 +362,13 @@ HUB都会频道,http://j.s.bkpcp.top/js/dht
 柳舟记电视剧,http://cfss.cc/cdn/hy/23860039.m3u8
 
 伪装者电视剧,https://mursor.ottiptv.cc/yy/1354936244
-
+火蓝刀锋轮播,https://mursor.ottiptv.cc/yy/1382737892
 二炮手电视剧,https://mursor.ottiptv.cc/yy/1354930964
 炮神电视轮播,https://mursor.ottiptv.cc/yy/22089862
 风筝电视轮播,https://mursor.ottiptv.cc/yy/1354931585
 渗透电视轮播,http://cfss.cc/cdn/hy/30080244.m3u8
 亮剑电视轮播,http://cfss.cc/cdn/hy/30080238.m3u8
-
-科幻梦工场播,http://cfss.cc/cdn/hy/15152155.m3u8
-脱口秀大会肆,http://cfss.cc/cdn/hy/30080243.m3u8
-脱口秀大会伍,http://cfss.cc/cdn/hy/11352875.m3u8
+雪豹电视轮播,http://cfss.cc/cdn/hy/29580970.m3u8
 
 粤语剧集轮播,http://lxajh.top/tv/douyu.php?id=10338873
 粤语综艺轮播,http://lxajh.top/tv/douyu.php?id=7919720
@@ -372,12 +379,7 @@ HUB都会频道,http://j.s.bkpcp.top/js/dht
 星空卫视频道,http://171.213.220.107:8800/udp/239.93.0.156:2193
 星空卫视频道,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰电影频道,http://122.224.58.42:85/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
-动作电影频道,http://ds920.dsmynas.net:5555/rtp/226.0.2.94:8012%24%E5%B1%B1%E8%A5%BFuni2+
-家庭影院频道,http://ds920.dsmynas.net:5555/rtp/226.0.2.240:9820%24%E5%B1%B1%E8%A5%BFuni2+
-影迷电影频道,http://ds920.dsmynas.net:5555/rtp/226.0.2.93:8004%24%E5%B1%B1%E8%A5%BFuni2+
-动作电影频道,http://118.249.22.148:8989/udp/239.76.252.243:9000
-家庭影院频道,http://118.249.22.148:8989/udp/239.76.252.241:9000
-影迷电影频道,http://118.249.22.148:8989/udp/239.76.252.242:9000
+
 重温经典频道,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 重温经典频道,http://120.76.248.139/live/bfgd/4200000635.m3u8
 重温经典频道,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
