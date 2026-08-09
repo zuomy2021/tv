@@ -469,10 +469,6 @@ http://222.214.208.34:59901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 tvg-name="金鹰卡通2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A2.png" group-title="IPTV",金鹰卡通2
 http://222.214.208.34:59901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1 group-title="咪咕直播",咪咕视频
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226398
-#EXTINF:-1 group-title="咪咕直播",哒啵赛事
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225675
 #EXTINF:-1 group-title="咪咕直播",晴彩广场舞「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="咪咕直播",晴彩少年「移动」
@@ -491,13 +487,13 @@ http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="咪咕直播",咪咕直播 4「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播 ",咪咕直播 5「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 5「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="咪咕直播",咪咕直播 6「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="咪咕直播",咪咕直播 7「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播",咪咕直播 8�「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 8「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="咪咕直播",咪咕直播 9「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
@@ -515,13 +511,13 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="咪咕直播",咪咕直播 16「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播",咪咕直播 17�「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 17「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播",咪咕直播 18�「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 18「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="咪咕直播",咪咕直播 19「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播",咪咕直播 20�「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 20「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="咪咕直播",咪咕直播 21「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
@@ -537,27 +533,27 @@ http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="咪咕直播",咪咕直播 27「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播",咪咕直播 28�「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 28「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播",咪咕直播 29�「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 29「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="咪咕直播",咪咕直播 30「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播",咪咕直播 31�「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 31「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="咪咕直播",咪咕直播 32「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播",咪咕直播 33�「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 33「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播",咪咕直播 34�「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 34「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="咪咕直播",咪咕直播 35「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011519/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="咪咕直播",咪咕直播 36「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播",咪咕直播 37�「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 37「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播",咪咕直播38「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 38「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
 #EXTINF:-1 group-title="景区 ",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
