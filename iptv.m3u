@@ -467,1239 +467,1239 @@ http://222.214.208.34:59901/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid
 #EXTINF:-1 tvg-name="金鹰卡通2" tvg-logo="https://ghfast.top/https://raw.githubusercontent.com/Jarrey/iptv_logo/main/tv/%E9%87%91%E9%B9%B0%E5%8D%A1%E9%80%9A2.png" group-title="IPTV",金鹰卡通2
 http://222.214.208.34:59901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕视频
+#EXTINF:-1 group-title="咪咕直播",咪咕视频
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226398
-#EXTINF:-1 group-title="咪咕直播,#genre#",哒啵赛事
+#EXTINF:-1 group-title="咪咕直播",哒啵赛事
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225675
-#EXTINF:-1 group-title="咪咕直播,#genre#",晴彩广场舞「移动」
+#EXTINF:-1 group-title="咪咕直播",晴彩广场舞「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",晴彩少年「移动」
+#EXTINF:-1 group-title="咪咕直播",晴彩少年「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011525/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011525&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",晴彩竞技「移动」
+#EXTINF:-1 group-title="咪咕直播",晴彩竞技「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011528/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011528&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",晴彩篮球「移动」
+#EXTINF:-1 group-title="咪咕直播",晴彩篮球「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011529/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011529&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播4K「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播4K「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 1「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 1「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000001000005308/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005308&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 2「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 2「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000001000005969/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000005969&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 3「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 3「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000001000007218/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000007218&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 4「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 4「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000001000008001/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008001&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 5「移动」
+#EXTINF:-1 group-title="咪咕直播 ",咪咕直播 5「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000001000008176/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008176&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 6「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 6「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000001000008379/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000008379&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 7「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 7「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000001000010129/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010129&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 8�「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 8�「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000001000010948/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 9「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 9「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 10「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 10「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 11「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 11「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 12「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 12「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 13「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 13「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 14「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 14「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 15「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 15「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 16「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 16「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 17�「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 17�「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 18�「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 18�「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 19「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 19「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 20�「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 20�「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 21「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 21「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 22「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 22「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 23「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 23「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 24「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 24「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 25「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 25「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 26「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 26「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 27「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 27「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 28�「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 28�「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 29�「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 29�「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 30「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 30「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 31�「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 31�「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 32「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 32「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 33�「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 33�「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 34�「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 34�「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011518&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 35「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 35「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011519/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011519&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 36「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 36「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播 37�「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播 37�「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="咪咕直播,#genre#",咪咕直播38「移动」
+#EXTINF:-1 group-title="咪咕直播",咪咕直播38「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
-#EXTINF:-1 group-title="景区,#genre#",直播中国
+#EXTINF:-1 group-title="景区 ",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区,#genre#",直播中国
+#EXTINF:-1 group-title="景区 ",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",乘着火车看中国
+#EXTINF:-1 group-title="景区 ",乘着火车看中国
 http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/2b0f397ed9d948eb9fac38d73cde241b/4000.m3u8
-#EXTINF:-1 group-title="景区,#genre#",航拍中国第一季
+#EXTINF:-1 group-title="景区 ",航拍中国第一季
 http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc0b5a9d99fdb/4000.m3u8
-#EXTINF:-1 group-title="景区,#genre#",航拍中国第二季
+#EXTINF:-1 group-title="景区 ",航拍中国第二季
 http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
-#EXTINF:-1 group-title="景区,#genre#",航拍中国第三季
+#EXTINF:-1 group-title="景区 ",航拍中国第三季
 http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/1200.m3u8
-#EXTINF:-1 group-title="景区,#genre#",梵净山
+#EXTINF:-1 group-title="景区 ",梵净山
 http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/b9571df1181c4422a83901e827519fe6/4000.m3u8
-#EXTINF:-1 group-title="景区,#genre#",信阳-何家寨露营基地
+#EXTINF:-1 group-title="景区 ",信阳-何家寨露营基地
 https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",信阳-鸡公山报晓峰
+#EXTINF:-1 group-title="景区 ",信阳-鸡公山报晓峰
 https://gctxyc.liveplay.myqcloud.com/gc/nxspthhpl_1_md.m3u8
-#EXTINF:-1 group-title="景区,#genre#",南阳-方城德云山
+#EXTINF:-1 group-title="景区 ",南阳-方城德云山
 https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",渭南-韩城党家村
+#EXTINF:-1 group-title="景区 ",渭南-韩城党家村
 https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",渭南-蒲城县中心广场
+#EXTINF:-1 group-title="景区 ",渭南-蒲城县中心广场
 https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",鹤壁-浚县古城北城门
+#EXTINF:-1 group-title="景区 ",鹤壁-浚县古城北城门
 https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",商丘-日月湖
+#EXTINF:-1 group-title="景区 ",商丘-日月湖
 https://gctxyc.liveplay.myqcloud.com/gc/hgsspzxdpb_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",大理无量村古树茶园
+#EXTINF:-1 group-title="景区 ",大理无量村古树茶园
 https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",重庆巫山长江
+#EXTINF:-1 group-title="景区 ",重庆巫山长江
 https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",沈阳浑河桥
+#EXTINF:-1 group-title="景区 ",沈阳浑河桥
 https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",丽江古城万古楼遥望玉龙雪山
+#EXTINF:-1 group-title="景区 ",丽江古城万古楼遥望玉龙雪山
 https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",黑龙江-萝北县自然保护区
+#EXTINF:-1 group-title="景区 ",黑龙江-萝北县自然保护区
 https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",哈尔滨-霁虹桥
+#EXTINF:-1 group-title="景区 ",哈尔滨-霁虹桥
 https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",海南七仙岭温泉国家森林公园
+#EXTINF:-1 group-title="景区 ",海南七仙岭温泉国家森林公园
 https://gctxyc.liveplay.myqcloud.com/gc/cntv549-zbzg_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",乐山大佛全景
+#EXTINF:-1 group-title="景区 ",乐山大佛全景
 https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",长江
+#EXTINF:-1 group-title="景区 ",长江
 https://gcalic.v.myalicdn.com/gc/hlwxt_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",西安大雁塔
+#EXTINF:-1 group-title="景区 ",西安大雁塔
 https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",西安钟楼
+#EXTINF:-1 group-title="景区 ",西安钟楼
 https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",呼和浩特-花海之约
+#EXTINF:-1 group-title="景区 ",呼和浩特-花海之约
 https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",林芝-米林彩门民宿
+#EXTINF:-1 group-title="景区 ",林芝-米林彩门民宿
 https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",林芝-错高民宿
+#EXTINF:-1 group-title="景区 ",林芝-错高民宿
 https://gcalic.v.myalicdn.com/gc/zjjybf_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",林芝-南迦巴瓦
+#EXTINF:-1 group-title="景区 ",林芝-南迦巴瓦
 https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",云南保山-板桥镇青龙街
+#EXTINF:-1 group-title="景区 ",云南保山-板桥镇青龙街
 https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",云南保山-隆阳拦河坝水库
+#EXTINF:-1 group-title="景区 ",云南保山-隆阳拦河坝水库
 https://gcalic.v.myalicdn.com/gc/sgns02_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",云南保山-比顿咖啡产业园
+#EXTINF:-1 group-title="景区 ",云南保山-比顿咖啡产业园
 https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",普洱无量山羊山瀑布
+#EXTINF:-1 group-title="景区 ",普洱无量山羊山瀑布
 https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",普洱景迈山
+#EXTINF:-1 group-title="景区 ",普洱景迈山
 https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",大理茶马古道
+#EXTINF:-1 group-title="景区 ",大理茶马古道
 https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",大理无量村古树茶园
+#EXTINF:-1 group-title="景区 ",大理无量村古树茶园
 https://gcalic.v.myalicdn.com/gc/ztn_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",北京密云-古北水镇
+#EXTINF:-1 group-title="景区 ",北京密云-古北水镇
 https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",北京门头沟-黄安坨村
+#EXTINF:-1 group-title="景区 ",北京门头沟-黄安坨村
 https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",河北承德-金山岭长城
+#EXTINF:-1 group-title="景区 ",河北承德-金山岭长城
 https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",河北承德-避暑山庄
+#EXTINF:-1 group-title="景区 ",河北承德-避暑山庄
 https://mlivewbndbd.a.bdydns.com/mlivewbnd/mlive_sls02_2/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",湖南邵阳-崀山骆驼峰
+#EXTINF:-1 group-title="景区 ",湖南邵阳-崀山骆驼峰
 https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",湖南邵阳-崀山八角寨
+#EXTINF:-1 group-title="景区 ",湖南邵阳-崀山八角寨
 https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",云南红河-建水双龙桥
+#EXTINF:-1 group-title="景区 ",云南红河-建水双龙桥
 https://gcalic.v.myalicdn.com/gc/pshdxg01_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",云南红河-月亮小镇
+#EXTINF:-1 group-title="景区 ",云南红河-月亮小镇
 https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",陕西渭南-东山景区
+#EXTINF:-1 group-title="景区 ",陕西渭南-东山景区
 https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",陕西渭南-大荔县南湖景区
+#EXTINF:-1 group-title="景区 ",陕西渭南-大荔县南湖景区
 https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",南京-玄武湖公园
+#EXTINF:-1 group-title="景区 ",南京-玄武湖公园
 https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",山西大同-鼓楼
+#EXTINF:-1 group-title="景区 ",山西大同-鼓楼
 https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",浙江舟山-嵊泗县渔港
+#EXTINF:-1 group-title="景区 ",浙江舟山-嵊泗县渔港
 https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",浙江舟山-东极岛
+#EXTINF:-1 group-title="景区 ",浙江舟山-东极岛
 https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",四川成都-安顺廊桥
+#EXTINF:-1 group-title="景区 ",四川成都-安顺廊桥
 https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",江苏宿迁-骆马湖罗曼园
+#EXTINF:-1 group-title="景区 ",江苏宿迁-骆马湖罗曼园
 https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",安徽黟县半山亭
+#EXTINF:-1 group-title="景区 ",安徽黟县半山亭
 https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",安徽黟县卢村
+#EXTINF:-1 group-title="景区 ",安徽黟县卢村
 https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",安徽黟县西递牌坊
+#EXTINF:-1 group-title="景区 ",安徽黟县西递牌坊
 https://gctxyc.liveplay.myqcloud.com/gc/yxxdpf_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",安徽黄山卧云峰
+#EXTINF:-1 group-title="景区 ",安徽黄山卧云峰
 https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",安徽黄山飞来石
+#EXTINF:-1 group-title="景区 ",安徽黄山飞来石
 https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",青岛-艾山天文台
+#EXTINF:-1 group-title="景区 ",青岛-艾山天文台
 https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",广东汕头市小公园
+#EXTINF:-1 group-title="景区 ",广东汕头市小公园
 https://gcalic.v.myalicdn.com/gc/bsszjs_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",济南趵突泉
+#EXTINF:-1 group-title="景区 ",济南趵突泉
 https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",西安-长安三河水库
+#EXTINF:-1 group-title="景区 ",西安-长安三河水库
 https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",焦作红石峡
+#EXTINF:-1 group-title="景区 ",焦作红石峡
 https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",云南德宏-勐焕大金塔
+#EXTINF:-1 group-title="景区 ",云南德宏-勐焕大金塔
 https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",西安-阎良石川河风景区
+#EXTINF:-1 group-title="景区 ",西安-阎良石川河风景区
 https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",遵义-赤水大瀑布
+#EXTINF:-1 group-title="景区 ",遵义-赤水大瀑布
 https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",江苏-徐州之夜
+#EXTINF:-1 group-title="景区 ",江苏-徐州之夜
 https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",西藏山南-鲁日拉观景台
+#EXTINF:-1 group-title="景区 ",西藏山南-鲁日拉观景台
 https://gctxyc.liveplay.myqcloud.com/gc/hkts07_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",西双版纳-千年古寨曼丢
+#EXTINF:-1 group-title="景区 ",西双版纳-千年古寨曼丢
 https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",安徽-宣城溪桃大桥
+#EXTINF:-1 group-title="景区 ",安徽-宣城溪桃大桥
 https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",广东韶关-车八岭自然保护区
+#EXTINF:-1 group-title="景区 ",广东韶关-车八岭自然保护区
 https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",甘肃鸣沙山月牙泉
+#EXTINF:-1 group-title="景区 ",甘肃鸣沙山月牙泉
 https://gcalic.v.myalicdn.com/gc/dhyyqst_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",甘肃敦煌山门
+#EXTINF:-1 group-title="景区 ",甘肃敦煌山门
 https://gcalic.v.myalicdn.com/gc/bsszbcs_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",福建武夷山玉女峰
+#EXTINF:-1 group-title="景区 ",福建武夷山玉女峰
 https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",陕西凤堰古梯田
+#EXTINF:-1 group-title="景区 ",陕西凤堰古梯田
 https://gcalic.v.myalicdn.com/gc/cntv407-zbzg_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",山西晋城-釜山泫水湖
+#EXTINF:-1 group-title="景区 ",山西晋城-釜山泫水湖
 https://gcalic.v.myalicdn.com/gc/zh02_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",陕西西安樊川
+#EXTINF:-1 group-title="景区 ",陕西西安樊川
 https://gctxyc.liveplay.myqcloud.com/gc/cntv506-zbzg_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",陕西西安蓝田县白鹿原
+#EXTINF:-1 group-title="景区 ",陕西西安蓝田县白鹿原
 https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",昆明寻甸县城区
+#EXTINF:-1 group-title="景区 ",昆明寻甸县城区
 https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",贵州-黔东南加榜梯田
+#EXTINF:-1 group-title="景区 ",贵州-黔东南加榜梯田
 https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",广州塔和海心
+#EXTINF:-1 group-title="景区 ",广州塔和海心
 https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区,#genre#",张家界云天渡
+#EXTINF:-1 group-title="景区 ",张家界云天渡
 https://gcalic.v.myalicdn.com/gc/hsxkssqdzrqj_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区,#genre#",张家界黄石寨
+#EXTINF:-1 group-title="景区 ",张家界黄石寨
 https://gcalic.v.myalicdn.com/gc/szgk01_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",矮寨大桥-湘西
+#EXTINF:-1 group-title="景区 ",矮寨大桥-湘西
 https://gcalic.v.myalicdn.com/gc/jshhd01_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",巫山长江大桥
+#EXTINF:-1 group-title="景区 ",巫山长江大桥
 https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",泰山玉皇顶
+#EXTINF:-1 group-title="景区 ",泰山玉皇顶
 https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区,#genre#",西安大唐不夜城
+#EXTINF:-1 group-title="景区 ",西安大唐不夜城
 https://gcalic.v.myalicdn.com/gc/hsxkscj_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区,#genre#",仙米国家森林公园
+#EXTINF:-1 group-title="景区 ",仙米国家森林公园
 https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区,#genre#",峨眉云海日出
+#EXTINF:-1 group-title="景区 ",峨眉云海日出
 https://gctxyc.liveplay.myqcloud.com/gc/emsarm_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区,#genre#",北京鸟巢
+#EXTINF:-1 group-title="景区 ",北京鸟巢
 https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区,#genre#",司马台长城
+#EXTINF:-1 group-title="景区 ",司马台长城
 http://gcalic.v.myalicdn.com/gc/jyg02_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",黄花城水长城1
+#EXTINF:-1 group-title="景区 ",黄花城水长城1
 https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 group-title="景区,#genre#",黄花城水长城2
+#EXTINF:-1 group-title="景区 ",黄花城水长城2
 https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",黄花城水长城3
+#EXTINF:-1 group-title="景区 ",黄花城水长城3
 https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",武汉黄鹤楼
+#EXTINF:-1 group-title="景区 ",武汉黄鹤楼
 http://gctxyc.liveplay.myqcloud.com/gc/djyqyl1_1_md.m3u8
-#EXTINF:-1 group-title="景区,#genre#",嘉峡关关城
+#EXTINF:-1 group-title="景区 ",嘉峡关关城
 http://gctxyc.liveplay.myqcloud.com/gc/dxssyt_1_md.m3u8
-#EXTINF:-1 group-title="景区,#genre#",承德避暑山庄
+#EXTINF:-1 group-title="景区 ",承德避暑山庄
 http://gctxyc.liveplay.myqcloud.com/gc/lpsgmjng01_1_md.m3u8
-#EXTINF:-1 group-title="景区,#genre#",秀水公园
+#EXTINF:-1 group-title="景区 ",秀水公园
 http://gctxyc.liveplay.myqcloud.com/gc/hsmbsh_1_md.m3u8
-#EXTINF:-1 group-title="景区,#genre#",凤凰古城
+#EXTINF:-1 group-title="景区 ",凤凰古城
 http://gctxyc.liveplay.myqcloud.com/gc/fhgcdnhs_1_md.m3u8
-#EXTINF:-1 group-title="景区,#genre#",吉林临江门大桥
+#EXTINF:-1 group-title="景区 ",吉林临江门大桥
 http://gctxyc.liveplay.myqcloud.com/gc/zh03_1_md.m3u8
-#EXTINF:-1 group-title="景区,#genre#",北京香山
+#EXTINF:-1 group-title="景区 ",北京香山
 http://gctxyc.liveplay.myqcloud.com/gc/zh04_1_md.m3u8
-#EXTINF:-1 group-title="景区,#genre#",北京香山2
+#EXTINF:-1 group-title="景区 ",北京香山2
 https://gcalic.v.myalicdn.com/gc/mdjxxmhjygjt_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",港珠澳大桥
+#EXTINF:-1 group-title="景区 ",港珠澳大桥
 http://gctxyc.liveplay.myqcloud.com/gc/qdls04_1_md.m3u8
-#EXTINF:-1 group-title="景区,#genre#",珠穆朗玛峰
+#EXTINF:-1 group-title="景区 ",珠穆朗玛峰
 http://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",西线玻璃道
+#EXTINF:-1 group-title="景区 ",西线玻璃道
 http://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",重庆李子坝
+#EXTINF:-1 group-title="景区 ",重庆李子坝
 http://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",峨眉山普贤菩萨
+#EXTINF:-1 group-title="景区 ",峨眉山普贤菩萨
 http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",西藏墨脱
+#EXTINF:-1 group-title="景区 ",西藏墨脱
 http://gcalic.v.myalicdn.com/gc/gccntv240-lzb01_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",杭州千岛湖
+#EXTINF:-1 group-title="景区 ",杭州千岛湖
 http://gctxyc.liveplay.myqcloud.com/gc/caqdh_1_md.m3u8
-#EXTINF:-1 group-title="景区,#genre#",大理樱花谷
+#EXTINF:-1 group-title="景区 ",大理樱花谷
 http://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",泰山望人松
+#EXTINF:-1 group-title="景区 ",泰山望人松
 http://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",宁夏沙坡头
+#EXTINF:-1 group-title="景区 ",宁夏沙坡头
 http://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",乌镇·西市河
+#EXTINF:-1 group-title="景区 ",乌镇·西市河
 http://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",乌镇全景
+#EXTINF:-1 group-title="景区 ",乌镇全景
 http://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",乌镇蓝印花布
+#EXTINF:-1 group-title="景区 ",乌镇蓝印花布
 https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",乌镇龙形田
+#EXTINF:-1 group-title="景区 ",乌镇龙形田
 https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",青海达坂山
+#EXTINF:-1 group-title="景区 ",青海达坂山
 http://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",天山天池
+#EXTINF:-1 group-title="景区 ",天山天池
 http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1_md.m3u8
-#EXTINF:-1 group-title="景区,#genre#",天山天池马牙山
+#EXTINF:-1 group-title="景区 ",天山天池马牙山
 https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",天山天池海西平台
+#EXTINF:-1 group-title="景区 ",天山天池海西平台
 https://gctxyc.liveplay.myqcloud.com/gc/drs01_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",湖南天门山
+#EXTINF:-1 group-title="景区 ",湖南天门山
 http://gcalic.v.myalicdn.com/gc/tmstmd01_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",四川凉山邛海景区
+#EXTINF:-1 group-title="景区 ",四川凉山邛海景区
 http://gctxyc.liveplay.myqcloud.com/gc/xcqh01_1_md.m3u8
-#EXTINF:-1 group-title="景区,#genre#",四川黄龙五彩池
+#EXTINF:-1 group-title="景区 ",四川黄龙五彩池
 https://gcalic.v.myalicdn.com/gc/hlwcc_1/index.m3u8
-#EXTINF:-1 group-title="景区,#genre#",西藏布达拉宫
+#EXTINF:-1 group-title="景区 ",西藏布达拉宫
 https://gcalic.v.myalicdn.com/gc/jhs02_1/index.m3u8
-#EXTINF:-1 group-title="大熊猫,#genre#",iPanda成都
+#EXTINF:-1 group-title="大熊猫 ",iPanda成都
 http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
-#EXTINF:-1 group-title="大熊猫,#genre#",iPanda大丰麋鹿
+#EXTINF:-1 group-title="大熊猫 ",iPanda大丰麋鹿
 http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
-#EXTINF:-1 group-title="大熊猫,#genre#",iPanda都江堰
+#EXTINF:-1 group-title="大熊猫 ",iPanda都江堰
 http://gcalic.v.myalicdn.com/gc/ipanda1000_1/index.m3u8
-#EXTINF:-1 group-title="大熊猫,#genre#",iPanda都江堰
+#EXTINF:-1 group-title="大熊猫 ",iPanda都江堰
 http://gctxyc.liveplay.myqcloud.com/gc/ipanda1000_1/index.m3u8
-#EXTINF:-1 group-title="大熊猫,#genre#",iPanda都江堰妃妃
+#EXTINF:-1 group-title="大熊猫 ",iPanda都江堰妃妃
 http://gctxyc.liveplay.myqcloud.com/gc/xiongmao13_1/index.m3u8
-#EXTINF:-1 group-title="大熊猫,#genre#",iPanda都江堰妃妃
+#EXTINF:-1 group-title="大熊猫 ",iPanda都江堰妃妃
 http://gcalic.v.myalicdn.com/gc/xiongmao13_1/index.m3u8
-#EXTINF:-1 group-title="大熊猫,#genre#",iPanda都江堰青青
+#EXTINF:-1 group-title="大熊猫 ",iPanda都江堰青青
 http://gcalic.v.myalicdn.com/gc/xiongmao20_1/index.m3u8
-#EXTINF:-1 group-title="大熊猫,#genre#",iPanda都江堰青青
+#EXTINF:-1 group-title="大熊猫 ",iPanda都江堰青青
 http://gctxyc.liveplay.myqcloud.com/gc/xiongmao20_1/index.m3u8
-#EXTINF:-1 group-title="大熊猫,#genre#",iPanda都江堰瑞瑞
+#EXTINF:-1 group-title="大熊猫 ",iPanda都江堰瑞瑞
 http://gcalic.v.myalicdn.com/gc/xiongmao11_1/index.m3u8
-#EXTINF:-1 group-title="大熊猫,#genre#",iPanda都江堰水秀
+#EXTINF:-1 group-title="大熊猫 ",iPanda都江堰水秀
 http://gcalic.v.myalicdn.com/gc/xiongmao12_1/index.m3u8
-#EXTINF:-1 group-title="大熊猫,#genre#",iPanda都江堰娅祥
+#EXTINF:-1 group-title="大熊猫 ",iPanda都江堰娅祥
 http://gcalic.v.myalicdn.com/gc/xiongmao15_1/index.m3u8
-#EXTINF:-1 group-title="大熊猫,#genre#",iPanda都江堰壹壹玖玖
+#EXTINF:-1 group-title="大熊猫 ",iPanda都江堰壹壹玖玖
 http://gctxyc.liveplay.myqcloud.com/gc/xiongmao14_1/index.m3u8
-#EXTINF:-1 group-title="大熊猫,#genre#",iPanda都江堰壹壹玖玖
+#EXTINF:-1 group-title="大熊猫 ",iPanda都江堰壹壹玖玖
 http://gcalic.v.myalicdn.com/gc/xiongmao14_1/index.m3u8
-#EXTINF:-1 group-title="大熊猫,#genre#",iPanda都江堰英英
+#EXTINF:-1 group-title="大熊猫 ",iPanda都江堰英英
 http://gcalic.v.myalicdn.com/gc/xiongmao16_1/index.m3u8
-#EXTINF:-1 group-title="大熊猫,#genre#",iPanda基地别墅1
+#EXTINF:-1 group-title="大熊猫 ",iPanda基地别墅1
 http://gcalic.v.myalicdn.com/gc/xiongmao09_1/index.m3u8
-#EXTINF:-1 group-title="大熊猫,#genre#",iPanda基地别墅2
+#EXTINF:-1 group-title="大熊猫 ",iPanda基地别墅2
 http://gcalic.v.myalicdn.com/gc/xiongmao10_1/index.m3u8
-#EXTINF:-1 group-title="大熊猫,#genre#",iPanda基地成年园1
+#EXTINF:-1 group-title="大熊猫 ",iPanda基地成年园1
 http://gcalic.v.myalicdn.com/gc/xiongmao01_1/index.m3u8
-#EXTINF:-1 group-title="大熊猫,#genre#",iPanda基地成年园2
+#EXTINF:-1 group-title="大熊猫 ",iPanda基地成年园2
 http://gcalic.v.myalicdn.com/gc/xiongmao02_1/index.m3u8
-#EXTINF:-1 group-title="大熊猫,#genre#",iPanda基地母子园1
+#EXTINF:-1 group-title="大熊猫 ",iPanda基地母子园1
 http://gcalic.v.myalicdn.com/gc/xiongmao07_1/index.m3u8
-#EXTINF:-1 group-title="大熊猫,#genre#",iPanda怡然2
+#EXTINF:-1 group-title="大熊猫 ",iPanda怡然2
 http://gcalic.v.myalicdn.com/gc/xiongmao18_1/index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CNR-1中国之声
+#EXTINF:-1 group-title="中国之声 ",CNR-1中国之声
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CNR-2经济之声
+#EXTINF:-1 group-title="中国之声 ",CNR-2经济之声
 http://ngcdn002.cnr.cn/live/jjzs/index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CNR-3音乐之声
+#EXTINF:-1 group-title="中国之声 ",CNR-3音乐之声
 http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CNR-4经典音乐广播
+#EXTINF:-1 group-title="中国之声 ",CNR-4经典音乐广播
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CRI环球资讯广播
+#EXTINF:-1 group-title="中国之声 ",CRI环球资讯广播
 http://sk.cri.cn/905.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CNR-7大湾区之声
+#EXTINF:-1 group-title="中国之声 ",CNR-7大湾区之声
 http://ngcdn007.cnr.cn/live/hxzs/index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CNR-8民族之声
+#EXTINF:-1 group-title="中国之声 ",CNR-8民族之声
 http://ngcdn009.cnr.cn/live/mzzs/index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CNR-9文艺之声
+#EXTINF:-1 group-title="中国之声 ",CNR-9文艺之声
 http://ngcdn010.cnr.cn/live/wyzs/index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CNR-10老年之声
+#EXTINF:-1 group-title="中国之声 ",CNR-10老年之声
 http://ngcdn011.cnr.cn/live/lnzs/index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CNR-12故事广播
+#EXTINF:-1 group-title="中国之声 ",CNR-12故事广播
 http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CNR-15中国交通广播
+#EXTINF:-1 group-title="中国之声 ",CNR-15中国交通广播
 http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CNR-15中国交通广播（宁夏版）
+#EXTINF:-1 group-title="中国之声 ",CNR-15中国交通广播（宁夏版）
 http://cnlive.cnr.cn/hls/zgjtgbnx.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CNR-16乡村之声
+#EXTINF:-1 group-title="中国之声 ",CNR-16乡村之声
 http://ngcdn017.cnr.cn/live/xczs/index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CNR香港之声
+#EXTINF:-1 group-title="中国之声 ",CNR香港之声
 http://ngcdn008.cnr.cn/live/xgzs/index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CRI世界华声
+#EXTINF:-1 group-title="中国之声 ",CRI世界华声
 http://sk.cri.cn/hxfh.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CRI轻松调频
+#EXTINF:-1 group-title="中国之声 ",CRI轻松调频
 http://sk.cri.cn/915.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CGTNArabic
+#EXTINF:-1 group-title="中国之声 ",CGTNArabic
 http://livear.cgtn.com/200a/prog_index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CGTNEnglish
+#EXTINF:-1 group-title="中国之声 ",CGTNEnglish
 http://live.cgtn.com/200/prog_index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CGTNEnglish
+#EXTINF:-1 group-title="中国之声 ",CGTNEnglish
 http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",巴音郭楞交通文艺广播
+#EXTINF:-1 group-title="中国之声 ",巴音郭楞交通文艺广播
 http://live.xmcdn.com/live/1600/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",贵州旅游广播
+#EXTINF:-1 group-title="中国之声 ",贵州旅游广播
 http://satellitepull.cnr.cn/live/wx32gzlygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CGTNSpanish
+#EXTINF:-1 group-title="中国之声 ",CGTNSpanish
 http://livees.cgtn.com/200e/prog_index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",西藏对外交通广播
+#EXTINF:-1 group-title="中国之声 ",西藏对外交通广播
 http://satellitepull.cnr.cn/live/wxxzdwjtgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏财经广播
+#EXTINF:-1 group-title="中国之声 ",江苏财经广播
 http://satellitepull.cnr.cn/live/wx32jscjgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",朝阳经济广播
+#EXTINF:-1 group-title="中国之声 ",朝阳经济广播
 http://live.xmcdn.com/live/355/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",MusicFMRadioGuangdong
+#EXTINF:-1 group-title="中国之声 ",MusicFMRadioGuangdong
 http://satellitepull.cnr.cn/live/wxgdyyzs/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",河南网络广播国乐悠扬
+#EXTINF:-1 group-title="中国之声 ",河南网络广播国乐悠扬
 http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",秦皇岛音乐健康广播
+#EXTINF:-1 group-title="中国之声 ",秦皇岛音乐健康广播
 http://live.xmcdn.com/live/522/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",襄阳综合广播
+#EXTINF:-1 group-title="中国之声 ",襄阳综合广播
 http://ls.qingting.fm/live/1307.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",广西音乐广播
+#EXTINF:-1 group-title="中国之声 ",广西音乐广播
 http://live.xmcdn.com/live/301/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湘潭交通广播
+#EXTINF:-1 group-title="中国之声 ",湘潭交通广播
 http://live.hnxttv.com:9601/live/radiojt/100K/tzwj_video.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CGTNDocumentary
+#EXTINF:-1 group-title="中国之声 ",CGTNDocumentary
 http://livedoc.cgtn.com/200d/prog_index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",贵州汽车广播
+#EXTINF:-1 group-title="中国之声 ",贵州汽车广播
 http://satellitepull.cnr.cn/live/wx32gzqcgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",贵州音乐广播
+#EXTINF:-1 group-title="中国之声 ",贵州音乐广播
 http://satellitepull.cnr.cn/live/wx32gzyygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖南经典音乐广播（卫星）
+#EXTINF:-1 group-title="中国之声 ",湖南经典音乐广播（卫星）
 http://satellitepull.cnr.cn/live/wx32hunlygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",延安综合广播
+#EXTINF:-1 group-title="中国之声 ",延安综合广播
 http://live.xmcdn.com/live/2699/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",南充综合广播
+#EXTINF:-1 group-title="中国之声 ",南充综合广播
 http://live.xmcdn.com/live/1242/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",广西交通广播FM100.3
+#EXTINF:-1 group-title="中国之声 ",广西交通广播FM100.3
 http://live.xmcdn.com/live/304/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",金鹰955·湖南金鹰之声
+#EXTINF:-1 group-title="中国之声 ",金鹰955·湖南金鹰之声
 http://satellitepull.cnr.cn/live/wx32955/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",攀枝花对农广播
+#EXTINF:-1 group-title="中国之声 ",攀枝花对农广播
 http://live.xmcdn.com/live/770/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",文山交通广播
+#EXTINF:-1 group-title="中国之声 ",文山交通广播
 http://m3u8.channel.wsrtv.com.cn/cms/audios/nmip-media/audiolive/audio10/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",扬州江都广播
+#EXTINF:-1 group-title="中国之声 ",扬州江都广播
 http://live.xmcdn.com/live/2540/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏文艺广播
+#EXTINF:-1 group-title="中国之声 ",江苏文艺广播
 http://satellitepull.cnr.cn/live/wx32jswygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",保定新闻广播
+#EXTINF:-1 group-title="中国之声 ",保定新闻广播
 http://live.xmcdn.com/live/516/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",云南经济广播
+#EXTINF:-1 group-title="中国之声 ",云南经济广播
 http://live.xmcdn.com/live/909/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",黑龙江音乐广播
+#EXTINF:-1 group-title="中国之声 ",黑龙江音乐广播
 http://satellitepull.cnr.cn/live/wx32hljyygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",安徽戏曲广播
+#EXTINF:-1 group-title="中国之声 ",安徽戏曲广播
 http://satellitepull.cnr.cn/live/wxahxqgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",杭州之声
+#EXTINF:-1 group-title="中国之声 ",杭州之声
 http://live.xmcdn.com/live/646/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",杭州交通经济广播
+#EXTINF:-1 group-title="中国之声 ",杭州交通经济广播
 http://live.xmcdn.com/live/632/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",朝阳新闻综合广播
+#EXTINF:-1 group-title="中国之声 ",朝阳新闻综合广播
 http://live.xmcdn.com/live/353/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东综合广播
+#EXTINF:-1 group-title="中国之声 ",山东综合广播
 http://audiolive302.iqilu.com/sdradioXinwen/sdradio01/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东交通广播
+#EXTINF:-1 group-title="中国之声 ",山东交通广播
 http://audiolive302.iqilu.com/sdradioJiaotong/sdradio05/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",丹东综合广播
+#EXTINF:-1 group-title="中国之声 ",丹东综合广播
 http://live.xmcdn.com/live/342/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",铜梁龙乡之声
+#EXTINF:-1 group-title="中国之声 ",铜梁龙乡之声
 http://183.64.174.171:10124/tlgb.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CGTNFrench
+#EXTINF:-1 group-title="中国之声 ",CGTNFrench
 http://livefr.cgtn.com/200f/prog_index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",鲅鱼圈新闻综合广播
+#EXTINF:-1 group-title="中国之声 ",鲅鱼圈新闻综合广播
 http://live.xmcdn.com/live/2733/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",成都文化休闲广播
+#EXTINF:-1 group-title="中国之声 ",成都文化休闲广播
 http://livecdn.pull.cdbs.com.cn/live/fm946/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",商丘交通广播
+#EXTINF:-1 group-title="中国之声 ",商丘交通广播
 http://live.xmcdn.com/live/1261/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",襄阳交通音乐广播
+#EXTINF:-1 group-title="中国之声 ",襄阳交通音乐广播
 http://ls.qingting.fm/live/1308.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",德州文艺广播
+#EXTINF:-1 group-title="中国之声 ",德州文艺广播
 http://live.xmcdn.com/live/2555/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",德州综合广播
+#EXTINF:-1 group-title="中国之声 ",德州综合广播
 http://video.dztv.tv:1935/live/dzxwzh/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",重庆经济广播
+#EXTINF:-1 group-title="中国之声 ",重庆经济广播
 http://satellitepull.cnr.cn/live/wxcqjjgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",德州文艺广播（2）
+#EXTINF:-1 group-title="中国之声 ",德州文艺广播（2）
 http://video.dztv.tv:1935/live/dzdsgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",广西新闻广播
+#EXTINF:-1 group-title="中国之声 ",广西新闻广播
 http://live.xmcdn.com/live/299/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",保定交通广播
+#EXTINF:-1 group-title="中国之声 ",保定交通广播
 http://live.xmcdn.com/live/517/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CGTNRussian
+#EXTINF:-1 group-title="中国之声 ",CGTNRussian
 http://liveru.cgtn.com/200r/prog_index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",广西北部湾之声(广西对外广播)
+#EXTINF:-1 group-title="中国之声 ",广西北部湾之声(广西对外广播)
 http://live.xmcdn.com/live/303/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",临汾交通文艺广播
+#EXTINF:-1 group-title="中国之声 ",临汾交通文艺广播
 http://live.xmcdn.com/live/2515/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",临汾音乐广播
+#EXTINF:-1 group-title="中国之声 ",临汾音乐广播
 http://live.xmcdn.com/live/2516/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川文艺广播
+#EXTINF:-1 group-title="中国之声 ",四川文艺广播
 http://satellitepull.cnr.cn/live/wxscwygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",呼伦贝尔蒙语广播
+#EXTINF:-1 group-title="中国之声 ",呼伦贝尔蒙语广播
 http://satellitepull.cnr.cn/live/wx32nmghlbemygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",阿姆威-安徽交通广播
+#EXTINF:-1 group-title="中国之声 ",阿姆威-安徽交通广播
 http://satellitepull.cnr.cn/live/wxahjtgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",阿穆尔河-黑龙江交通广播
+#EXTINF:-1 group-title="中国之声 ",阿穆尔河-黑龙江交通广播
 http://satellitepull.cnr.cn/live/wx32hljjtgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",阿穆尔河-黑龙江新闻广播
+#EXTINF:-1 group-title="中国之声 ",阿穆尔河-黑龙江新闻广播
 http://satellitepull.cnr.cn/live/wx32hljxwgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",阿穆尔河-AmurRiverUniversityRadio
+#EXTINF:-1 group-title="中国之声 ",阿穆尔河-AmurRiverUniversityRadio
 http://ls.qingting.fm/live/4976.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",阿穆尔河-黑龙江老年少儿广播
+#EXTINF:-1 group-title="中国之声 ",阿穆尔河-黑龙江老年少儿广播
 http://satellitepull.cnr.cn/live/wx32hljajgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",阿穆尔河-AmurRiverKoreanRadio
+#EXTINF:-1 group-title="中国之声 ",阿穆尔河-AmurRiverKoreanRadio
 http://satellitepull.cnr.cn/live/wx32hljcygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",阿穆尔河-AmurRiverMusicRadio
+#EXTINF:-1 group-title="中国之声 ",阿穆尔河-AmurRiverMusicRadio
 http://ls.qingting.fm/live/4969.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",阿穆尔河-鸡西交通广播
+#EXTINF:-1 group-title="中国之声 ",阿穆尔河-鸡西交通广播
 http://live.xmcdn.com/live/2735/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",阿穆尔河-鸡西综合广播
+#EXTINF:-1 group-title="中国之声 ",阿穆尔河-鸡西综合广播
 http://live.xmcdn.com/live/2734/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",阿穆尔河-HarbinMusicRadio
+#EXTINF:-1 group-title="中国之声 ",阿穆尔河-HarbinMusicRadio
 http://ls.qingting.fm/live/839.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",阿穆尔河-AmurRiverNewsRadio
+#EXTINF:-1 group-title="中国之声 ",阿穆尔河-AmurRiverNewsRadio
 http://ls.qingting.fm/live/4974.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",阿穆尔河-HarbinTrafficRadio
+#EXTINF:-1 group-title="中国之声 ",阿穆尔河-HarbinTrafficRadio
 http://ls.qingting.fm/live/838.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",阿穆尔河-AmurRiverFamilyRadio
+#EXTINF:-1 group-title="中国之声 ",阿穆尔河-AmurRiverFamilyRadio
 http://ls.qingting.fm/live/4972.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",阿穆尔河-HarbinEconomicsRadio
+#EXTINF:-1 group-title="中国之声 ",阿穆尔河-HarbinEconomicsRadio
 http://ls.qingting.fm/live/837.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",阿穆尔河-AmurRiverTrafficRadio
+#EXTINF:-1 group-title="中国之声 ",阿穆尔河-AmurRiverTrafficRadio
 http://ls.qingting.fm/live/4973.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",阿穆尔河-AmurRiverPrivateCarRadio
+#EXTINF:-1 group-title="中国之声 ",阿穆尔河-AmurRiverPrivateCarRadio
 http://ls.qingting.fm/live/4970.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",安徽-安徽故事广播
+#EXTINF:-1 group-title="中国之声 ",安徽-安徽故事广播
 http://satellitepull.cnr.cn/live/wxahxspsgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",安徽-安徽旅游广播
+#EXTINF:-1 group-title="中国之声 ",安徽-安徽旅游广播
 http://satellitepull.cnr.cn/live/wxahlygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",安徽-安徽生活广播
+#EXTINF:-1 group-title="中国之声 ",安徽-安徽生活广播
 http://satellitepull.cnr.cn/live/wxahshgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",安徽-安徽综合广播
+#EXTINF:-1 group-title="中国之声 ",安徽-安徽综合广播
 http://satellitepull.cnr.cn/live/wxahxxgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",安徽-安徽音乐广播
+#EXTINF:-1 group-title="中国之声 ",安徽-安徽音乐广播
 http://satellitepull.cnr.cn/live/wxahyygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",安徽-黄山交通旅游广播
+#EXTINF:-1 group-title="中国之声 ",安徽-黄山交通旅游广播
 http://ls.qingting.fm/live/1969.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",安徽-黄山综合广播
+#EXTINF:-1 group-title="中国之声 ",安徽-黄山综合广播
 http://ls.qingting.fm/live/1968.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",安徽-宿州交通广播
+#EXTINF:-1 group-title="中国之声 ",安徽-宿州交通广播
 http://live.ahsz.tv/audio/s10001-jtgb/index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",安徽-宿州综合广播
+#EXTINF:-1 group-title="中国之声 ",安徽-宿州综合广播
 http://live.ahsz.tv/audio/s10001-xwgb/index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",安徽-宿州文艺广播
+#EXTINF:-1 group-title="中国之声 ",安徽-宿州文艺广播
 http://live.ahsz.tv/audio/s10001-wygb/index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",北京-CGTNArabic
+#EXTINF:-1 group-title="中国之声 ",北京-CGTNArabic
 http://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",北京-CRIGlobalRadio
+#EXTINF:-1 group-title="中国之声 ",北京-CRIGlobalRadio
 http://sk.cri.cn/hyhq.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",北京-CRIVoiceofSouthChinaSea
+#EXTINF:-1 group-title="中国之声 ",北京-CRIVoiceofSouthChinaSea
 http://sk.cri.cn/nhzs.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",北京-CRIHitFM
+#EXTINF:-1 group-title="中国之声 ",北京-CRIHitFM
 http://satellitepull.cnr.cn/live/wxhitfm/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",北京-CRINewsPlusAM846
+#EXTINF:-1 group-title="中国之声 ",北京-CRINewsPlusAM846
 http://sk.cri.cn/am846.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",北京-CRINewsPlusAM1008
+#EXTINF:-1 group-title="中国之声 ",北京-CRINewsPlusAM1008
 http://sk.cri.cn/am1008.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",北京-BeijingTrafficRadio
+#EXTINF:-1 group-title="中国之声 ",北京-BeijingTrafficRadio
 http://live.xmcdn.com/live/93/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",北京-CRIHitFM劲曲调频88.7
+#EXTINF:-1 group-title="中国之声 ",北京-CRIHitFM劲曲调频88.7
 http://sk.cri.cn/887.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",北京-CGTNSpanish
+#EXTINF:-1 group-title="中国之声 ",北京-CGTNSpanish
 http://livees.cgtn.com/1000e/prog_index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",北京-CGTNDocumentary
+#EXTINF:-1 group-title="中国之声 ",北京-CGTNDocumentary
 http://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",北京-CGTNRussian
+#EXTINF:-1 group-title="中国之声 ",北京-CGTNRussian
 http://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",北京-CGTNFrench
+#EXTINF:-1 group-title="中国之声 ",北京-CGTNFrench
 http://livefr.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",钢琴-湖北古典音乐广播
+#EXTINF:-1 group-title="中国之声 ",钢琴-湖北古典音乐广播
 http://satellitepull.cnr.cn/live/wx32hubfnetgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",公共广播-湖北农村广播
+#EXTINF:-1 group-title="中国之声 ",公共广播-湖北农村广播
 http://satellitepull.cnr.cn/live/wx32hubncgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",广东南粤之声
+#EXTINF:-1 group-title="中国之声 ",广东南粤之声
 http://satellitepull.cnr.cn/live/wxnyzs/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",广东股市广播
+#EXTINF:-1 group-title="中国之声 ",广东股市广播
 http://satellitepull.cnr.cn/live/wxgdgsgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CantonNewsRadio
+#EXTINF:-1 group-title="中国之声 ",CantonNewsRadio
 http://ls.qingting.fm/live/4848.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",广东新闻广播
+#EXTINF:-1 group-title="中国之声 ",广东新闻广播
 http://satellitepull.cnr.cn/live/wxgdxwgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",广东城市之声
+#EXTINF:-1 group-title="中国之声 ",广东城市之声
 http://satellitepull.cnr.cn/live/wxgdcszs/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",广东文体广播
+#EXTINF:-1 group-title="中国之声 ",广东文体广播
 http://satellitepull.cnr.cn/live/wxgdwtgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",ChaochowOperaRadio
+#EXTINF:-1 group-title="中国之声 ",ChaochowOperaRadio
 http://ls.qingting.fm/live/4595.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",ChaochowNewsRadio
+#EXTINF:-1 group-title="中国之声 ",ChaochowNewsRadio
 http://ls.qingting.fm/live/4596.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",ChaochowTraffic&MusicRadio
+#EXTINF:-1 group-title="中国之声 ",ChaochowTraffic&MusicRadio
 http://ls.qingting.fm/live/4594.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",CantonTrafficRadio
+#EXTINF:-1 group-title="中国之声 ",CantonTrafficRadio
 http://ls.qingting.fm/live/4955.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",广东南方生活广播
+#EXTINF:-1 group-title="中国之声 ",广东南方生活广播
 http://satellitepull.cnr.cn/live/wxgdnfshgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",广西-广西私家车调频FM93.0
+#EXTINF:-1 group-title="中国之声 ",广西-广西私家车调频FM93.0
 http://live.xmcdn.com/live/302/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",贵州-贵州综合广播
+#EXTINF:-1 group-title="中国之声 ",贵州-贵州综合广播
 http://satellitepull.cnr.cn/live/wx32gzwxwzhgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",贵州-贵州茅台之声
+#EXTINF:-1 group-title="中国之声 ",贵州-贵州茅台之声
 http://satellitepull.cnr.cn/live/wx32gzgsgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",贵州-KweiyangNewsRadio
+#EXTINF:-1 group-title="中国之声 ",贵州-KweiyangNewsRadio
 http://ls.qingting.fm/live/1773.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",贵州-KweiyangMusicRadio
+#EXTINF:-1 group-title="中国之声 ",贵州-KweiyangMusicRadio
 http://ls.qingting.fm/live/4874.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",贵州-KweiyangTrafficRadio
+#EXTINF:-1 group-title="中国之声 ",贵州-KweiyangTrafficRadio
 http://ls.qingting.fm/live/1774.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",海南-CRI南海之声
+#EXTINF:-1 group-title="中国之声 ",海南-CRI南海之声
 http://cnlive.cnr.cn/hls/nanhaizhisheng.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",海南-海南交通广播（高清音质）
+#EXTINF:-1 group-title="中国之声 ",海南-海南交通广播（高清音质）
 http://satellitepull.cnr.cn/live/wxhainjtgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖北-恩施综合广播
+#EXTINF:-1 group-title="中国之声 ",湖北-恩施综合广播
 https://live.xmcdn.com/live/1435/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖北-恩施交通音乐广播
+#EXTINF:-1 group-title="中国之声 ",湖北-恩施交通音乐广播
 https://live.xmcdn.com/live/1434/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖北-武汉交通广播·武汉市应急广播电台
+#EXTINF:-1 group-title="中国之声 ",湖北-武汉交通广播·武汉市应急广播电台
 http://ls.qingting.fm/live/4665.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖北-武汉音乐广播·动感93.6
+#EXTINF:-1 group-title="中国之声 ",湖北-武汉音乐广播·动感93.6
 http://ls.qingting.fm/live/5011.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖北-长江水上信息安全台
+#EXTINF:-1 group-title="中国之声 ",湖北-长江水上信息安全台
 http://ls.qingting.fm/live/2694923.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖北-十堰旅游生活广播
+#EXTINF:-1 group-title="中国之声 ",湖北-十堰旅游生活广播
 http://live.xmcdn.com/live/2682/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖北-武汉经典音乐广播·岁月悠长，听见好时光
+#EXTINF:-1 group-title="中国之声 ",湖北-武汉经典音乐广播·岁月悠长，听见好时光
 http://ls.qingting.fm/live/1297.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖南-湖南乡村之声
+#EXTINF:-1 group-title="中国之声 ",湖南-湖南乡村之声
 http://satellitepull.cnr.cn/live/wx32hunyygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖南-洛阳综合广播
+#EXTINF:-1 group-title="中国之声 ",湖南-洛阳综合广播
 http://live.xmcdn.com/live/491/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖南-洛阳交通广播
+#EXTINF:-1 group-title="中国之声 ",湖南-洛阳交通广播
 http://live.xmcdn.com/live/492/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖南-HunanModernMusicRadio
+#EXTINF:-1 group-title="中国之声 ",湖南-HunanModernMusicRadio
 http://ls.qingting.fm/live/4980.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖南-HunanNewsRadio
+#EXTINF:-1 group-title="中国之声 ",湖南-HunanNewsRadio
 http://ls.qingting.fm/live/4978.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖南-湖南文艺广播（卫星）
+#EXTINF:-1 group-title="中国之声 ",湖南-湖南文艺广播（卫星）
 http://satellitepull.cnr.cn/live/wx32hunwygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖南-湖南交通广播
+#EXTINF:-1 group-title="中国之声 ",湖南-湖南交通广播
 http://satellitepull.cnr.cn/live/wx32hunjtgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖南-湖南新闻综合广播
+#EXTINF:-1 group-title="中国之声 ",湖南-湖南新闻综合广播
 http://satellitepull.cnr.cn/live/wx32hunxwgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖南-HunanTrafficRadio
+#EXTINF:-1 group-title="中国之声 ",湖南-HunanTrafficRadio
 http://ls.qingting.fm/live/4879.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖南-河南天籁之音
+#EXTINF:-1 group-title="中国之声 ",湖南-河南天籁之音
 http://stream.hndt.com/live/gudian/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖南-HunanGoldenEagleRadio
+#EXTINF:-1 group-title="中国之声 ",湖南-HunanGoldenEagleRadio
 http://ls.qingting.fm/live/4937.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖南-河南网络广播有声文摘
+#EXTINF:-1 group-title="中国之声 ",湖南-河南网络广播有声文摘
 http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖南-HunanVoiceofHsiaoHsiangRadio
+#EXTINF:-1 group-title="中国之声 ",湖南-HunanVoiceofHsiaoHsiangRadio
 http://ls.qingting.fm/live/4982.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖南-许昌综合广播
+#EXTINF:-1 group-title="中国之声 ",湖南-许昌综合广播
 http://live.xmcdn.com/live/484/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖南-商丘综合广播
+#EXTINF:-1 group-title="中国之声 ",湖南-商丘综合广播
 http://live.xmcdn.com/live/1271/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖南-HunanCarMusicRadio
+#EXTINF:-1 group-title="中国之声 ",湖南-HunanCarMusicRadio
 http://ls.qingting.fm/live/4979.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖南-HunanGoldenOldieRadio
+#EXTINF:-1 group-title="中国之声 ",湖南-HunanGoldenOldieRadio
 http://ls.qingting.fm/live/4981.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",湖南-SiangtanNewsRadio
+#EXTINF:-1 group-title="中国之声 ",湖南-SiangtanNewsRadio
 http://live.hnxttv.com:9601/live/radiomg/100K/tzwj_video.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",吉林-吉林市综合广播
+#EXTINF:-1 group-title="中国之声 ",吉林-吉林市综合广播
 http://live.xmcdn.com/live/443/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-江苏金陵之声
+#EXTINF:-1 group-title="中国之声 ",江苏-江苏金陵之声
 http://satellitepull.cnr.cn/live/wx32jsqctp/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-江苏音乐广播
+#EXTINF:-1 group-title="中国之声 ",江苏-江苏音乐广播
 http://satellitepull.cnr.cn/live/wx32jsyygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-WukinMetroRadio
+#EXTINF:-1 group-title="中国之声 ",江苏-WukinMetroRadio
 http://live.wjyanghu.com/live/CH6.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-KiangsuHealthRadio
+#EXTINF:-1 group-title="中国之声 ",江苏-KiangsuHealthRadio
 http://lzlive.vojs.cn/EWpb5Ov/92/live.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-KiangsuTrafficRadio
+#EXTINF:-1 group-title="中国之声 ",江苏-KiangsuTrafficRadio
 http://lzlive.vojs.cn/4TaHTeL/92/live.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-扬州邗江广播
+#EXTINF:-1 group-title="中国之声 ",江苏-扬州邗江广播
 http://live.xmcdn.com/live/2539/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-ChangchowMusicRadio
+#EXTINF:-1 group-title="中国之声 ",江苏-ChangchowMusicRadio
 http://ls.qingting.fm/live/2799.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-江苏故事广播
+#EXTINF:-1 group-title="中国之声 ",江苏-江苏故事广播
 http://satellitepull.cnr.cn/live/wx32jsgsgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-江苏健康广播
+#EXTINF:-1 group-title="中国之声 ",江苏-江苏健康广播
 http://satellitepull.cnr.cn/live/wx32jsjkgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-江苏交通广播网
+#EXTINF:-1 group-title="中国之声 ",江苏-江苏交通广播网
 http://satellitepull.cnr.cn/live/wx32jsjtgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-KiangsuMusicRadio
+#EXTINF:-1 group-title="中国之声 ",江苏-KiangsuMusicRadio
 http://lzlive.vojs.cn/jAmO6Ng/92/live.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-江苏经典流行音乐广播
+#EXTINF:-1 group-title="中国之声 ",江苏-江苏经典流行音乐广播
 http://satellitepull.cnr.cn/live/wx32jsjdlxyy/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-江苏综合广播
+#EXTINF:-1 group-title="中国之声 ",江苏-江苏综合广播
 http://satellitepull.cnr.cn/live/wx32jsxwzhgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-江苏新闻广播
+#EXTINF:-1 group-title="中国之声 ",江苏-江苏新闻广播
 http://satellitepull.cnr.cn/live/wx32jsxwgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-ChangchowNewsRadio
+#EXTINF:-1 group-title="中国之声 ",江苏-ChangchowNewsRadio
 http://ls.qingting.fm/live/2798.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-ChangchowTrafficRadio
+#EXTINF:-1 group-title="中国之声 ",江苏-ChangchowTrafficRadio
 http://ls.qingting.fm/live/2796.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-KiangsuVoiceofKinglingRadio
+#EXTINF:-1 group-title="中国之声 ",江苏-KiangsuVoiceofKinglingRadio
 http://lzlive.vojs.cn/Hd2hIgM/92/live.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-KiangsuLiterature&ArtRadio
+#EXTINF:-1 group-title="中国之声 ",江苏-KiangsuLiterature&ArtRadio
 http://lzlive.vojs.cn/pL6NkZo/92/live.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-KiangsuClassicalMusicRadio
+#EXTINF:-1 group-title="中国之声 ",江苏-KiangsuClassicalMusicRadio
 http://lzlive.vojs.cn/2wtSfrS/92/live.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-ChangchowMetroRadio
+#EXTINF:-1 group-title="中国之声 ",江苏-ChangchowMetroRadio
 http://ls.qingting.fm/live/2794.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-KiangsuFinanceRadio
+#EXTINF:-1 group-title="中国之声 ",江苏-KiangsuFinanceRadio
 http://lzlive.vojs.cn/caijing/92/live.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-KiangsuStoryRadio
+#EXTINF:-1 group-title="中国之声 ",江苏-KiangsuStoryRadio
 http://lzlive.vojs.cn/rWjyus9/92/live.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-KiangsuNewsRadio
+#EXTINF:-1 group-title="中国之声 ",江苏-KiangsuNewsRadio
 http://lzlive.vojs.cn/5Fo8mMX/92/live.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江苏-KiangsuGeneralNewsRadio
+#EXTINF:-1 group-title="中国之声 ",江苏-KiangsuGeneralNewsRadio
 http://lzlive.vojs.cn/rTyLc36/92/live.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江西-KiangsiMetroRadio
+#EXTINF:-1 group-title="中国之声 ",江西-KiangsiMetroRadio
 http://ls.qingting.fm/live/1810.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江西-上饶新闻综合广播
+#EXTINF:-1 group-title="中国之声 ",江西-上饶新闻综合广播
 http://ls.qingting.fm/live/1808.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",交通-湖北楚天交通广播
+#EXTINF:-1 group-title="中国之声 ",交通-湖北楚天交通广播
 http://satellitepull.cnr.cn/live/wx32hubctjtgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",经济的-辽宁广播电视台经济广播
+#EXTINF:-1 group-title="中国之声 ",经济的-辽宁广播电视台经济广播
 http://satellitepull.cnr.cn/live/wxlnjjtb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",辽宁-辽宁广播电视台综合广播
+#EXTINF:-1 group-title="中国之声 ",辽宁-辽宁广播电视台综合广播
 http://satellitepull.cnr.cn/live/wxlnzhgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",辽宁-辽宁广播电视台交通广播FM97.5
+#EXTINF:-1 group-title="中国之声 ",辽宁-辽宁广播电视台交通广播FM97.5
 http://satellitepull.cnr.cn/live/wxlnjtgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",辽宁-盘锦交通文艺广播
+#EXTINF:-1 group-title="中国之声 ",辽宁-盘锦交通文艺广播
 http://live.xmcdn.com/live/350/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",辽宁-盘锦综合广播
+#EXTINF:-1 group-title="中国之声 ",辽宁-盘锦综合广播
 http://live.xmcdn.com/live/348/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",辽宁-盘锦经济生活广播
+#EXTINF:-1 group-title="中国之声 ",辽宁-盘锦经济生活广播
 http://live.xmcdn.com/live/2696/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",辽宁-辽阳交通文艺广播
+#EXTINF:-1 group-title="中国之声 ",辽宁-辽阳交通文艺广播
 http://live.xmcdn.com/live/2060/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",辽宁-辽宁广播电视台乡村广播
+#EXTINF:-1 group-title="中国之声 ",辽宁-辽宁广播电视台乡村广播
 http://satellitepull.cnr.cn/live/wxlnxcgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",辽宁-TantungTrafficRadio
+#EXTINF:-1 group-title="中国之声 ",辽宁-TantungTrafficRadio
 http://ls.qingting.fm/live/1091.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",辽宁-TantungNewsRadio
+#EXTINF:-1 group-title="中国之声 ",辽宁-TantungNewsRadio
 http://ls.qingting.fm/live/1090.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",辽宁-朝阳交通广播
+#EXTINF:-1 group-title="中国之声 ",辽宁-朝阳交通广播
 http://live.xmcdn.com/live/354/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",流行音乐-湖北楚天音乐广播
+#EXTINF:-1 group-title="中国之声 ",流行音乐-湖北楚天音乐广播
 http://satellitepull.cnr.cn/live/wx32hubctyygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",内蒙古-内蒙古绿野之声
+#EXTINF:-1 group-title="中国之声 ",内蒙古-内蒙古绿野之声
 http://ls.qingting.fm/live/1888.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",内蒙古-赤峰综合广播
+#EXTINF:-1 group-title="中国之声 ",内蒙古-赤峰综合广播
 http://live.xmcdn.com/live/1085/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",内蒙古-呼伦贝尔综合广播
+#EXTINF:-1 group-title="中国之声 ",内蒙古-呼伦贝尔综合广播
 http://satellitepull.cnr.cn/live/wx32nmghlbehygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",宁西亚-NingsiaTrafficRadio
+#EXTINF:-1 group-title="中国之声 ",宁西亚-NingsiaTrafficRadio
 http://ls.qingting.fm/live/1840.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",青海-青海生活广播
+#EXTINF:-1 group-title="中国之声 ",青海-青海生活广播
 http://stream2.qhbtv.com/hetp/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",青海-青海经济广播
+#EXTINF:-1 group-title="中国之声 ",青海-青海经济广播
 http://stream2.qhbtv.com/jjgb/sd/live.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",青海-青海藏语广播
+#EXTINF:-1 group-title="中国之声 ",青海-青海藏语广播
 http://satellitepull.cnr.cn/live/wx32qhzygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",青海-青海交通音乐广播
+#EXTINF:-1 group-title="中国之声 ",青海-青海交通音乐广播
 http://satellitepull.cnr.cn/live/wx32qhjtyygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",青年-黑龙江高校广播
+#EXTINF:-1 group-title="中国之声 ",青年-黑龙江高校广播
 http://satellitepull.cnr.cn/live/wx32hljgxgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-TsingtaoMusic&SportsRadio
+#EXTINF:-1 group-title="中国之声 ",山东-TsingtaoMusic&SportsRadio
 http://ls.qingting.fm/live/1677.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-HotseNewsRadio
+#EXTINF:-1 group-title="中国之声 ",山东-HotseNewsRadio
 http://live.hznet.tv:1935/live/live875/32K/tzwj_video.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-烟台经典音乐广播
+#EXTINF:-1 group-title="中国之声 ",山东-烟台经典音乐广播
 http://live.xmcdn.com/live/2718/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-HotseMusicRadio
+#EXTINF:-1 group-title="中国之声 ",山东-HotseMusicRadio
 http://live.hznet.tv:1935/live/live918/32K/tzwj_video.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-烟台交通广播
+#EXTINF:-1 group-title="中国之声 ",山东-烟台交通广播
 http://live.xmcdn.com/live/2715/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-烟台音乐广播
+#EXTINF:-1 group-title="中国之声 ",山东-烟台音乐广播
 http://live.xmcdn.com/live/2716/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-TsiningTrafficRadio
+#EXTINF:-1 group-title="中国之声 ",山东-TsiningTrafficRadio
 http://lives.jnnews.tv/audio/s10001-1042/index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-济南生活广播
+#EXTINF:-1 group-title="中国之声 ",山东-济南生活广播
 http://cnlive.cnr.cn/hls/jnshgb.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-济南都市广播
+#EXTINF:-1 group-title="中国之声 ",山东-济南都市广播
 http://cnlive.cnr.cn/hls/jndsgb.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-济南音乐广播
+#EXTINF:-1 group-title="中国之声 ",山东-济南音乐广播
 http://live.xmcdn.com/live/799/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-济南经济广播
+#EXTINF:-1 group-title="中国之声 ",山东-济南经济广播
 http://live.xmcdn.com/live/800/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-新泰音乐广播
+#EXTINF:-1 group-title="中国之声 ",山东-新泰音乐广播
 http://live.xtgdw.cn:1935/live/xtlh/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-TsiningLifeRadio
+#EXTINF:-1 group-title="中国之声 ",山东-TsiningLifeRadio
 http://lives.jnnews.tv/audio/s10001-1070/index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-TsingtaoStoryRadio
+#EXTINF:-1 group-title="中国之声 ",山东-TsingtaoStoryRadio
 http://ls.qingting.fm/live/4956.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-TsingtaoEconomicsRadio
+#EXTINF:-1 group-title="中国之声 ",山东-TsingtaoEconomicsRadio
 http://ls.qingting.fm/live/1674.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-HotseTrafficRadio
+#EXTINF:-1 group-title="中国之声 ",山东-HotseTrafficRadio
 http://live.hznet.tv:1935/live/live948/32K/tzwj_video.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-TsingtaoTrafficRadio
+#EXTINF:-1 group-title="中国之声 ",山东-TsingtaoTrafficRadio
 http://ls.qingting.fm/live/1676.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-WeifangTrafficRadio
+#EXTINF:-1 group-title="中国之声 ",山东-WeifangTrafficRadio
 http://ls.qingting.fm/live/4014.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-WeifangMusicRadio
+#EXTINF:-1 group-title="中国之声 ",山东-WeifangMusicRadio
 http://ls.qingting.fm/live/4865.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-烟台综合广播
+#EXTINF:-1 group-title="中国之声 ",山东-烟台综合广播
 http://live.xmcdn.com/live/2717/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-TsingtaoNewsRadio
+#EXTINF:-1 group-title="中国之声 ",山东-TsingtaoNewsRadio
 http://ls.qingting.fm/live/1673.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-德州交通音乐广播
+#EXTINF:-1 group-title="中国之声 ",山东-德州交通音乐广播
 http://video.dztv.tv:1935/live/dzjtyy/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-TsiningNewsRadio
+#EXTINF:-1 group-title="中国之声 ",山东-TsiningNewsRadio
 http://lives.jnnews.tv/audio/s10001-1018/index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-TsingchowNewsRadio
+#EXTINF:-1 group-title="中国之声 ",山东-TsingchowNewsRadio
 http://sdqz.chinashadt.com:2036/live/4.stream/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-ShantungMusicRadio
+#EXTINF:-1 group-title="中国之声 ",山东-ShantungMusicRadio
 http://ls.qingting.fm/live/1665.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东-TsingtaoPrivateCarRadio
+#EXTINF:-1 group-title="中国之声 ",山东-TsingtaoPrivateCarRadio
 http://ls.qingting.fm/live/1675.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山西-TaiyuanEconomicsRadio
+#EXTINF:-1 group-title="中国之声 ",山西-TaiyuanEconomicsRadio
 http://ls.qingting.fm/live/4018.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山西-ShansiMusicRadio
+#EXTINF:-1 group-title="中国之声 ",山西-ShansiMusicRadio
 http://ls.qingting.fm/live/4932.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山西-TaiyuanMusicRadio
+#EXTINF:-1 group-title="中国之声 ",山西-TaiyuanMusicRadio
 http://ls.qingting.fm/live/1185.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山西-TaiyuanTrafficRadio
+#EXTINF:-1 group-title="中国之声 ",山西-TaiyuanTrafficRadio
 http://ls.qingting.fm/live/4900.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山西-临汾综合广播
+#EXTINF:-1 group-title="中国之声 ",山西-临汾综合广播
 http://live.xmcdn.com/live/2514/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山西-运城综合广播
+#EXTINF:-1 group-title="中国之声 ",山西-运城综合广播
 http://live.xmcdn.com/live/1252/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山西-运城文艺广播
+#EXTINF:-1 group-title="中国之声 ",山西-运城文艺广播
 http://live.xmcdn.com/live/1251/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",上海-上海经典音乐广播
+#EXTINF:-1 group-title="中国之声 ",上海-上海经典音乐广播
 http://l3.smgtech.net/AppName/1197.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",神思-SianMusicRadio
+#EXTINF:-1 group-title="中国之声 ",神思-SianMusicRadio
 http://stream3.xiancity.cn/4/sd/live.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",神思-SianInfoRadio
+#EXTINF:-1 group-title="中国之声 ",神思-SianInfoRadio
 http://stream3.xiancity.cn/2/sd/live.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",神思-SianNewsRadio
+#EXTINF:-1 group-title="中国之声 ",神思-SianNewsRadio
 http://stream3.xiancity.cn/1/sd/live.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",神思-SianTrafficRadio
+#EXTINF:-1 group-title="中国之声 ",神思-SianTrafficRadio
 http://stream3.xiancity.cn/5/sd/live.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",神思-陕西青少广播
+#EXTINF:-1 group-title="中国之声 ",神思-陕西青少广播
 http://satellitepull.cnr.cn/live/wxsxxqcgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",神思-陕西戏曲广播
+#EXTINF:-1 group-title="中国之声 ",神思-陕西戏曲广播
 http://satellitepull.cnr.cn/live/wxsxxxqgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",神思-延安交通音乐广播
+#EXTINF:-1 group-title="中国之声 ",神思-延安交通音乐广播
 http://live.xmcdn.com/live/2698/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",神思-陕西都市广播
+#EXTINF:-1 group-title="中国之声 ",神思-陕西都市广播
 http://satellitepull.cnr.cn/live/wxsxxdsgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",神思-陕西新闻广播
+#EXTINF:-1 group-title="中国之声 ",神思-陕西新闻广播
 http://satellitepull.cnr.cn/live/wxsxxxwgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",神思-陕西农村广播
+#EXTINF:-1 group-title="中国之声 ",神思-陕西农村广播
 http://satellitepull.cnr.cn/live/wxsxxncgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",神思-陕西音乐广播
+#EXTINF:-1 group-title="中国之声 ",神思-陕西音乐广播
 http://satellitepull.cnr.cn/live/wxsxxyygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",神思-陕西经济广播·896汽车调频
+#EXTINF:-1 group-title="中国之声 ",神思-陕西经济广播·896汽车调频
 http://satellitepull.cnr.cn/live/wxsxxjjgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",生活方式-湖北生活广播
+#EXTINF:-1 group-title="中国之声 ",生活方式-湖北生活广播
 http://satellitepull.cnr.cn/live/wx32hubczshgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-MianyangTrafficRadio
+#EXTINF:-1 group-title="中国之声 ",四川-MianyangTrafficRadio
 http://ls.qingting.fm/live/4026.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-四川农村广播
+#EXTINF:-1 group-title="中国之声 ",四川-四川农村广播
 http://satellitepull.cnr.cn/live/wxsc925/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-乐山综合广播
+#EXTINF:-1 group-title="中国之声 ",四川-乐山综合广播
 http://live.xmcdn.com/live/2702/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-SzechuanTouristRadio
+#EXTINF:-1 group-title="中国之声 ",四川-SzechuanTouristRadio
 http://live.xmcdn.com/live/753/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-眉山交通音乐广播
+#EXTINF:-1 group-title="中国之声 ",四川-眉山交通音乐广播
 http://live.xmcdn.com/live/2358/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-攀枝花综合广播
+#EXTINF:-1 group-title="中国之声 ",四川-攀枝花综合广播
 http://live.xmcdn.com/live/1064/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-SzechuanVoiceofTienFu
+#EXTINF:-1 group-title="中国之声 ",四川-SzechuanVoiceofTienFu
 http://live.xmcdn.com/live/1646/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-PenganNewsRadio
+#EXTINF:-1 group-title="中国之声 ",四川-PenganNewsRadio
 http://palive.patv123.com:8091/live/fm1062.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-ChengtuGoldenRadio
+#EXTINF:-1 group-title="中国之声 ",四川-ChengtuGoldenRadio
 http://ls.qingting.fm/live/4892.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-ChengtuTrafficRadio
+#EXTINF:-1 group-title="中国之声 ",四川-ChengtuTrafficRadio
 http://ls.qingting.fm/live/4891.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-SzechuanTrafficRadio
+#EXTINF:-1 group-title="中国之声 ",四川-SzechuanTrafficRadio
 http://live.xmcdn.com/live/752/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-成都交通文艺广播
+#EXTINF:-1 group-title="中国之声 ",四川-成都交通文艺广播
 http://livecdn.pull.cdbs.com.cn/live/fm914/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-成都新闻广播
+#EXTINF:-1 group-title="中国之声 ",四川-成都新闻广播
 http://livecdn.pull.cdbs.com.cn/live/fm998/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-ChengtuNewsRadio
+#EXTINF:-1 group-title="中国之声 ",四川-ChengtuNewsRadio
 http://ls.qingting.fm/live/4897.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-MianyangMusicRadio
+#EXTINF:-1 group-title="中国之声 ",四川-MianyangMusicRadio
 http://ls.qingting.fm/live/4025.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-SzechuanMetroVoiceRadio
+#EXTINF:-1 group-title="中国之声 ",四川-SzechuanMetroVoiceRadio
 http://live.xmcdn.com/live/755/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-ChengtuEconomicsRadio
+#EXTINF:-1 group-title="中国之声 ",四川-ChengtuEconomicsRadio
 http://ls.qingting.fm/live/1121.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-SzechuanLiterature&ArtRadio
+#EXTINF:-1 group-title="中国之声 ",四川-SzechuanLiterature&ArtRadio
 http://live.xmcdn.com/live/1641/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-四川民族广播
+#EXTINF:-1 group-title="中国之声 ",四川-四川民族广播
 http://satellitepull.cnr.cn/live/wxscmzgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-四川综合广播
+#EXTINF:-1 group-title="中国之声 ",四川-四川综合广播
 http://satellitepull.cnr.cn/live/wxsczhgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-四川城市之音
+#EXTINF:-1 group-title="中国之声 ",四川-四川城市之音
 http://satellitepull.cnr.cn/live/wxsccszs/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-四川交通广播
+#EXTINF:-1 group-title="中国之声 ",四川-四川交通广播
 http://satellitepull.cnr.cn/live/wxscjtgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-四川新闻广播
+#EXTINF:-1 group-title="中国之声 ",四川-四川新闻广播
 http://satellitepull.cnr.cn/live/wxsclyshgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-四川岷江音乐广播
+#EXTINF:-1 group-title="中国之声 ",四川-四川岷江音乐广播
 http://satellitepull.cnr.cn/live/wxscmjyyt/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-四川经济广播
+#EXTINF:-1 group-title="中国之声 ",四川-四川经济广播
 http://satellitepull.cnr.cn/live/wxscjjgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",四川-MianyangNewsRadio
+#EXTINF:-1 group-title="中国之声 ",四川-MianyangNewsRadio
 http://ls.qingting.fm/live/4024.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",天神-滨海音乐广播FM100.5
+#EXTINF:-1 group-title="中国之声 ",天神-滨海音乐广播FM100.5
 http://ls.qingting.fm/live/23869.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",天神-天津卫视伴音
+#EXTINF:-1 group-title="中国之声 ",天神-天津卫视伴音
 http://satellitepull.cnr.cn/live/wxtjws/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",文学-北京文艺广播
+#EXTINF:-1 group-title="中国之声 ",文学-北京文艺广播
 http://cnlive.cnr.cn/hls/bjwygb.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",西藏-西藏汉语广播
+#EXTINF:-1 group-title="中国之声 ",西藏-西藏汉语广播
 http://satellitepull.cnr.cn/live/wxxzhygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",西藏-西藏康巴话广播
+#EXTINF:-1 group-title="中国之声 ",西藏-西藏康巴话广播
 http://satellitepull.cnr.cn/live/wxxzzykbfy/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",西藏-西藏藏语广播
+#EXTINF:-1 group-title="中国之声 ",西藏-西藏藏语广播
 http://satellitepull.cnr.cn/live/wxxzzygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",西藏-西藏都市生活广播
+#EXTINF:-1 group-title="中国之声 ",西藏-西藏都市生活广播
 http://satellitepull.cnr.cn/live/wxxzdsshgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",西藏-西藏科教广播
+#EXTINF:-1 group-title="中国之声 ",西藏-西藏科教广播
 http://media.vtibet.com/masvod/HLSLive/49/kejiaoRadio.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",希望-张家口综合广播
+#EXTINF:-1 group-title="中国之声 ",希望-张家口综合广播
 http://nlive.zjkgdcs.com:8091/live/xwgb.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",希望-秦皇岛交通文艺广播
+#EXTINF:-1 group-title="中国之声 ",希望-秦皇岛交通文艺广播
 http://live.xmcdn.com/live/523/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",希望-秦皇岛娱乐生活广播欢乐调频
+#EXTINF:-1 group-title="中国之声 ",希望-秦皇岛娱乐生活广播欢乐调频
 http://live.xmcdn.com/live/1129/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",希望-ShikiachwangMusicRadio
+#EXTINF:-1 group-title="中国之声 ",希望-ShikiachwangMusicRadio
 http://ls.qingting.fm/live/1654.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",希望-ShikiachwangNewsRadio
+#EXTINF:-1 group-title="中国之声 ",希望-ShikiachwangNewsRadio
 http://ls.qingting.fm/live/1652.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",希望-张家口农业经济广播
+#EXTINF:-1 group-title="中国之声 ",希望-张家口农业经济广播
 http://nlive.zjkgdcs.com:8091/live/sjc.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",希望-张家口综艺广播
+#EXTINF:-1 group-title="中国之声 ",希望-张家口综艺广播
 http://nlive.zjkgdcs.com:8091/live/jtgb.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",希望-张家口城市生活广播
+#EXTINF:-1 group-title="中国之声 ",希望-张家口城市生活广播
 http://nlive.zjkgdcs.com:8091/live/pwgb.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",希望-河北音乐广播Hopeimusicradio
+#EXTINF:-1 group-title="中国之声 ",希望-河北音乐广播Hopeimusicradio
 http://live.xmcdn.com/live/494/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",希望-河北私家车广播
+#EXTINF:-1 group-title="中国之声 ",希望-河北私家车广播
 http://ls.qingting.fm/live/4868.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",希望-秦皇岛私家车广播
+#EXTINF:-1 group-title="中国之声 ",希望-秦皇岛私家车广播
 http://live.xmcdn.com/live/1122/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",希望-ShikiachwangTrafficRadio
+#EXTINF:-1 group-title="中国之声 ",希望-ShikiachwangTrafficRadio
 http://ls.qingting.fm/live/1655.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",希望-河北旅游广播HopeiTravelRadio
+#EXTINF:-1 group-title="中国之声 ",希望-河北旅游广播HopeiTravelRadio
 http://ls.qingting.fm/live/1651.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",新疆-UrumtsiUyghurRadio
+#EXTINF:-1 group-title="中国之声 ",新疆-UrumtsiUyghurRadio
 http://ls.qingting.fm/live/1923.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",新疆-新疆汉语综合广播
+#EXTINF:-1 group-title="中国之声 ",新疆-新疆汉语综合广播
 http://satellitepull.cnr.cn/live/wxxjlsgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",新疆-新疆哈语广播
+#EXTINF:-1 group-title="中国之声 ",新疆-新疆哈语广播
 http://satellitepull.cnr.cn/live/wxxjhygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",新疆-UrumtsiTrafficRadio
+#EXTINF:-1 group-title="中国之声 ",新疆-UrumtsiTrafficRadio
 http://ls.qingting.fm/live/1919.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",新疆-UrumtsiNewsRadio
+#EXTINF:-1 group-title="中国之声 ",新疆-UrumtsiNewsRadio
 http://ls.qingting.fm/live/1918.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",新疆-阿克苏汉语广播
+#EXTINF:-1 group-title="中国之声 ",新疆-阿克苏汉语广播
 http://live.xmcdn.com/live/2681/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",新疆-新疆维语综合广播
+#EXTINF:-1 group-title="中国之声 ",新疆-新疆维语综合广播
 http://satellitepull.cnr.cn/live/wxxjwyzhgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",新疆-新疆文化旅游广播
+#EXTINF:-1 group-title="中国之声 ",新疆-新疆文化旅游广播
 http://satellitepull.cnr.cn/live/wxxjsjcgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",新疆-新疆维语文艺广播
+#EXTINF:-1 group-title="中国之声 ",新疆-新疆维语文艺广播
 http://satellitepull.cnr.cn/live/wxxjwyjtwygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",新疆-新疆汉语新闻广播
+#EXTINF:-1 group-title="中国之声 ",新疆-新疆汉语新闻广播
 http://satellitepull.cnr.cn/live/wxxjxwgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",新疆-新疆蒙语广播
+#EXTINF:-1 group-title="中国之声 ",新疆-新疆蒙语广播
 http://satellitepull.cnr.cn/live/wxxjmygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",新疆-新疆柯语广播
+#EXTINF:-1 group-title="中国之声 ",新疆-新疆柯语广播
 http://satellitepull.cnr.cn/live/wxxjkygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",新疆-新疆交通广播
+#EXTINF:-1 group-title="中国之声 ",新疆-新疆交通广播
 http://satellitepull.cnr.cn/live/wxxjjtgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",新疆-UrumtsiTourist&MusicRadio
+#EXTINF:-1 group-title="中国之声 ",新疆-UrumtsiTourist&MusicRadio
 http://ls.qingting.fm/live/1920.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",新闻-湖北之声（中波卖药版）
+#EXTINF:-1 group-title="中国之声 ",新闻-湖北之声（中波卖药版）
 http://satellitepull.cnr.cn/live/wx32hubzsgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",新闻-湖北经济资讯广播FM99.8
+#EXTINF:-1 group-title="中国之声 ",新闻-湖北经济资讯广播FM99.8
 http://satellitepull.cnr.cn/live/wx32hubjjgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",新闻-湖北经济资讯广播AM1179
+#EXTINF:-1 group-title="中国之声 ",新闻-湖北经济资讯广播AM1179
 http://satellitepull.cnr.cn/live/wx32hubzxgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",云南-西双版纳汉语综合广播
+#EXTINF:-1 group-title="中国之声 ",云南-西双版纳汉语综合广播
 http://file.xsbnrtv.cn/vms/audios/nmip-media/audiolive/audio2/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",云南-云南旅游广播（2）
+#EXTINF:-1 group-title="中国之声 ",云南-云南旅游广播（2）
 http://satellitepull.cnr.cn/live/wxxgllzs/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",云南-KunmingAutoRadio
+#EXTINF:-1 group-title="中国之声 ",云南-KunmingAutoRadio
 http://ls.qingting.fm/live/1936.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",云南-文山综合广播
+#EXTINF:-1 group-title="中国之声 ",云南-文山综合广播
 http://m3u8.channel.wsrtv.com.cn/cms/audios/nmip-media/audiolive/audio9/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",云南-KunmingMetroRadio
+#EXTINF:-1 group-title="中国之声 ",云南-KunmingMetroRadio
 http://ls.qingting.fm/live/1935.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",云南-KunmingMetroInfoRadio
+#EXTINF:-1 group-title="中国之声 ",云南-KunmingMetroInfoRadio
 http://ls.qingting.fm/live/1937.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",云南-云南音乐广播
+#EXTINF:-1 group-title="中国之声 ",云南-云南音乐广播
 http://live.xmcdn.com/live/904/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",云南-云南交通广播
+#EXTINF:-1 group-title="中国之声 ",云南-云南交通广播
 http://live.xmcdn.com/live/903/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",云南-云南新闻广播
+#EXTINF:-1 group-title="中国之声 ",云南-云南新闻广播
 http://live.xmcdn.com/live/905/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",云南-昆明城市管理广播
+#EXTINF:-1 group-title="中国之声 ",云南-昆明城市管理广播
 https://live.xmcdn.com/live/906/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",云南-西双版纳傣语·哈尼语综合广播
+#EXTINF:-1 group-title="中国之声 ",云南-西双版纳傣语·哈尼语综合广播
 http://file.xsbnrtv.cn/vms/audios/nmip-media/audiolive/audio4/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",云南-昆明综合广播
+#EXTINF:-1 group-title="中国之声 ",云南-昆明综合广播
 https://live.xmcdn.com/live/910/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",云南-云南民族广播
+#EXTINF:-1 group-title="中国之声 ",云南-云南民族广播
 http://live.xmcdn.com/live/911/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",浙江-杭州西湖之声
+#EXTINF:-1 group-title="中国之声 ",浙江-杭州西湖之声
 http://live.xmcdn.com/live/635/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",浙江-SinchangVoiceofTienmu
+#EXTINF:-1 group-title="中国之声 ",浙江-SinchangVoiceofTienmu
 http://l.cztvcloud.com/channels/lantian/SXxinchangaud/128k.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",浙江-SiaoshanFMRadio
+#EXTINF:-1 group-title="中国之声 ",浙江-SiaoshanFMRadio
 http://l.cztvcloud.com/channels/lantian/SXxiaoshanaud1/128k.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",浙江-绍兴综合广播
+#EXTINF:-1 group-title="中国之声 ",浙江-绍兴综合广播
 http://live.shaoxing.com.cn/audio/s10001-xw1/index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",浙江-绍兴交通广播
+#EXTINF:-1 group-title="中国之声 ",浙江-绍兴交通广播
 http://live.shaoxing.com.cn/audio/s10001-jt2/index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",浙江-绍兴戏曲广播
+#EXTINF:-1 group-title="中国之声 ",浙江-绍兴戏曲广播
 http://live.shaoxing.com.cn/audio/s10001-xq3/index.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",浙江-ShangyuPeopleRadio
+#EXTINF:-1 group-title="中国之声 ",浙江-ShangyuPeopleRadio
 http://l.cztvcloud.com/channels/lantian/SXshangyuaud/128k.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",浙江-浙江好易购广播
+#EXTINF:-1 group-title="中国之声 ",浙江-浙江好易购广播
 http://hw-m-l.cztv.com/channels/lantian/channel011/1080p.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",浙江-浙江之声
+#EXTINF:-1 group-title="中国之声 ",浙江-浙江之声
 http://satellitepull.cnr.cn/live/wxzjzs/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",浙江-浙江城市之声
+#EXTINF:-1 group-title="中国之声 ",浙江-浙江城市之声
 http://satellitepull.cnr.cn/live/wxzjcszs/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",浙江-浙江交通之声
+#EXTINF:-1 group-title="中国之声 ",浙江-浙江交通之声
 http://satellitepull.cnr.cn/live/wxzjjtgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",浙江-浙江民生资讯广播
+#EXTINF:-1 group-title="中国之声 ",浙江-浙江民生资讯广播
 http://satellitepull.cnr.cn/live/wxzjmsgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",浙江-浙江音乐广播
+#EXTINF:-1 group-title="中国之声 ",浙江-浙江音乐广播
 http://satellitepull.cnr.cn/live/wxzj968/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",浙江-SiaoshanCableRadio
+#EXTINF:-1 group-title="中国之声 ",浙江-SiaoshanCableRadio
 http://l.cztvcloud.com/channels/lantian/SXxiaoshanaud2/128k.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",中国-羊城交通广播·广东交通之声
+#EXTINF:-1 group-title="中国之声 ",中国-羊城交通广播·广东交通之声
 http://satellitepull.cnr.cn/live/wxgdycjtt/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",中国-北京体育广播
+#EXTINF:-1 group-title="中国之声 ",中国-北京体育广播
 http://cnlive.cnr.cn/hls/bjtygb.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",中国-河南教育广播
+#EXTINF:-1 group-title="中国之声 ",中国-河南教育广播
 http://satellitepull.cnr.cn/live/wxhnlygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",中国-湖南经济广播
+#EXTINF:-1 group-title="中国之声 ",中国-湖南经济广播
 http://satellitepull.cnr.cn/live/wx32hunjjgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",中国-巴彦淖尔文艺生活广播
+#EXTINF:-1 group-title="中国之声 ",中国-巴彦淖尔文艺生活广播
 http://live.xmcdn.com/live/2599/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",中国-河南警广之声
+#EXTINF:-1 group-title="中国之声 ",中国-河南警广之声
 http://stream3.hndt.com/now/prIgXGFo/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",中国-成都故事广播
+#EXTINF:-1 group-title="中国之声 ",中国-成都故事广播
 http://livecdn.pull.cdbs.com.cn/live/fm882/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",中国-北京交通广播
+#EXTINF:-1 group-title="中国之声 ",中国-北京交通广播
 http://cnlive.cnr.cn/hls/bjjtgb.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",中国-北京城市广播
+#EXTINF:-1 group-title="中国之声 ",中国-北京城市广播
 http://cnlive.cnr.cn/hls/bjcsgb.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",中国-北京新闻广播
+#EXTINF:-1 group-title="中国之声 ",中国-北京新闻广播
 http://cnlive.cnr.cn/hls/bjxwgb.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",重庆-万州交通广播
+#EXTINF:-1 group-title="中国之声 ",重庆-万州交通广播
 http://live.xmcdn.com/live/1678/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",重庆-万州综合广播
+#EXTINF:-1 group-title="中国之声 ",重庆-万州综合广播
 http://live.xmcdn.com/live/1679/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",重庆-重庆音乐广播
+#EXTINF:-1 group-title="中国之声 ",重庆-重庆音乐广播
 http://satellitepull.cnr.cn/live/wxcqyygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",重庆-重庆都市广播
+#EXTINF:-1 group-title="中国之声 ",重庆-重庆都市广播
 http://satellitepull.cnr.cn/live/wxcqdsgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",重庆-重庆综合广播
+#EXTINF:-1 group-title="中国之声 ",重庆-重庆综合广播
 http://satellitepull.cnr.cn/live/wxcqxwgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",FunkyCornerRadio(China)
+#EXTINF:-1 group-title="中国之声 ",FunkyCornerRadio(China)
 https://ais-sa2.cdnstream1.com/2447_96.aac
-#EXTINF:-1 group-title="中国之声,#genre#",FunkyCornerRadio(China)
+#EXTINF:-1 group-title="中国之声 ",FunkyCornerRadio(China)
 https://ais-sa2.cdnstream1.com/2447_192.mp3
-#EXTINF:-1 group-title="中国之声,#genre#",靖远新闻综合广播
+#EXTINF:-1 group-title="中国之声 ",靖远新闻综合广播
 http://live.xmcdn.com/live/2646/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",巴彦淖尔综合广播
+#EXTINF:-1 group-title="中国之声 ",巴彦淖尔综合广播
 http://live.xmcdn.com/live/2598/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",宁波交通广播
+#EXTINF:-1 group-title="中国之声 ",宁波交通广播
 http://live.xmcdn.com/live/649/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",宁波音乐广播
+#EXTINF:-1 group-title="中国之声 ",宁波音乐广播
 http://live.xmcdn.com/live/660/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",淄博综合广播
+#EXTINF:-1 group-title="中国之声 ",淄博综合广播
 http://live.xmcdn.com/live/828/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",黑河综合广播
+#EXTINF:-1 group-title="中国之声 ",黑河综合广播
 http://live.xmcdn.com/live/2139/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",河源综合广播
+#EXTINF:-1 group-title="中国之声 ",河源综合广播
 http://tmpstream.hyrtv.cn/zhgb/sd/live.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",河源旅游广播
+#EXTINF:-1 group-title="中国之声 ",河源旅游广播
 http://tmpstream.hyrtv.cn/lygb/sd/live.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",阳江综合广播
+#EXTINF:-1 group-title="中国之声 ",阳江综合广播
 https://live.yjtvw.com:8081/live/fm916.stream_audio/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",阳江旅游环保广播
+#EXTINF:-1 group-title="中国之声 ",阳江旅游环保广播
 https://live.yjtvw.com:8081/live/fm895.stream_audio/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",中卫综合广播
+#EXTINF:-1 group-title="中国之声 ",中卫综合广播
 http://live.xmcdn.com/live/2400/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",安徽农村广播
+#EXTINF:-1 group-title="中国之声 ",安徽农村广播
 http://satellitepull.cnr.cn/live/wxahncgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",安徽经济广播
+#EXTINF:-1 group-title="中国之声 ",安徽经济广播
 http://satellitepull.cnr.cn/live/wxahjjgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",亳州交通音乐广播
+#EXTINF:-1 group-title="中国之声 ",亳州交通音乐广播
 http://zbbf2.ahbztv.com/live/41c.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",亳州综合广播
+#EXTINF:-1 group-title="中国之声 ",亳州综合广播
 http://zbbf2.ahbztv.com/live/41a.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东经济广播
+#EXTINF:-1 group-title="中国之声 ",山东经济广播
 http://audiolive302.iqilu.com/sdradioJingji/sdradio02/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",经典105·山东经典音乐广播
+#EXTINF:-1 group-title="中国之声 ",经典105·山东经典音乐广播
 http://audiolive302.iqilu.com/sdradioShenghuo/sdradio04/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山东音乐广播
+#EXTINF:-1 group-title="中国之声 ",山东音乐广播
 http://audiolive302.iqilu.com/sdradioYinyue/sdradio07/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",深圳宝安频道
+#EXTINF:-1 group-title="中国之声 ",深圳宝安频道
 http://live.xmcdn.com/live/2644/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",宁夏音乐广播
+#EXTINF:-1 group-title="中国之声 ",宁夏音乐广播
 http://satellitepull.cnr.cn/live/wxnxyygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",宁夏新闻广播
+#EXTINF:-1 group-title="中国之声 ",宁夏新闻广播
 http://satellitepull.cnr.cn/live/wxnxxwgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",宁夏旅游广播
+#EXTINF:-1 group-title="中国之声 ",宁夏旅游广播
 http://satellitepull.cnr.cn/live/wxnxdsgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",淄博交通文艺广播
+#EXTINF:-1 group-title="中国之声 ",淄博交通文艺广播
 http://live.xmcdn.com/live/817/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山西健康之声
+#EXTINF:-1 group-title="中国之声 ",山西健康之声
 http://live.xmcdn.com/live/2736/64.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",锡林郭勒综合广播
+#EXTINF:-1 group-title="中国之声 ",锡林郭勒综合广播
 http://satellitepull.cnr.cn/live/wx32nmgxlglhygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",锡林郭勒蒙语广播
+#EXTINF:-1 group-title="中国之声 ",锡林郭勒蒙语广播
 http://satellitepull.cnr.cn/live/wx32nmgxlglmygb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",浙江经济广播
+#EXTINF:-1 group-title="中国之声 ",浙江经济广播
 http://satellitepull.cnr.cn/live/wxzjjjgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山西文艺广播
+#EXTINF:-1 group-title="中国之声 ",山西文艺广播
 http://cnlive.cnr.cn/hls/shanxiwenyiguangbo.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山西音乐广播
+#EXTINF:-1 group-title="中国之声 ",山西音乐广播
 http://cnlive.cnr.cn/hls/shanxiyinyueguangbo.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山西农村广播
+#EXTINF:-1 group-title="中国之声 ",山西农村广播
 http://cnlive.cnr.cn/hls/shanxinongcunguangbo.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山西故事广播
+#EXTINF:-1 group-title="中国之声 ",山西故事广播
 http://cnlive.cnr.cn/hls/shanxigushiguangbo.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山西经济广播
+#EXTINF:-1 group-title="中国之声 ",山西经济广播
 http://cnlive.cnr.cn/hls/shanxijingjiguangbo.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",山西交通广播
+#EXTINF:-1 group-title="中国之声 ",山西交通广播
 http://cnlive.cnr.cn/hls/shanxijiaotongguangbo.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",江西综合新闻广播
+#EXTINF:-1 group-title="中国之声 ",江西综合新闻广播
 http://satellitepull.cnr.cn/live/wx32jiangxxwgb/playlist.m3u8
-#EXTINF:-1 group-title="中国之声,#genre#",华语金曲500首
+#EXTINF:-1 group-title="中国之声 ",华语金曲500首
 http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
-#EXTINF:-1 group-title="车载电台,#genre#",怀集音乐台
+#EXTINF:-1 group-title="车载电台 ",怀集音乐台
 http://live.xmcdn.com:80/live/966/64.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",高清音乐台
+#EXTINF:-1 group-title="车载电台 ",高清音乐台
 http://live.xmcdn.com:80/live/1427/64.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",清晨音乐台
+#EXTINF:-1 group-title="车载电台 ",清晨音乐台
 http://live.xmcdn.com:80/live/1011/64.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",老歌音乐台
+#EXTINF:-1 group-title="车载电台 ",老歌音乐台
 http://live.xmcdn.com:80/live/2628/64.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",亚洲经典音乐台
+#EXTINF:-1 group-title="车载电台 ",亚洲经典音乐台
 http://live.xmcdn.com:80/live/1005/64.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",厦门音乐广播
+#EXTINF:-1 group-title="车载电台 ",厦门音乐广播
 http://ls.qingting.fm/live/1739.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",浙江动听
+#EXTINF:-1 group-title="车载电台 ",浙江动听
 http://ls.qingting.fm/live/4866.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",四川岷江音乐广播
+#EXTINF:-1 group-title="车载电台 ",四川岷江音乐广播
 http://ls.qingting.fm/live/1110.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",北京音乐广播
+#EXTINF:-1 group-title="车载电台 ",北京音乐广播
 http://live.xmcdn.com/live/95/64.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",广东音乐广播
+#EXTINF:-1 group-title="车载电台 ",广东音乐广播
 http://ls.qingting.fm/live/1260.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",深圳缤纷 FM104.3
+#EXTINF:-1 group-title="车载电台 ",深圳缤纷 FM104.3
 http://live.xmcdn.com/live/267/64.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",深圳飞扬音乐971
+#EXTINF:-1 group-title="车载电台 ",深圳飞扬音乐971
 http://ls.qingting.fm/live/1271.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",深圳快乐1062(交通广播)
+#EXTINF:-1 group-title="车载电台 ",深圳快乐1062(交通广播)
 http://ls.qingting.fm/live/1272.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",深圳私家车广播 FM94.2
+#EXTINF:-1 group-title="车载电台 ",深圳私家车广播 FM94.2
 http://live.xmcdn.com/live/265/64.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",深圳私家车广播 FM94.2
+#EXTINF:-1 group-title="车载电台 ",深圳私家车广播 FM94.2
 http://ls.qingting.fm/live/1273.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",深圳先锋898(新闻广播)
+#EXTINF:-1 group-title="车载电台 ",深圳先锋898(新闻广播)
 http://ls.qingting.fm/live/1270.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",深圳星光 FM99.1
+#EXTINF:-1 group-title="车载电台 ",深圳星光 FM99.1
 http://ls.qingting.fm/live/28132.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",深圳青工广播
+#EXTINF:-1 group-title="车载电台 ",深圳青工广播
 http://live.xmcdn.com/live/267/64.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",北京好音乐
+#EXTINF:-1 group-title="车载电台 ",北京好音乐
 http://ls.qingting.fm/live/2131011.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",北京经典
+#EXTINF:-1 group-title="车载电台 ",北京经典
 http://live.funhillrm.com/4/sd/live.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",80后音悦台
+#EXTINF:-1 group-title="车载电台 ",80后音悦台
 http://stream3.hndt.com/now/SFZeH2cb/playlist.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",音乐-北京音乐广播
+#EXTINF:-1 group-title="车载电台 ",音乐-北京音乐广播
 http://cnlive.cnr.cn/hls/bjyygb.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",音乐-黑龙江朝语广播
+#EXTINF:-1 group-title="车载电台 ",音乐-黑龙江朝语广播
 http://satellitepull.cnr.cn/live/wx32hljcygb/playlist.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",音乐-巴彦淖尔交通广播
+#EXTINF:-1 group-title="车载电台 ",音乐-巴彦淖尔交通广播
 http://live.xmcdn.com/live/1096/64.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",音乐-湖北城市之声
+#EXTINF:-1 group-title="车载电台 ",音乐-湖北城市之声
 http://satellitepull.cnr.cn/live/wx32hubjtgb/playlist.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",潮流音悦台
+#EXTINF:-1 group-title="车载电台 ",潮流音悦台
 http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",动感音悦台
+#EXTINF:-1 group-title="车载电台 ",动感音悦台
 http://stream3.hndt.com/now/ufjjbZxV/playlist.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",格莱美音乐台
+#EXTINF:-1 group-title="车载电台 ",格莱美音乐台
 http://stream3.hndt.com/now/yorSd1X2/playlist.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",国乐悠扬
+#EXTINF:-1 group-title="车载电台 ",国乐悠扬
 http://stream3.hndt.com/now/8bplFuwp/playlist.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",民谣音乐台
+#EXTINF:-1 group-title="车载电台 ",民谣音乐台
 http://stream3.hndt.com/now/DTK5qc83/playlist.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",天籁古典
+#EXTINF:-1 group-title="车载电台 ",天籁古典
 http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",天籁之音 Hi-Fi Radio
+#EXTINF:-1 group-title="车载电台 ",天籁之音 Hi-Fi Radio
 http://play-radio-stream3.hndt.com/now/JxkyN5mR/playlist.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",天籁之音-国风
+#EXTINF:-1 group-title="车载电台 ",天籁之音-国风
 http://play-radio-stream3.hndt.com/now/UzPxbRaT/playlist.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",天籁之音-经典正流行
+#EXTINF:-1 group-title="车载电台 ",天籁之音-经典正流行
 http://play-radio-stream3.hndt.com/now/WUBA5hW2/playlist.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",cnr经典音乐
+#EXTINF:-1 group-title="车载电台 ",cnr经典音乐
 http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-#EXTINF:-1 group-title="车载电台,#genre#",湖南音乐之声·芒果音乐台
+#EXTINF:-1 group-title="车载电台 ",湖南音乐之声·芒果音乐台
 http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2
