@@ -1038,9 +1038,9 @@ http://cdn6.bkpcp.top/tl/tuiliu.php?id=jlws
 #EXTINF:-1 group-title="央卫高码",黑龙江视
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=hljws
 
-#EXTINF:-1 group-title="其他,#genre#",CEC汉语文化
+#EXTINF:-1 group-title="其他",CEC汉语文化
 http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
-#EXTINF:-1 group-title="其他,#genre#",CEC国际旅游
+#EXTINF:-1 group-title="其他",CEC国际旅游
 http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
 #EXTINF:-1 group-title="其他",CEC国际教育
 http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
@@ -1050,30 +1050,10 @@ http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 #EXTINF:-1 group-title="其他",浙江卫视4K
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
-#EXTINF:-1 group-title="其他",东方卫视
-http://183.215.134.239:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 group-title="其他",北京卫视
-http://183.215.134.239:19901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="其他",河南卫视
 http://1.94.31.214/php/hntv.php?id=hnws
-#EXTINF:-1 group-title="其他",海峡卫视
-http://8.138.7.223/tv/hxws.m3u8
 
-#EXTINF:-1 group-title="港澳台-备用",NOW新闻台
-https://cdn.163189.xyz/163189/now
-#EXTINF:-1 group-title="港澳台-备用",NOW新闻台
-https://yang-1989.eu.org/live/now-332
-#EXTINF:-1 group-title="港澳台-备用",NOW财经台
-https://yang-1989.eu.org/live/now-333
-#EXTINF:-1 group-title="港澳台-备用",VIUTV
-https://yang-1989.eu.org/live/ViuTV
-#EXTINF:-1 group-title="港澳台-备用",VIUTV
-https://cdn.163189.xyz/163189/viu
-#EXTINF:-1 group-title="港澳台-备用",VIUTV
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 
-#EXTINF:-1 group-title="港澳台-备用",VIUTVsix
-https://yang-1989.eu.org/live/ViuTVsix
 #EXTINF:-1 group-title="港澳台-备用",ELEVEN体育1
 rtmp://f13h.mine.nu/sat/tv731
 #EXTINF:-1 group-title="港澳台-备用",ELEVEN体育2
@@ -1201,8 +1181,6 @@ http://r.jdshipin.com/LiYdg
 http://116.77.33.98:44330/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0$深圳天威
 #EXTINF:-1 group-title="体育-其他",山东体育
 http://nw.jiayinkeji.xin/migunew/gtqilu.php?id=typd
-#EXTINF:-1 group-title="体育-其他",欧美体育
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 #EXTINF:-1 group-title="体育-其他",红牛运动
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 group-title="体育-其他",红牛运动
@@ -2928,7 +2906,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8$订阅�
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 #EXTINF:-1 group-title="体育台-其他",NBA
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/136
-#EXTINF:-1 group-title="4K频道,#genre#",苏州4K
+#EXTINF:-1 group-title="4K频道",苏州4K
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="4K频道",河北4k
 https://event.pull.hebtv.com:443/live/live101.m3u8
@@ -2942,8 +2920,6 @@ http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_de
 http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/228/stream.m3u8
 #EXTINF:-1 group-title="4K频道",FashionTV
 https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
-#EXTINF:-1 group-title="国内影视,#genre#",斗鱼三
-http://tc-tct.douyucdn2.cn/dyliveflv1/85894rmovieChow_2000.flv?wsAuth=7d054e041804e80af8aa7e975e2d8573&token=cpn-androidmpro-0-85894-a3575d938a4aa309c687f5fb85a1009fc65cfbeeb2672310&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=pla
 #EXTINF:-1 group-title="国内影视",南宁影视娱乐
 http://hls.nntv.cn/nnlive/YSYL_244.m3u8
 #EXTINF:-1 group-title="国内影视",末日电影合集
@@ -2956,7 +2932,7 @@ http://m.061899.xyz/mg/jtyy
 http://m.061899.xyz/mg/dzdy
 #EXTINF:-1 group-title="国内影视",CHC影迷电影
 http://m.061899.xyz/mg/ymdy
-#EXTINF:-1 group-title="数字频道,#genre#",家庭剧场
+#EXTINF:-1 group-title="数字频道",家庭剧场
 http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_877_720P_t10/c54_fast_877_720P_t10.m3u8?d
 #EXTINF:-1 group-title="数字频道",都市生活
 http://bscloudcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_878_720P_t10/c56_fast_878_720P_t10.m3u8?d
