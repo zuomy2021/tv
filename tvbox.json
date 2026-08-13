@@ -1,0 +1,34 @@
+//此多仓接口列表为抖音搜索【苏oo】粉丝提供便利整理而成，如有冒犯各位接口所属大神，请联系删除。
+//转载请注明出处
+{
+  "urls": [
+    {
+      "url": "https://www.ls660.com/TV/fantanyingtv.json",
+      "name": "叙白饭太硬支持弹幕"
+    },
+    {
+      "url": "https://www.ls660.com/TV/wangxiaoer.json",
+      "name": "叙白王二小支持弹幕"
+    },
+    {
+      "url": "https://www.ls660.com/TV/zhuangge.json",
+      "name": "叙白讴歌支持弹幕"
+    },
+    {
+      "url": "https://www.ls660.com/TV/feimao.json",
+      "name": "叙白肥猫支持弹幕"
+    },
+    {
+      "url": "https://www.ls660.com/TV/chabeihu.json",
+      "name": "叙白茶杯狐支持弹幕"
+    },
+    {
+      "url": "https://g.3344550.xyz/https://raw.githubusercontent.com/SCXSVIP/TV/main/01.txt",
+      "name": "潇洒线路"
+    },
+    {
+      "url": "https://tv.菜妮丝.top",
+      "name": "菜妮丝线路"
+    }
+  ]
+}
