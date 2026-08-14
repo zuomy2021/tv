@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e1.xml.gz"
 #EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-logo="https://live.fanmingming.com/tv/晴彩广场舞「移动」.png" group-title="赛事咪咕",晴彩广场舞「移动」
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="晴彩广场舞「移动」" tvg-logo="https://live.fanmingming.com/tv/晴彩广场舞「移动」.png" group-title="赛事咪咕",晴彩广场舞「移动」
