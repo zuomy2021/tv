@@ -31,4 +31,12 @@
       "name": "菜妮丝线路"
     }
   ]
+    "lives": [
+    {
+      "name": "333直播",
+      "url": "https://gh-proxy.com/github.com/zuomy2021/tv/blob/main/333.m3u",
+      "epg": "https://s.102031.xyz/xml/a1999882e1.xml/?ch={name}&date={date}",
+      "logo": "https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/{name}.png"
+    }
+  ]
 }
