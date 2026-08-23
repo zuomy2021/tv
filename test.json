@@ -1,0 +1,11 @@
+{
+  "lives": [
+    {
+      "name": "Test EPG",
+      "type": 3,
+      "url": "https://gh-proxy.com/github.com/zuomy2021/tv/blob/main/333.m3u",
+      "epg": "http://diyp.fans/diyp/epg.php",
+      "playerType": 2
+    }
+  ]
+}
