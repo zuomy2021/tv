@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e1.xml.gz"
+#EXTM3U x-tvg-url="epg.zsdc.eu.org/t.xml.gz"
 #EXTINF:-1 tvg-name="晴彩广场舞 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/晴彩广场舞 .png" group-title="赛事咪咕",晴彩广场舞 
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011523/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011523&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="晴彩广场舞 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/晴彩广场舞 .png" group-title="赛事咪咕",晴彩广场舞 
@@ -43,47 +43,47 @@ http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000001000031494/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000031494&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="咪咕直播 11 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 11 .png" group-title="赛事咪咕",咪咕直播 11 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000000097/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000000097&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕直播 𝟙𝟚 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟙𝟚 .png" group-title="赛事咪咕",咪咕直播 𝟙𝟚 
+#EXTINF:-1 tvg-name="咪咕直播 12� " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟙𝟚 .png" group-title="赛事咪咕",咪咕直播 12 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000002019/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002019&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕直播 𝟙𝟛 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟙𝟛 .png" group-title="赛事咪咕",咪咕直播 𝟙𝟛 
+#EXTINF:-1 tvg-name="咪咕直播 13 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟙𝟛 .png" group-title="赛事咪咕",咪咕直播 13 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000002809/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000002809&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕直播 𝟙𝟜 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟙𝟜 .png" group-title="赛事咪咕",咪咕直播 𝟙𝟜 
+#EXTINF:-1 tvg-name="咪咕直播 14� " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟙𝟜 .png" group-title="赛事咪咕",咪咕直播 14 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000003915/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000003915&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕直播 𝟙𝟝 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟙𝟝 .png" group-title="赛事咪咕",咪咕直播 𝟙𝟝 
+#EXTINF:-1 tvg-name="咪咕直播 15� " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟙𝟝 .png" group-title="赛事咪咕",咪咕直播 15 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000004193/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000004193&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕直播 𝟙𝟞 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟙𝟞 .png" group-title="赛事咪咕",咪咕直播 𝟙𝟞 
+#EXTINF:-1 tvg-name="咪咕直播 16 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟙𝟞 .png" group-title="赛事咪咕",咪咕直播 16 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000005837/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005837&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕直播 𝟙𝟟 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟙𝟟 .png" group-title="赛事咪咕",咪咕直播 𝟙𝟟 
+#EXTINF:-1 tvg-name="咪咕直播 17 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟙𝟟 .png" group-title="赛事咪咕",咪咕直播 17� 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000006077/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006077&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕直播 𝟙𝟠 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟙𝟠 .png" group-title="赛事咪咕",咪咕直播 𝟙𝟠 
+#EXTINF:-1 tvg-name="咪咕直播 18� " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟙𝟠 .png" group-title="赛事咪咕",咪咕直播 18 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000006658/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000006658&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕直播 𝟙𝟡 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟙𝟡 .png" group-title="赛事咪咕",咪咕直播 𝟙𝟡 
+#EXTINF:-1 tvg-name="咪咕直播 19� " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟙𝟡 .png" group-title="赛事咪咕",咪咕直播 19� 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000009788/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000009788&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕直播 𝟚𝟘 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟚𝟘 .png" group-title="赛事咪咕",咪咕直播 𝟚𝟘 
+#EXTINF:-1 tvg-name="咪咕直播 20 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟚𝟘 .png" group-title="赛事咪咕",咪咕直播 20� 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000010833/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000010833&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕直播 𝟚𝟙 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟚𝟙 .png" group-title="赛事咪咕",咪咕直播 𝟚𝟙 
+#EXTINF:-1 tvg-name="咪咕直播 21 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟚𝟙 .png" group-title="赛事咪咕",咪咕直播 21 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000011297/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011297&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕直播 𝟚𝟚 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟚𝟚 .png" group-title="赛事咪咕",咪咕直播 𝟚𝟚 
+#EXTINF:-1 tvg-name="咪咕直播 22 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟚𝟚 .png" group-title="赛事咪咕",咪咕直播 22 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000011518/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000011518&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕直播 𝟚𝟛 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟚𝟛 .png" group-title="赛事咪咕",咪咕直播 𝟚𝟛 
+#EXTINF:-1 tvg-name="咪咕直播 23 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟚𝟛 .png" group-title="赛事咪咕",咪咕直播 23� 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000012558/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012558&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕直播 𝟚𝟜 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟚𝟜 .png" group-title="赛事咪咕",咪咕直播 𝟚𝟜 
+#EXTINF:-1 tvg-name="咪咕直播 24 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟚𝟜 .png" group-title="赛事咪咕",咪咕直播 24� 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000012616/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000012616&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕直播 𝟚𝟝 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟚𝟝 .png" group-title="赛事咪咕",咪咕直播 𝟚𝟝 
+#EXTINF:-1 tvg-name="咪咕直播 25� " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟚𝟝 .png" group-title="赛事咪咕",咪咕直播 25� 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000015470/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015470&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕直播 𝟚𝟞 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟚𝟞 .png" group-title="赛事咪咕",咪咕直播 𝟚𝟞 
+#EXTINF:-1 tvg-name="咪咕直播 26 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟚𝟞 .png" group-title="赛事咪咕",咪咕直播 26� 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000015560/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015560&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕直播 𝟚𝟟 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟚𝟟 .png" group-title="赛事咪咕",咪咕直播 𝟚𝟟 
+#EXTINF:-1 tvg-name="咪咕直播 27� " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟚𝟟 .png" group-title="赛事咪咕",咪咕直播 27 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000017678/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000017678&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕直播 𝟚𝟠 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟚𝟠 .png" group-title="赛事咪咕",咪咕直播 𝟚𝟠 
+#EXTINF:-1 tvg-name="咪咕直播 28 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟚𝟠 .png" group-title="赛事咪咕",咪咕直播 28 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000019839/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000019839&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕直播 𝟚𝟡 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟚𝟡 .png" group-title="赛事咪咕",咪咕直播 𝟚𝟡 
+#EXTINF:-1 tvg-name="咪咕直播 29 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟚𝟡 .png" group-title="赛事咪咕",咪咕直播 29� 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000021904/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000021904&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕直播 𝟛𝟘 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟛𝟘 .png" group-title="赛事咪咕",咪咕直播 𝟛𝟘 
+#EXTINF:-1 tvg-name="咪咕直播 30 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟛𝟘 .png" group-title="赛事咪咕",咪咕直播 30� 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000023434/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000023434&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕直播 𝟛𝟙 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟛𝟙 .png" group-title="赛事咪咕",咪咕直播 𝟛𝟙 
+#EXTINF:-1 tvg-name="咪咕直播 31 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟛𝟙 .png" group-title="赛事咪咕",咪咕直播 31� 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000025380/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000025380&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕直播 𝟛𝟚 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟛𝟚 .png" group-title="赛事咪咕",咪咕直播 𝟛𝟚 
+#EXTINF:-1 tvg-name="咪咕直播 32 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 𝟛𝟚 .png" group-title="赛事咪咕",咪咕直播 32 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000027691/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000027691&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="咪咕直播 33 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 33 .png" group-title="赛事咪咕",咪咕直播 33 
 http://gslbserv.itv.cmvideo.cn:80/3000000010000031669/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000031669&livemode=1&stbId=YanG-1989
@@ -95,7 +95,7 @@ http://gslbserv.itv.cmvideo.cn:80/3000000020000011519/index.m3u8?channel-id=Fifa
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011520/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011520&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="咪咕直播 37 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播 37� .png" group-title="赛事咪咕",咪咕直播 37 
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011521/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011521&livemode=1&stbId=YanG-1989
-#EXTINF:-1 tvg-name="咪咕直播38 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播38 .png" group-title="赛事咪咕",咪咕直播38 
+#EXTINF:-1 tvg-name="咪咕直播38 " tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/咪咕直播38 .png" group-title="赛事咪咕",咪咕直播 38 
 http://gslbserv.itv.cmvideo.cn:80/3000000020000011522/index.m3u8?channel-id=FifastbLive&Contentid=3000000020000011522&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-name="赛事咪视界4k" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/赛事咪视界4k.png" group-title="赛事咪咕",赛事咪视界4k
 http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000005180&/PLTV/&$32M UHD
@@ -183,9 +183,9 @@ http://t.061899.xyz/tl/tl.php?id=zxs
 http://go.bkpcp.top/mg/cctv4o
 #EXTINF:-1 tvg-name="CCTV4美洲" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV4美洲.png" group-title=" 央视-卫视 ",CCTV4美洲
 http://go.bkpcp.top/mg/cctv4m
-#EXTINF:-1 tvg-name="CGTN西语" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CGTN西语.png" group-title=" 央视-卫视 ",CGTN西语
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CGTN西班牙语.png" group-title=" 央视-卫视 ",CGTN西班牙语
 http://go.bkpcp.top/mg/cgtne
-#EXTINF:-1 tvg-name="CGTN阿语" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CGTN阿语.png" group-title=" 央视-卫视 ",CGTN阿语
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CGTN阿拉伯语.png" group-title=" 央视-卫视 ",CGTN阿拉伯语
 http://go.bkpcp.top/mg/cgtna
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CGTN法语.png" group-title=" 央视-卫视 ",CGTN法语
 http://go.bkpcp.top/mg/cgtnf
@@ -201,7 +201,7 @@ http://go.bkpcp.top/mg/jsws
 http://go.bkpcp.top/mg/hunws
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广东卫视.png" group-title=" 央视-卫视 ",广东卫视
 http://go.bkpcp.top/mg/gdws
-#EXTINF:-1 tvg-name="深圳卫视4k" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳卫视4k.png" group-title=" 央视-卫视 ",深圳卫视4k
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳卫视4k.png" group-title=" 央视-卫视 ",深圳卫视4k
 http://go.bkpcp.top/mg/szws
 #EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/山东卫视.png" group-title=" 央视-卫视 ",山东卫视
 http://go.bkpcp.top/mg/sdws
@@ -259,7 +259,7 @@ http://t.061899.xyz/tl/tl.php?id=gzws
 http://t.061899.xyz/tl/tl.php?id=hubws
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广西卫视.png" group-title=" 央视-卫视 ",广西卫视
 http://t.061899.xyz/tl/tl.php?id=gxws
-#EXTINF:-1 tvg-name="湾区卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/湾区卫视.png" group-title=" 央视-卫视 ",湾区卫视
+#EXTINF:-1 tvg-name="大湾区卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/湾区卫视.png" group-title=" 央视-卫视 ",大湾区卫视
 http://t.061899.xyz/tl/tl.php?id=dwqws
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/云南卫视.png" group-title=" 央视-卫视 ",云南卫视
 http://t.061899.xyz/tl/tl.php?id=ynws
@@ -281,7 +281,7 @@ http://t.061899.xyz/tl/tl.php?id=xjws
 http://t.061899.xyz/tl/tl.php?id=jlws
 #EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/西藏卫视.png" group-title=" 央视-卫视 ",西藏卫视
 http://t.061899.xyz/tl/tl.php?id=xzws
-#EXTINF:-1 tvg-name="内蒙古视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/内蒙古视.png" group-title=" 央视-卫视 ",内蒙古视
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/内蒙古视.png" group-title=" 央视-卫视 ",内蒙古卫视
 http://t.061899.xyz/tl/tl.php?id=nmgws
 #EXTINF:-1 tvg-name="黑龙江视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/黑龙江视.png" group-title=" 央视-卫视 ",黑龙江视
 http://t.061899.xyz/tl/tl.php?id=hljws
@@ -537,15 +537,15 @@ http://123.175.209.162:9003/hls/23/index.m3u8
 http://183.184.48.126:9003/hls/23/index.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/东方卫视.png" group-title=" 央视-卫视 ",东方卫视
 http://113.57.140.161:10081/newlive/live/hls/29/live.m3u8
-#EXTINF:-1 tvg-name="东方卫视4K" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/东方卫视4K.png" group-title=" 央视-卫视 ",东方卫视4K
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/东方卫视4K.png" group-title=" 央视-卫视 ",东方卫视4K
 http://183.184.48.126:9003/hls/41/index.m3u8
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/云南卫视.png" group-title=" 央视-卫视 ",云南卫视
 http://222.214.208.34:59901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/云南卫视.png" group-title=" 央视-卫视 ",云南卫视
 http://182.140.125.47:808/hls/47/index.m3u8
-#EXTINF:-1 tvg-name="内蒙卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/内蒙卫视.png" group-title=" 央视-卫视 ",内蒙卫视
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/内蒙卫视.png" group-title=" 央视-卫视 ",内蒙古卫视
 http://123.175.209.162:9003/hls/38/index.m3u8
-#EXTINF:-1 tvg-name="内蒙卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/内蒙卫视.png" group-title=" 央视-卫视 ",内蒙卫视
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/内蒙卫视.png" group-title=" 央视-卫视 ",内蒙古卫视
 http://182.140.125.47:808/hls/51/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/北京卫视.png" group-title=" 央视-卫视 ",北京卫视
 http://222.214.208.34:59901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -555,7 +555,7 @@ http://182.140.125.47:808/hls/22/index.m3u8
 http://123.175.209.162:9003/hls/20/index.m3u8
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/北京卫视.png" group-title=" 央视-卫视 ",北京卫视
 http://183.184.48.126:9003/hls/18/index.m3u8
-#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/北京卫视4K.png" group-title=" 央视-卫视 ",北京卫视4K
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/北京卫视4K.png" group-title=" 央视-卫视 ",北京卫视4K
 http://183.184.48.126:9003/hls/46/index.m3u8
 #EXTINF:-1 tvg-name="厦门卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/厦门卫视.png" group-title=" 央视-卫视 ",厦门卫视
 http://113.57.140.161:10081/newlive/live/hls/28/live.m3u8
@@ -571,7 +571,7 @@ http://222.214.208.34:59901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid
 http://182.140.125.47:808/hls/18/index.m3u8
 #EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/四川卫视.png" group-title=" 央视-卫视 ",四川卫视
 http://183.184.48.126:9003/hls/38/index.m3u8
-#EXTINF:-1 tvg-name="四川卫视4K" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/四川卫视4K.png" group-title=" 央视-卫视 ",四川卫视4K
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/四川卫视4K.png" group-title=" 央视-卫视 ",四川卫视4K
 http://183.184.48.126:9003/hls/49/index.m3u8
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/天津卫视.png" group-title=" 央视-卫视 ",天津卫视
 http://222.214.208.34:59901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -623,7 +623,7 @@ http://123.175.209.162:9003/hls/26/index.m3u8
 http://183.184.48.126:9003/hls/26/index.m3u8
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广东卫视.png" group-title=" 央视-卫视 ",广东卫视
 http://113.57.140.161:10081/newlive/live/hls/34/live.m3u8
-#EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广东卫视4K.png" group-title=" 央视-卫视 ",广东卫视4K
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广东卫视4K.png" group-title=" 央视-卫视 ",广东卫视4K
 http://183.184.48.126:9003/hls/47/index.m3u8
 #EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广西卫视.png" group-title=" 央视-卫视 ",广西卫视
 http://222.214.208.34:59901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -647,7 +647,7 @@ http://123.175.209.162:9003/hls/35/index.m3u8
 http://183.184.48.126:9003/hls/35/index.m3u8
 #EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/江苏卫视.png" group-title=" 央视-卫视 ",江苏卫视
 http://113.57.140.161:10081/newlive/live/hls/31/live.m3u8
-#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/江苏卫视4K.png" group-title=" 央视-卫视 ",江苏卫视4K
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/江苏卫视4K.png" group-title=" 央视-卫视 ",江苏卫视4K
 http://183.184.48.126:9003/hls/44/index.m3u8
 #EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/江西卫视.png" group-title=" 央视-卫视 ",江西卫视
 http://222.214.208.34:59901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -681,7 +681,7 @@ http://182.140.125.47:808/hls/21/index.m3u8
 http://183.184.48.126:9003/hls/28/index.m3u8
 #EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/浙江卫视.png" group-title=" 央视-卫视 ",浙江卫视
 http://113.57.140.161:10081/newlive/live/hls/32/live.m3u8
-#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/浙江卫视4K.png" group-title=" 央视-卫视 ",浙江卫视4K
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/浙江卫视4K.png" group-title=" 央视-卫视 ",浙江卫视4K
 http://183.184.48.126:9003/hls/42/index.m3u8
 #EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/海南卫视.png" group-title=" 央视-卫视 ",海南卫视
 http://123.175.209.162:9003/hls/28/index.m3u8
@@ -697,7 +697,7 @@ http://123.175.209.162:9003/hls/43/index.m3u8
 http://183.184.48.126:9003/hls/20/index.m3u8
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳卫视.png" group-title=" 央视-卫视 ",深圳卫视
 http://113.57.140.161:10081/newlive/live/hls/37/live.m3u8
-#EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳卫视4K.png" group-title=" 央视-卫视 ",深圳卫视4K
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳卫视4K.png" group-title=" 央视-卫视 ",深圳卫视4K
 http://183.184.48.126:9003/hls/48/index.m3u8
 #EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/湖北卫视.png" group-title=" 央视-卫视 ",湖北卫视
 http://222.214.208.34:59901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -719,7 +719,7 @@ http://123.175.209.162:9003/hls/33/index.m3u8
 http://183.184.48.126:9003/hls/33/index.m3u8
 #EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/湖南卫视.png" group-title=" 央视-卫视 ",湖南卫视
 http://113.57.140.161:10081/newlive/live/hls/30/live.m3u8
-#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/湖南卫视4K.png" group-title=" 央视-卫视 ",湖南卫视4K
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/湖南卫视4K.png" group-title=" 央视-卫视 ",湖南卫视4K
 http://183.184.48.126:9003/hls/43/index.m3u8
 #EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/甘肃卫视.png" group-title=" 央视-卫视 ",甘肃卫视
 http://182.140.125.47:808/hls/56/index.m3u8
@@ -769,9 +769,9 @@ http://123.175.209.162:9003/hls/31/index.m3u8
 http://183.184.48.126:9003/hls/31/index.m3u8
 #EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/黑龙江卫视.png" group-title=" 央视-卫视 ",黑龙江卫视
 http://113.57.140.161:10081/newlive/live/hls/38/live.m3u8
-#EXTINF:-1 tvg-name="湖南卫视4K" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/湖南卫视4K.png" group-title=" 央视-卫视 ",湖南卫视4K
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/湖南卫视4K.png" group-title=" 央视-卫视 ",湖南卫视4K
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
-#EXTINF:-1 tvg-name="浙江卫视4K" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/浙江卫视4K.png" group-title=" 央视-卫视 ",浙江卫视4K
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/浙江卫视4K.png" group-title=" 央视-卫视 ",浙江卫视4K
 https://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/东方卫视.png" group-title=" 央视-卫视 ",东方卫视
 http://183.215.134.239:19901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
