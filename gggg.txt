@@ -308,7 +308,7 @@ CCTV-16,http://iptv.4666888.xyz/iptv2A.php?id=32
 青海卫视,http://iptv.4666888.xyz/iptv2A.php?id=17
 
 荔枝网页,#genre#
-CCTV1,video://https://tv.cctv.com/live/cctv1/?spm=C28340.Pi47lDigOTVF.ExidtyEJcS5K.1
+CCTV1,video://https://www.yangshipin.cn/tv/home?pid=600001859
 广东卫视4k页,video://https://www.gdtv.cn/tvChannelDetail/110
 广东4k超网页,video://https://www.gdtv.cn/tvChannelDetail/16
 广东卫视,video://https://www.gdtv.cn/tvChannelDetail/43
