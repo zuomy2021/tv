@@ -332,7 +332,7 @@ CCTV1,video://https://www.yangshipin.cn/tv/home?pid=600001859
 开平综合网页,video://https://web.guangdianyun.tv/tv/?id=1434&uin=1132
 开平生活网页,video://https://web.guangdianyun.tv/tv/?id=1435&uin=1132
 深圳卫视4K,video://https://www.sztv.com.cn/dianshi.shtml?id=24725
-深圳卫视,video://https://www.sztv.com.cn/pindao/index.html?liveld=AxeFRth
+深圳卫视,https://www.sztv.com.cn/pindao/index.html?liveld=AxeFRth
 深圳都市,video://https://www.sztv.com.cn/dianshi.shtml?id=7868
 深圳电视剧,video://https://www.sztv.com.cn/dianshi.shtml?id=7880
 深圳少儿,video://https://www.sztv.com.cn/dianshi.shtml?id=7881
