@@ -1382,6 +1382,9 @@ http://iptv.4666888.xyz/iptv2A.php?id=17
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV1.png" group-title="广东荔枝网页",CCTV1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
 video://https://www.yangshipin.cn/tv/home?pid=600001859
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV1.png" group-title="广东荔枝网页",CCTV1-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
+video://https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1
 #EXTINF:-1 tvg-name="广东卫视4k" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广东卫视4k.png" group-title="广东荔枝网页",广东卫视4k
 video://https://www.gdtv.cn/tvChannelDetail/110
 #EXTINF:-1 tvg-name="广东4k超" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广东4k超.png" group-title="广东荔枝网页",广东4k超
