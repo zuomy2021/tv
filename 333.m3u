@@ -1380,17 +1380,13 @@ http://iptv.4666888.xyz/iptv2A.php?id=10
 #EXTINF:-1 tvg-name="TVB" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/TVB.png" group-title="特闽FYtv",TVB
 http://iptv.4666888.xyz/iptv2A.php?id=17
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV1.png" group-title="广东荔枝网页",CCTV1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
 webview://https://www.yangshipin.cn/tv/home?pid=600001859
-#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV1.png" group-title="广东荔枝网页",CCTV1-1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
-webview://https://tv.cctv.com/live/cctv1/?spm=C28340.PALq7Iyxwdh3.ExidtyEJcS5K.1
 #EXTINF:-1 tvg-name="广东卫视4k" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广东卫视4k.png" group-title="广东荔枝网页",广东卫视4k
 video://https://www.gdtv.cn/tvChannelDetail/110
 #EXTINF:-1 tvg-name="广东4k超" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广东4k超.png" group-title="广东荔枝网页",广东4k超
 video://https://www.gdtv.cn/tvChannelDetail/16
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广东卫视.png" group-title="广东荔枝网页",广东卫视
-webview://https://www.gdtv.cn/tvChannelDetail/43
+video://https://www.gdtv.cn/tvChannelDetail/43
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广东珠江.png" group-title="广东荔枝网页",广东珠江
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
 video://https://www.gdtv.cn/tvChannelDetail/44
@@ -1438,6 +1434,7 @@ video://https://web.guangdianyun.tv/tv/?id=1435&uin=1132
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
 video://https://www.sztv.com.cn/dianshi.shtml?id=24725
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳卫视.png" group-title="广东荔枝网页",深圳卫视
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
 webview://https://www.sztv.com.cn/dianshi.shtml?id=7867
 #EXTINF:-1 tvg-name="深圳都市" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳都市.png" group-title="广东荔枝网页",深圳都市
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
