@@ -1398,6 +1398,9 @@ video://https://www.gdtv.cn/tvChannelDetail/44
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广东新闻.png" group-title="广东荔枝网页",广东新闻
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
 video://https://www.gdtv.cn/tvChannelDetail/45
+#EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广东新闻.png" group-title="广东荔枝网页",广东新闻1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
+video://https://m.gdtv.cn/tvChannelDetail/45
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广东民生.png" group-title="广东荔枝网页",广东民生
 video://https://www.gdtv.cn/tvChannelDetail/48
 #EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广东体育.png" group-title="广东荔枝网页",广东体育
