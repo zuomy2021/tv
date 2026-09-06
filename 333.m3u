@@ -1388,10 +1388,8 @@ video://https://www.gdtv.cn/tvChannelDetail/16
 #EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广东卫视.png" group-title="广东荔枝网页",广东卫视
 video://https://www.gdtv.cn/tvChannelDetail/43
 #EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广东珠江.png" group-title="广东荔枝网页",广东珠江
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
 video://https://www.gdtv.cn/tvChannelDetail/44
 #EXTINF:-1 tvg-name="广东新闻" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广东新闻.png" group-title="广东荔枝网页",广东新闻
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
 video://https://www.gdtv.cn/tvChannelDetail/45
 #EXTINF:-1 tvg-name="广东民生" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广东民生.png" group-title="广东荔枝网页",广东民生
 video://https://www.gdtv.cn/tvChannelDetail/48
@@ -1408,7 +1406,6 @@ video://https://www.gdtv.cn/tvChannelDetail/54
 #EXTINF:-1 tvg-name="广东戏曲" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广东戏曲.png" group-title="广东荔枝网页",广东戏曲
 video://https://www.gdtv.cn/tvChannelDetail/54
 #EXTINF:-1 tvg-name="广东移动" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广东移动.png" group-title="广东荔枝网页",广东移动
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
 video://https://www.gdtv.cn/tvChannelDetail/74
 #EXTINF:-1 tvg-name="广东经典" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广东经典.png" group-title="广东荔枝网页",广东经典
 video://https://www.gdtv.cn/tvChannelDetail/100
@@ -1431,21 +1428,26 @@ video://https://web.guangdianyun.tv/tv/?id=1435&uin=1132
 #EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳卫视4K.png" group-title="广东荔枝网页",深圳卫视4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
 video://https://www.sztv.com.cn/dianshi.shtml?id=24725
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳卫视.png" group-title="广东荔枝网页",深圳卫视1
+webview://https://www.sztv.com.cn/pindao/index.html?liveId=AxeFRth
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳卫视.png" group-title="广东荔枝网页",深圳卫视
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
-webview://https://www.sztv.com.cn/dianshi.shtml?id=7867
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳卫视.png" group-title="广东荔枝网页",深圳卫视1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
-webview://https://www.sztv.com.cn/pindao/index.html?liveId=AxeFRth
+video://https://www.sztv.com.cn/dianshi.shtml?id=7867
+#EXTINF:-1 tvg-name="深圳都市" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳都市.png" group-title="广东荔枝网页",深圳都市
+webview://https://www.sztv.com.cn/pindao/index.html?liveld=ZwxzUXr
 #EXTINF:-1 tvg-name="深圳都市" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳都市.png" group-title="广东荔枝网页",深圳都市
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
 video://https://www.sztv.com.cn/dianshi.shtml?id=7868
+#EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳电视剧.png" group-title="广东荔枝网页",深圳电视剧
+webview://https://www.sztv.com.cn/pindao/index.html?liveld=4azbkoY
 #EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳电视剧.png" group-title="广东荔枝网页",深圳电视剧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
 video://https://www.sztv.com.cn/dianshi.shtml?id=7880
 #EXTINF:-1 tvg-name="深圳少儿" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳少儿.png" group-title="广东荔枝网页",深圳少儿
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
 video://https://www.sztv.com.cn/dianshi.shtml?id=7881
+#EXTINF:-1 tvg-name="深圳移动" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳移动.png" group-title="广东荔枝网页",深圳移动
+webview://https://www.sztv.com.cn/pindao/index.html?liveld=wDF6KJ3
 #EXTINF:-1 tvg-name="深圳移动" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳移动.png" group-title="广东荔枝网页",深圳移动
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
 video://https://www.sztv.com.cn/dianshi.shtml?id=7869
@@ -1783,8 +1785,12 @@ http://hls.cntv.myhwcdn.cn/asp/hls/4000/0303000a/3/default/8edf3fb6a69148ea9a7dc
 http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8
 #EXTINF:-1 tvg-name="航拍中国第三季" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/航拍中国第三季.png" group-title="景区",航拍中国第三季
 http://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/18a8a559464448dbaf60d33913e09aea/1200.m3u8
-#EXTINF:-1 tvg-name="iPanda成都" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/iPanda成都.png" group-title="景区",iPanda成都
-http://gcalic.v.myalicdn.com/gc/ipanda_1td/index.m3u8
+#EXTINF:-1 tvg-name="重庆李子坝站" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/重庆李子坝站.png" group-title="景区",重庆李子坝站
+https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8
+#EXTINF:-1 tvg-name="广东深圳福田红树林" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广东深圳福田红树林.png" group-title="景区",广东深圳福田红树林
+https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8
+#EXTINF:-1 tvg-name="四川阿坝九寨沟" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/四川阿坝九寨沟.png" group-title="景区",四川阿坝九寨沟
+webview://https://dh5wswx02.v.cntv.cn/asp/h5e/hls/1200/0303000a/3/default/dc03fd32319640bc83e204b962423a3f/1200.m3u8
 #EXTINF:-1 tvg-name="CNR-1中国之声" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CNR-1中国之声.png" group-title="中国之声",CNR-1中国之声
 http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 #EXTINF:-1 tvg-name="CNR-2经济之声" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CNR-2经济之声.png" group-title="中国之声",CNR-2经济之声
