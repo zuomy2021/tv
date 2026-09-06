@@ -1428,18 +1428,18 @@ video://https://web.guangdianyun.tv/tv/?id=1435&uin=1132
 #EXTINF:-1 tvg-name="深圳卫视4K" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳卫视4K.png" group-title="广东荔枝网页",深圳卫视4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
 video://https://www.sztv.com.cn/dianshi.shtml?id=24725
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳卫视.png" group-title="广东荔枝网页",深圳卫视1
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳卫视.png" group-title="广东荔枝网页",深圳卫视
 webview://https://www.sztv.com.cn/pindao/index.html?liveId=AxeFRth
 #EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳卫视.png" group-title="广东荔枝网页",深圳卫视
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
 video://https://www.sztv.com.cn/dianshi.shtml?id=7867
 #EXTINF:-1 tvg-name="深圳都市" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳都市.png" group-title="广东荔枝网页",深圳都市
-webview://https://www.sztv.com.cn/pindao/index.html?liveld=ZwxzUXr
+webview://https://www.sztv.com.cn/pindao/index.html?liveId=ZwxzUXr
 #EXTINF:-1 tvg-name="深圳都市" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳都市.png" group-title="广东荔枝网页",深圳都市
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
 video://https://www.sztv.com.cn/dianshi.shtml?id=7868
 #EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳电视剧.png" group-title="广东荔枝网页",深圳电视剧
-webview://https://www.sztv.com.cn/pindao/index.html?liveld=4azbkoY
+webview://https://www.sztv.com.cn/pindao/index.html?liveId=4azbkoY
 #EXTINF:-1 tvg-name="深圳电视剧" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳电视剧.png" group-title="广东荔枝网页",深圳电视剧
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
 video://https://www.sztv.com.cn/dianshi.shtml?id=7880
@@ -1447,7 +1447,7 @@ video://https://www.sztv.com.cn/dianshi.shtml?id=7880
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
 video://https://www.sztv.com.cn/dianshi.shtml?id=7881
 #EXTINF:-1 tvg-name="深圳移动" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳移动.png" group-title="广东荔枝网页",深圳移动
-webview://https://www.sztv.com.cn/pindao/index.html?liveld=wDF6KJ3
+webview://https://www.sztv.com.cn/pindao/index.html?liveId=wDF6KJ3
 #EXTINF:-1 tvg-name="深圳移动" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/深圳移动.png" group-title="广东荔枝网页",深圳移动
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:154.0) Gecko/20100101 Firefox/154.0
 video://https://www.sztv.com.cn/dianshi.shtml?id=7869
