@@ -1381,11 +1381,13 @@ http://iptv.4666888.xyz/iptv2A.php?id=10
 http://iptv.4666888.xyz/iptv2A.php?id=17
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV1.png" group-title="广东荔枝网页",CCTV1
 webview://https://www.yangshipin.cn/tv/home?pid=600001859
-webview://https://tv.cctv.com/live/cctv1/
+webview://https://tv.cctv.com/live/cctv1/?spm=C28340.PKIUk5AmVMT8.ExidtyEJcS5K.1
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV2.png" group-title="广东荔枝网页",CCTV2
 webview://https://www.yangshipin.cn/tv/home?pid=600001800
+webview://https://tv.cctv.com/live/cctv2/?spm=C28340.P8YyNiekrjS1.ExidtyEJcS5K.2
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV3.png" group-title="广东荔枝网页",CCTV3
 webview://https://www.yangshipin.cn/tv/home?pid=600001801
+webview://https://tv.cctv.com/live/cctv3/?spm=C28340.PotG4tICJnBr.ExidtyEJcS5K.14
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV4.png" group-title="广东荔枝网页",CCTV4
 webview://https://www.yangshipin.cn/tv/home?pid=600001814
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV5.png" group-title="广东荔枝网页",CCTV5
