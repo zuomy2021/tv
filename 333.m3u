@@ -830,18 +830,6 @@ https://epg.pw/stream/de89ffbab9760cd5c7d797da58d7de3183265944cad0ba015730e13552
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-name="红牛运动" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/红牛运动.png" group-title="体育台-其他",红牛运动
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8$订阅源-1280x720
-#EXTINF:-1 tvg-name="南宁影视娱乐" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/南宁影视娱乐.png" group-title="国内影视",南宁影视娱乐
-http://hls.nntv.cn/nnlive/YSYL_244.m3u8
-#EXTINF:-1 tvg-name="末日电影合集" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/末日电影合集.png" group-title="国内影视",末日电影合集
-http://43.138.0.72:35455/yy/1354889019
-#EXTINF:-1 tvg-name="凤凰电影" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/凤凰电影.png" group-title="国内影视",凤凰电影
-http://iot-mqqt.111yao.cn:8080/live/diyp_fhdy.m3u8
-#EXTINF:-1 tvg-name="CHC家庭影院" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CHC家庭影院.png" group-title="国内影视",CHC家庭影院
-http://m.061899.xyz/mg/jtyy
-#EXTINF:-1 tvg-name="CHC动作电影" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CHC动作电影.png" group-title="国内影视",CHC动作电影
-http://m.061899.xyz/mg/dzdy
-#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CHC影迷电影.png" group-title="国内影视",CHC影迷电影
-http://m.061899.xyz/mg/ymdy
 #EXTINF:-1 tvg-name="广州综合" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广州综合.png" group-title="广东频道",广州综合
 http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8
 #EXTINF:-1 tvg-name="广州新闻" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/广州新闻.png" group-title="广东频道",广州新闻
