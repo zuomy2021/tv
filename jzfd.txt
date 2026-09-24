@@ -429,7 +429,7 @@ CCTV16,http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
 CCTV16,http://foreveryyl.top:8001/rtp/239.49.8.31:8000$RTP3
 CCTV16,http://dx.joygala.cn:8118/rtp/239.49.8.31:8000$RTP2
 CCTV16,http://38.75.136.137:98/gslb/dsdqbv/cctv16hd.m3u8?auth=test20251009
-CCTV15,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV16,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0017_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV17,http://38.75.136.137:98/gslb/dsdqbv/cctv17hd.m3u8?auth=test20251009
 CCTV17,http://120.76.248.139/live/bfgd/4200000204.m3u8
@@ -439,7 +439,7 @@ CCTV17,http://bztv.tvbus.cc:8081/cdnlive/cctv17.m3u8
 CCTV17,http://foreveryyl.top:8001/rtp/239.49.8.52:9810$RTP3
 CCTV17,http://dx.joygala.cn:8118/rtp/239.49.8.52:9810$RTP2
 CCTV17,http://204.12.221.218:8181/3m1080p/cctv17.m3u8
-CCTV15,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV17,http://gaoyitv.6600.org:9901/tsfile/live/faacts/0018_1.m3u8?key=txiptv&playlive=1&authid=0
 
 CCTV4K,http://bztv.tvbus.cc:8081/cdnlive/cctv4k.m3u8
 
