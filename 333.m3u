@@ -102,7 +102,9 @@ http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000005180&/PLTV/&$32M UH
 #EXTINF:-1 tvg-name="赛事至臻视界" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/赛事至臻视界.png" group-title="赛事咪咕",赛事至臻视界
 http://cdn6.bkpcp.top/itv/yditv.php?Contentid=3000000010000015686&/PLTV/&$32M UHD
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV1.png" group-title=" 央视-卫视 ",CCTV1
-http://gaoyitv.6600.org:9901/tsfile/live/faacts/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+http://hczn.x3322.net:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV1.png" group-title=" 央视-卫视 ",CCTV1
+http://222.85.198.92:8000/hls/1/index.m3u8
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV1.png" group-title=" 央视-卫视 ",CCTV1
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv1
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV1.png" group-title=" 央视-卫视 ",CCTV1
@@ -111,7 +113,9 @@ http://bztv.tvbus.cc:8081/cdnlive/cctv1.m3u8
 http://113.57.140.161:10081/newlive/live/hls/1/live.m3u8
 
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV2.png" group-title=" 央视-卫视 ",CCTV2
-http://gaoyitv.6600.org:9901/tsfile/live/faacts/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://hczn.x3322.net:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV2.png" group-title=" 央视-卫视 ",CCTV2
+http://222.85.198.92:8000/hls/2/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV2.png" group-title=" 央视-卫视 ",CCTV2
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv2
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV2.png" group-title=" 央视-卫视 ",CCTV2
@@ -120,7 +124,9 @@ http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
 http://113.57.140.161:10081/newlive/live/hls/2/live.m3u8
 
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV3.png" group-title=" 央视-卫视 ",CCTV3
-http://gaoyitv.6600.org:9901/tsfile/live/faacts/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+http://hczn.x3322.net:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV3.png" group-title=" 央视-卫视 ",CCTV3
+http://222.85.198.92:8000/hls/3/index.m3u8
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV3.png" group-title=" 央视-卫视 ",CCTV3
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv3
 #EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV3.png" group-title=" 央视-卫视 ",CCTV3
@@ -129,7 +135,9 @@ http://bztv.tvbus.cc:8081/cdnlive/cctv3.m3u8
 http://113.57.140.161:10081/newlive/live/hls/3/live.m3u8
 
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV4.png" group-title=" 央视-卫视 ",CCTV4
-http://gaoyitv.6600.org:9901/tsfile/live/faacts/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.85.198.92:8000/hls/4/index.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV4.png" group-title=" 央视-卫视 ",CCTV4
+CCTV4,http://dx.joygala.cn:8118/rtp/239.49.8.51:9806$RTP2
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV4.png" group-title=" 央视-卫视 ",CCTV4
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv4
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV4.png" group-title=" 央视-卫视 ",CCTV4
@@ -137,6 +145,10 @@ http://bztv.tvbus.cc:8081/cdnlive/cctv4.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV4.png" group-title=" 央视-卫视 ",CCTV4
 http://113.57.140.161:10081/newlive/live/hls/4/live.m3u8
 
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV5.png" group-title=" 央视-卫视 ",CCTV5
+http://hczn.x3322.net:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV5.png" group-title=" 央视-卫视 ",CCTV5
+http://222.85.198.92:8000/hls/5/index.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV5.png" group-title=" 央视-卫视 ",CCTV5
 http://bztv.tvbus.cc:8081/cdnlive/cctv5.m3u8
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV5.png" group-title=" 央视-卫视 ",CCTV5
@@ -147,7 +159,7 @@ http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5
 http://113.57.140.161:10081/newlive/live/hls/5/live.m3u8
 
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV5+.png" group-title=" 央视-卫视 ",CCTV5+
-http://gaoyitv.6600.org:9901/tsfile/live/faacts/0016_1.m3u8?key=txiptv&playlive=1&authid=0  
+http://dx.joygala.cn:8118/rtp/239.49.8.18:9610$RTP2
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV5+.png" group-title=" 央视-卫视 ",CCTV5+
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv5p
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV5+.png" group-title=" 央视-卫视 ",CCTV5+
@@ -155,6 +167,8 @@ http://bztv.tvbus.cc:8081/cdnlive/cctv5p.m3u8
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV5+.png" group-title=" 央视-卫视 ",CCTV5+
 http://113.57.140.161:10081/newlive/live/hls/18/live.m3u8
 
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV6.png" group-title=" 央视-卫视 ",CCTV6
+http://hczn.x3322.net:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV6.png" group-title=" 央视-卫视 ",CCTV6
 http://bztv.tvbus.cc:8081/cdnlive/cctv6.m3u8
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV6.png" group-title=" 央视-卫视 ",CCTV6
@@ -165,6 +179,8 @@ http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv6
 http://113.57.140.161:10081/newlive/live/hls/6/live.m3u8
 
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV7.png" group-title=" 央视-卫视 ",CCTV7
+http://222.85.198.92:8000/hls/7/index.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV7.png" group-title=" 央视-卫视 ",CCTV7
 http://bztv.tvbus.cc:8081/cdnlive/cctv7.m3u8
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV7.png" group-title=" 央视-卫视 ",CCTV7
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv7
@@ -174,7 +190,9 @@ http://gaoyitv.6600.org:9901/tsfile/live/faacts/0007_1.m3u8?key=txiptv&playlive=
 http://113.57.140.161:10081/newlive/live/hls/7/live.m3u8
 
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV8.png" group-title=" 央视-卫视 ",CCTV8
-http://gaoyitv.6600.org:9901/tsfile/live/faacts/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+http://222.85.198.92:8000/hls/8/index.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV8.png" group-title=" 央视-卫视 ",CCTV8
+http://dx.joygala.cn:8118/rtp/239.49.8.77:8000$RTP2
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV8.png" group-title=" 央视-卫视 ",CCTV8
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV8.png" group-title=" 央视-卫视 ",CCTV8
@@ -182,6 +200,8 @@ http://bztv.tvbus.cc:8081/cdnlive/cctv8.m3u8
 #EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV8.png" group-title=" 央视-卫视 ",CCTV8
 http://113.57.140.161:10081/newlive/live/hls/8/live.m3u8
 
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV9.png" group-title=" 央视-卫视 ",CCTV9
+http://dx.joygala.cn:8118/rtp/239.49.8.53:9814$RTP2
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV9.png" group-title=" 央视-卫视 ",CCTV9
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv9
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV9.png" group-title=" 央视-卫视 ",CCTV9
@@ -192,14 +212,20 @@ http://gaoyitv.6600.org:9901/tsfile/live/faacts/0009_1.m3u8?key=txiptv&playlive=
 http://113.57.140.161:10081/newlive/live/hls/9/live.m3u8
 
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV10.png" group-title=" 央视-卫视 ",CCTV10
+http://dx.joygala.cn:8118/rtp/239.49.8.54:9818$RTP2
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV10.png" group-title=" 央视-卫视 ",CCTV10
+http://222.85.198.92:8000/hls/9/index.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV10.png" group-title=" 央视-卫视 ",CCTV10
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv10
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV10.png" group-title=" 央视-卫视 ",CCTV10
 http://bztv.tvbus.cc:8081/cdnlive/cctv10.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV10.png" group-title=" 央视-卫视 ",CCTV10
-http://gaoyitv.6600.org:9901/tsfile/live/faacts/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+http://foreveryyl.top:8001/rtp/239.49.8.54:9818$RTP3
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV10.png" group-title=" 央视-卫视 ",CCTV10
 http://113.57.140.161:10081/newlive/live/hls/10/live.m3u8
 
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV11.png" group-title=" 央视-卫视 ",CCTV11
+http://222.85.198.92:8000/hls/10/index.m3u8
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV11.png" group-title=" 央视-卫视 ",CCTV11
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv11
 #EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV11.png" group-title=" 央视-卫视 ",CCTV11
@@ -208,12 +234,16 @@ http://bztv.tvbus.cc:8081/cdnlive/cctv11.m3u8
 http://113.57.140.161:10081/newlive/live/hls/11/live.m3u8
 
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV12.png" group-title=" 央视-卫视 ",CCTV12
+http://222.85.198.92:8000/hls/11/index.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV12.png" group-title=" 央视-卫视 ",CCTV12
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv12
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV12.png" group-title=" 央视-卫视 ",CCTV12
 http://bztv.tvbus.cc:8081/cdnlive/cctv12.m3u8
 #EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV12.png" group-title=" 央视-卫视 ",CCTV12
 http://113.57.140.161:10081/newlive/live/hls/12/live.m3u8
 
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV13.png" group-title=" 央视-卫视 ",CCTV13
+http://222.85.198.92:8000/hls/12/index.m3u8
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV13.png" group-title=" 央视-卫视 ",CCTV13
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv13
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV13.png" group-title=" 央视-卫视 ",CCTV13
@@ -222,12 +252,16 @@ http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
 http://113.57.140.161:10081/newlive/live/hls/13/live.m3u8
 
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV14.png" group-title=" 央视-卫视 ",CCTV14
+http://222.85.198.92:8000/hls/13/index.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV14.png" group-title=" 央视-卫视 ",CCTV14
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv14
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV14.png" group-title=" 央视-卫视 ",CCTV14
 http://bztv.tvbus.cc:8081/cdnlive/cctv14.m3u8
 #EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV14.png" group-title=" 央视-卫视 ",CCTV14
 http://113.57.140.161:10081/newlive/live/hls/14/live.m3u8
 
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV15.png" group-title=" 央视-卫视 ",CCTV15
+http://222.85.198.92:8000/hls/14/index.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV15.png" group-title=" 央视-卫视 ",CCTV15
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv15
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV15.png" group-title=" 央视-卫视 ",CCTV15
@@ -236,6 +270,8 @@ http://bztv.tvbus.cc:8081/cdnlive/cctv15.m3u8
 http://113.57.140.161:10081/newlive/live/hls/15/live.m3u8
 
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV16.png" group-title=" 央视-卫视 ",CCTV16
+http://204.12.221.218:8181/3m1080p/cctv16.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV16.png" group-title=" 央视-卫视 ",CCTV16
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV16.png" group-title=" 央视-卫视 ",CCTV16
 http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
@@ -243,11 +279,14 @@ http://bztv.tvbus.cc:8081/cdnlive/cctv16.m3u8
 http://113.57.140.161:10081/newlive/live/hls/16/live.m3u8
 
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV17.png" group-title=" 央视-卫视 ",CCTV17
+http://222.85.198.92:8000/hls/15/index.m3u8
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV17.png" group-title=" 央视-卫视 ",CCTV17
 http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv17
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV17.png" group-title=" 央视-卫视 ",CCTV17
 http://bztv.tvbus.cc:8081/cdnlive/cctv17.m3u8
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV17.png" group-title=" 央视-卫视 ",CCTV17
-http://gaoyitv.6600.org:9901/tsfile/live/faacts/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV17.png" group-title=" 央视-卫视 ",CCTV17
+http://dx.joygala.cn:8118/rtp/239.49.8.52:9810$RTP2
 
 #EXTINF:-1 tvg-name="CCTV风云足球" tvg-logo="https://gh-proxy.com/github.com/fanmingming/live/blob/main/tv/CCTV风云足球.png" group-title="其他",CCTV风云足球
 http://113.57.140.161:10081/newlive/live/hls/21/live.m3u8
